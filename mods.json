@@ -1,0 +1,14 @@
+{
+  "mods": [
+    {
+      "name": "eg_mirage",
+      "description": "cool map",
+      "fileUrl": "https://raw.githubusercontent.com/dani1701d/newode-workshop-mods/refs/heads/main/maps/eg_mirage.eggodemap"
+    },
+    {
+      "name": "eg_rampland",
+      "description": "same",
+      "fileUrl": "https://raw.githubusercontent.com/dani1701d/newode-workshop-mods/refs/heads/main/maps/eg_rampland.eggodemap"
+    }
+  ]
+}

@@ -4,21 +4,21 @@
       "name": "eg_mirage",
       "type": "map",
       "author": "Danoka",
-      "description": "Переделанная карта de_mirage из CS2.",
+      "description": "Переделанная карта de_mirage из CS2",
       "fileUrl": "https://raw.githubusercontent.com/dani1701d/newode-workshop-mods/refs/heads/main/maps/eg_mirage.eggodemap"
     },
     {
       "name": "eg_rampland",
       "type": "map",
       "author": "Danoka",
-      "description": "Тренировка своих навыков в мувменте, в частности на наклонных поверхностях.",
+      "description": "Тренировка своих навыков в мувменте, в частности на наклонных поверхностях",
       "fileUrl": "https://raw.githubusercontent.com/dani1701d/newode-workshop-mods/refs/heads/main/maps/eg_rampland.eggodemap"
     },
     {
       "name": "eg_rampland_v2",
       "type": "map",
       "author": "Danoka",
-      "description": "Вторая часть карты, то же самое.",
+      "description": "Вторая часть карты, то же самое",
       "fileUrl": "https://raw.githubusercontent.com/dani1701d/newode-workshop-mods/refs/heads/main/maps/eg_rampland_v2.eggodemap"
     },
     {
@@ -27,6 +27,133 @@
       "author": "Danoka",
       "description": "Третья часть карты, то же самое",
       "fileUrl": "https://raw.githubusercontent.com/dani1701d/newode-workshop-mods/refs/heads/main/maps/eg_rampland_v3.eggodemap"
+    },
+    {
+      "name": "eg_roblox",
+      "type": "map",
+      "author": "Danoka",
+      "description": "Тупая переделка Роблокса на Яйцеоды",
+      "fileUrl": "https://raw.githubusercontent.com/dani1701d/newode-workshop-mods/refs/heads/main/maps/eg_roblox.eggodemap"
+    },
+    {
+      "name": "DuelsMap",
+      "type": "map",
+      "author": "Danoka",
+      "description": "Карта с типа новым режимом на нодах, но недоделанным",
+      "fileUrl": "https://raw.githubusercontent.com/dani1701d/newode-workshop-mods/refs/heads/main/maps/DuelsMap.eggodemap"
+    },
+    {
+      "name": "хорор но за 2 сускоина",
+      "type": "map",
+      "author": "подхлебник",
+      "description": "Какой-то хоррорец",
+      "fileUrl": "https://raw.githubusercontent.com/dani1701d/newode-workshop-mods/refs/heads/main/maps/2suscoins.eggodemap"
+    },
+    {
+      "name": "ClassicMap",
+      "type": "map",
+      "author": "EpicSUS",
+      "description": "Классическая карта",
+      "fileUrl": "https://raw.githubusercontent.com/dani1701d/newode-workshop-mods/refs/heads/main/maps/ClassicMap.eggodemap"
+    },
+    {
+      "name": "Crazy Sosed",
+      "type": "map",
+      "author": "matvey.mayner",
+      "description": "Карта, где ты убегаешь от утырка с ии",
+      "fileUrl": "https://raw.githubusercontent.com/dani1701d/newode-workshop-mods/refs/heads/main/maps/Crazy Sosed.eggodemap"
+    },
+    
+    {
+      "name": "EggStrike Realise",
+      "type": "map",
+      "author": "Snus",
+      "description": "Собственно говоря, обычный EggStrike",
+      "fileUrl": "https://raw.githubusercontent.com/dani1701d/newode-workshop-mods/refs/heads/main/maps/EggStrike Realise.eggodemap"
+    },
+    {
+      "name": "Eggode64",
+      "type": "map",
+      "author": "Yarik21YT",
+      "description": "Карта, вдохновлённая игрой Super Mario 64",
+      "fileUrl": "https://raw.githubusercontent.com/dani1701d/newode-workshop-mods/refs/heads/main/maps/Eggode64.eggodemap"
+    },
+    {
+      "name": "EggodeAtWar",
+      "type": "map",
+      "author": "МемЯйцо",
+      "description": "Карта-стрелялка, слегка напоминает TF2",
+      "fileUrl": "https://raw.githubusercontent.com/dani1701d/newode-workshop-mods/refs/heads/main/maps/EggodeAtWar.eggodemap"
+    },
+    {
+      "name": "EggRooms1.4",
+      "type": "map",
+      "author": "super snus",
+      "description": "Backrooms, но в Яйцеодах",
+      "fileUrl": "https://raw.githubusercontent.com/dani1701d/newode-workshop-mods/refs/heads/main/maps/Eggrooms.eggodemap"
+    },
+    {
+      "name": "кирпичное поле 2.2.5",
+      "type": "map",
+      "author": "Em studio",
+      "description": "Собственно говоря, обычное Кирпичное поле",
+      "fileUrl": "https://raw.githubusercontent.com/dani1701d/newode-workshop-mods/refs/heads/main/maps/KPole.eggodemap"
+    },
+    {
+      "name": "Parkour in the world of MINECRAFT123",
+      "type": "map",
+      "author": "Kapusta123",
+      "description": "Паркур в стиле Майнкрафта",
+      "fileUrl": "https://raw.githubusercontent.com/dani1701d/newode-workshop-mods/refs/heads/main/maps/Parkour.eggodemap"
+    },
+    {
+      "name": "PromGorodok",
+      "type": "map",
+      "author": "Danoka",
+      "description": "Карта с реалистичными зданиями",
+      "fileUrl": "https://raw.githubusercontent.com/dani1701d/newode-workshop-mods/refs/heads/main/maps/PromGorodok.eggodemap"
+    },
+    {
+      "name": "dm-eggtown",
+      "type": "map",
+      "author": "МемЯйцо",
+      "description": "Карта-стрелялка забавная",
+      "fileUrl": "https://raw.githubusercontent.com/dani1701d/newode-workshop-mods/refs/heads/main/maps/dm-eggtown.eggodemap"
+    },
+    {
+      "name": "Башня Фуфелшмертца",
+      "type": "map",
+      "author": "Rasbur",
+      "description": "Башня из мультсериала 'Финес и Ферб', в которую можно зайти",
+      "fileUrl": "https://raw.githubusercontent.com/dani1701d/newode-workshop-mods/refs/heads/main/maps/Башня Фуфелшмертца.eggodemap"
+    },
+    {
+      "name": "Старый замок",
+      "type": "map",
+      "author": "EpicSUS",
+      "description": "Старый замок с ловушкам",
+      "fileUrl": "https://raw.githubusercontent.com/dani1701d/newode-workshop-mods/refs/heads/main/maps/Старый замок.eggodemap"
+    },
+    {
+      "name": "Developer Toolset",
+      "type": "mod",
+      "author": "Mongabox",
+      "description": "Добавляет инструменты для разработки модификаций.",
+      "fileUrl": "https://raw.githubusercontent.com/dani1701d/newode-workshop-mods/refs/heads/main/mods/DeveloperToolset.zip"
+    },
+    {
+      "name": "EditorAssets",
+      "type": "mod",
+      "author": "Rasbur",
+      "description": "Возвращает те самые модельки, которые раньше были на сайте. Автор модельки sdsdds и model - EpicSUS, teapot - Yarik21YT, а все остальные - Rasbur (Я)",
+      "fileUrl": "https://raw.githubusercontent.com/dani1701d/newode-workshop-mods/refs/heads/main/mods/EditorAssets.zip"
+    },
+    {
+      "name": "NoclipMod",
+      "type": "mod",
+      "author": "Mongabox",
+      "description": "Мод, который позволяет вашему яйцу летать на V.",
+      "fileUrl": "https://raw.githubusercontent.com/dani1701d/newode-workshop-mods/refs/heads/main/mods/NoclipMod.zip"
     }
   ]
 }

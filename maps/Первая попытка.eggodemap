@@ -1,0 +1,63 @@
+{
+    "mapname": "Первая попытка",
+    "author": "МемЯйцо",
+    "icon": "",
+    "skybox": "0",
+    "diecord": "​",
+    "uron": true,
+    "canSpawnObj": true,
+    "canDellObj": true,
+    "survival": false,
+    "modsDependence": [],
+    "textures": [],
+    "objects": [
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -4.9157586097717289,
+                "y": 2.1109490394592287,
+                "z": -0.1572439968585968
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.004660606384277344,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://habrastorage.org/getpro/moikrug/uploads/company/547/526/299/logo/medium_f5152dd0b3edfd6d1e46a99cde6e1400.jpeg",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        }
+    ],
+    "npc": []
+}

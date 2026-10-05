@@ -1,0 +1,439 @@
+{
+    "mapname": "Моя карта",
+    "author": "Danoka",
+    "icon": "",
+    "skybox": "0",
+    "diecord": "​​​",
+    "uron": true,
+    "canSpawnObj": true,
+    "canDellObj": true,
+    "survival": false,
+    "modsDependence": [],
+    "textures": [],
+    "objects": [
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 0.023060260340571405,
+                "y": 2.0,
+                "z": 5.364202976226807
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 6.696202278137207,
+                "y": 3.5592217445373537,
+                "z": -0.06534481048583985
+            },
+            "color": {
+                "r": 1.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "",
+            "textureTile": "1",
+            "type": 1,
+            "TpCord": "-1,57,-5",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/EpicSUStxt",
+            "position": {
+                "x": 0.0,
+                "y": 2.2101056575775148,
+                "z": 5.291658878326416
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.2656176686286926,
+                "y": 0.2158542275428772,
+                "z": 1.0
+            },
+            "color": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "",
+            "textureTile": "1",
+            "type": 1,
+            "TpCord": "-1,57,-5",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": " Телепорт в мир роблокса",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 3.165757894515991,
+                "y": 54.0,
+                "z": -2.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 124.9400634765625,
+                "y": 0.4168701171875,
+                "z": 83.69512176513672
+            },
+            "color": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxMSEhUTExMVFhUXGRgXGBgYFx0dGhcaGxoaGxoeGhgeICghICAlGxsdIjEiJSkrLi4uGh8zODMsNygtLisBCgoKDg0OGhAQGy8lHyUtLS0tLS0tLS8tLS01LS0tLy0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLf/AABEIAOEA4QMBIgACEQEDEQH/xAAaAAADAQEBAQAAAAAAAAAAAAACAwQAAQUG/8QARBABAAIBAwMDAgMEBggEBgMAAQIRIQMSMQBBUQQiYTJxE4GRQlKhsRRicrLB0QUVM1OCkpPwI8LS4TRzg6Oz4kNj0//EABkBAQEBAQEBAAAAAAAAAAAAAAABAgMEBv/EACcRAQEBAAICAgEDBAMAAAAAAAABESExQVECYXESgfADIjKhM0KR/9oADAMBAAIRAxEAPwBjplb9u2QMmzIYKrbzaVQW1z0Wnqe0/wBqYLhTGaiXKQIZXxxJlw5l9JMIyVrzLDnzubFMY+XGc2hGYE5NDGW2IRig3lDEtyfpiuvn7w8+lT1JRZVEjPHHGCv2e2awePHW1JkaJR1Lfct7W+8v3u/LzhrrMojScIvvlwf2rituXhv80TVg76lHe7imigwNitmeEPz4maB0dfThK63RnRKW4O5d5vORwfwpLW1Qsktssey1jiqSnxh+/fPPw6drqG3mo6ikjsOG74ovmi+u+m/DjJ+qWcsbw4o/eut1ZM/PV8B3pdNy3cvCp2oqxrtkvnrR1r3M5MaLtXB3w5j978vx0zWjIutyXiobgfux5rvh5ydBH1pgiNjTGy8A1i7rx45yZxlom0IxJSe9XLa0IIlPervJ3zzmveb/AGnvL71sxkKFajdPn7ZTcQZapIlz7v2X9mII964e9veh9NE1JWHyxyxat7h3y1jA289al9g9fUtCFLLNSbt5Y7roPIW/fp0tQiLEKiC39Q3SXkrNVfe/Fqhr/hXsAVcUFeaJGDC0+XnuGrOHefuO8oiXyWzpSxzjnGSyZAifr7uUtrL9lAz8bkH7/bv1RH1liNhbcazMbEv8mqCq/Po9PUpdOc9Rtv3WlA4tK5D+PbmV1CjMYyzwojwUU8hX2q/nWT0O+jYu2QxMxFg/skXP9aLtkL832vpmnBIzCd6dyNqXtBMgt3kRx5yPXPT6d3wam4M3a8mefzv754zqjJKbicrXYG6PMfnt4Hpb6HNHTAYzWQra3Ey918SzxjHXPVaHsItxJCCu5zikeTNZQ81fToamjrQyDdtypRvkWO6PLZXZu7646LGEIu72ySuZRyRLo4s7FYOOwBqXaxxdt7LEUy7ruqaT5zjpQSqtsVGmJw+K5q6rxmvjqoVIlbh73aYXu7m8og9bRvBJoQiSbpu7FvkTOHs54JaJZywAN7TnF1xkpausvzl6pdJk1G4kTI9ywlRkrnzfUr6oGme4HOK/weX4A8VxjamFN3uGIg8nDe1+/fzXWvsFrmAlW2OJC2XF7c/e+Mfl1VP1FwrfhtLk0ZxmreDOee19Rx1CUvc1V3Eajtrv2HHNnHx1j1Wk1IAqg2yzJ8tRuJnkQ9z1LEcnAbZEjUO8bXPLLdivv/j1zRRnxmlSUW07ncfNl1xXddq7+QkN+20GJkq+LvwNj+pOnvLksZcxlGRdlnaI+L/Pqy5MqFOqbRju2ljEGKF288d3vyvjpvptMhElGtymLEvBRe0bplinMvt0n0mltlduVpCMWwGV9kayeQvv13W0DU+qTujiN9xeBjLk485OcdOJwo/9ZS/3b/zz/wA+t0n+gT/dl+r1upnx9ip9WPKcNlF0Wjur83GM/HRR19NS+DN4sos9ym0xVVXm8dRT090szgxwRgVtEvmwvJ9rvqiOmkWnUEwbEowWlCA91yZyGVfjBXthqxuU5FrmN3I+pH7eC8XXXny0NGf7RYyjihZWULQXz2Fu669LR9UwrRlCQzh3luzQFeLq6uufzl0/RRjUTa2JtgfWYKbaab578VjqbgfPT091boyzHEpcEXm7C93a+/Dg6GTElJK7vEvjiS0c1yj+fXZzJj7fwyNFBa/1qipxi/C8916npN5ujAMmROO1LVXf889RTfwGTZre3JtsC8qyWqqzD/Vc8dS+q1pRuoxkr9MkwXmR5bvjvXQSZRdppqDtikt29MKnF8nnL9mmMy325IkhlXYxlLvtg/a79lSk+m02W7fKBOV85rxYVm8Vjj5xXPUhKO8YykMYu2x9zlU7XXxn4TqL3bTESMRPdKs8c8uK5L+W3p+j6ihU90GprIc01ujaVfczzfSglSZyA5yeHPty5fFfDfXJaTKK/VKaccx93dkZMYAu3m+tpegJFxnG33LW5eXulW3mjxZz1LH/AEXFYsWj22Dd21x4wc/NdWYoj0kvpQgQ5EhZwHvH20p8ZSnraUYjcndqWIL9VqASWuQOOV+XqjU9ORnFwtqcYgGdwI/S/qj46n09kB2sTbnMjl5uNPNfD/Lqy8Cj8QolmNlc37t1smzPfN8DXfqT1GhAlHOdRszXEm6K/LHYvp2hrQI207Q2+7lz8PJR+T56OASYqPt/ZUGwzXGAs+1vUgmdPZIVPpBQKSiQV5vFAFuSuqPTTdkJqMVkDSVcOTmNKX2vb5vqL1Epam+IkZqA17bZVIQy/K+Pz6qjpkYMTBFj7RbnalrnPeuQ6vy9Ds9UBIDHDFrtiK7cnN3z+y/B04g42sUIq0ZY9nnkVPDnHUmrpzmjcgXdfncmyOMOCIvODPPVsTYjBoPaxuiRTSA84rx44OpRP6fWeMAd47aM4vGMeMeKx1P6giKMUOSQ2c1g7F0v28dHqyd2E4XaicVwcfPjHBWC1tag2yizPbtVYnn2xld1fPN89We08lSlKc2PJGqSqEc2LR3Hi779dNY/ayyuwXdXhicfbHfnpn4pfvlAQ5Gvt7+e/wCWfy1uRTH/ADBzl4ll+/QaMo0sIsg5iXcnFqKcPlrv46yasZGRhdJJTHiz/vD342rqWUkxAzG4F98XeXHx3q+h1GQ7Se2PP1ZldFBz+YHH6y9hvqPQ7yybsw7sRPPZxT+l8Y6VKBFBipSRBOE92Smvd3v7HQ6PoZFA6koUbi7xVfyqmsV0/TjE8hdLuk7buriVbfA4acmTq76oi/E0/Ov+r/8A59br2P6RDxrf83/t1ups9X/0eRr+njFzubaihwtnF09jH8+rNOemXCRY4LwPHuLWkKTgLHPRQ1of/wAns06TdbS22gKBjOP49K1Y3IlFZH7LMKAusH37X9/F7gKew1dxCQFpO9trfN/Vh7Vd/s8dd1JadqT24DECtu7yPdeM8A1eZ5ac2NuoF27o2Y+Qy5xmuMeet6aJK/xK2jVSMyQ9rta+Xjy+atwVaOitO7FWsi3FsuaR7ZHnhqijeju3BAsCS7qTmi1Lbui8duoND1W6dNwIoVNwxrN8Xx2znp/p/UCkoRiFlMtwp42zTaNhXyY6xZfIoj6im4kYpTtkqyAVk4zV3xlrqaHrJISkq96FE2iN1eCMj5/lTOSSu6sksBuN1hfglzjh6m9LKpkc0gZkKNFRzi6xy2eenxkCfVaVQNTd7WMSdRoM4T7KY7d+eijoybmWe5WNXyVQZo7YU8V0elMVjICRKURr6sUl+FXF/n0qMWKfhoQ3KrlRo3Uf1u5+89061Ayc4wuBFJUG59uUxZmuePsvHR/6vhpu0+mL2tld520XnA0g3x0WkRn7/wAR3SjYSSV45W8iDiz6fPUXoNOWnBBCckG9y5tCq4W/yofmfuo9PVPxH2pF3EbwIndarlw229uu6+kNO6cYqqvYyFl1zect30cb7IjILt9zyu0se2brn7dM1fUSNpyJuOKUaTCbnPHf+HVy6O6sdMGW+TcV7UFAUAV4zm1vruj6eGyklG4yc17ThMCXtF/4iuelaWvJjKTGI1EVt4e3Ju5j25Dp+rUNNgxyoIN3Kyiv2bK+K+Op9BGkBEkhZIW+DdkIpS3Jeex1TOTKRJV03CD5EwHYJWtftHjreo1PcbDCO7NrLeGG8Zvh7dK0pAqcTxk5plRmzBfOR8VRN3kI1NRI6bLgXFe3EqH4vJfyvbp3p4xr32xRce3OC9zYOH297+OpvVa0v9k+7eDEooBZCeKYxS/8Onz1Axsto8e6ObylmBxf8ur+UO1ZwEgkZkoj9Nsj9q+cnjPD9ukausNSiSi2xDa7Wk+qvdSqkuSufBzmWPFbXcxuOXCPnLnPW1oiXhjh9oufNp2Hm/HUmBOpEMakYr3kDLOY18UnOeeetoQ3Fwlur4zHb2sofGHx111CbtR3XdSplx4j5Mlua67padxlja4BtK49pE5yee3GOtThCZVdu8PAtS+cmPnd27+3otL06D7N+borN+Lk1QY5/j0EY6iVcMcuCl4/yujzfIFIY3b7e21ZBIX83v8Ay+1oOGlEB3qN4wHktMiebPvjpul66cC5ojwEi2y2xC/PxWKy9IVtaiwr3ZDPm0TanNJx0OlCEq/8ITI32+nvEwHFVePFXM3tTv6RD97+Ef8A0dbpn9Ej40v+nPrdY/s9JjmlClqZn7k08fT7ijl4xmupAubEj9Jv4tKCv7XBhvnquGu7iOcGFdtLR7olZ3HIIu77dO09KVxQIvfBUua7fyvv1q3FQ6mm0blSsxoKPHtvGDAvPx0BqwyzZFmEVruuMBefz+DquepVjF2FVucxXz3q/gx1POMBsjtY3ebilr/Kuf8A26S+0N9NqDKJINqoL5toLCkPn+OOnEEttpvARurqj3cduM/Oekx1N1bYwzRd5TNpH/OrO+OrdNZSw92sKUZbkGGuM+Oc9c72INSOTbWboxuzFoDEj4vx9ut6a9YfamYslT91svncSIucYfzLVjh9sTcWvh8N8XHNnj7PVno5xYEUwbVSVxlw5mB3fu/bnp+rjhUkfVMdUVYq0XVTiN8crWMW47dUT9N3doRFsje0Uus3mxfNYuylQ1vxRjTE3VZxKs8HIwzddj7qpLFkhui1vBo3G67zw8pwVfaulg5pS3WRlUij3AXSnETP08H5V1zUnKMLYylsz7Y2VHkHlsfnDXl67qenLZRjnMkkhjbac3VX91F8hZCVJQ8YBjIsTljT/l261Kp+nKA7soyNlGBjy/Kkf4NdL102yWO6RcarlAu+K/Zv5/gfqNMuMx+nhAak1Hg+B5+G220eojGbGmTutw4GmhOMxAynnudT7CNDfuixXZtSUEJYxaLduKr7/HXpx0fxc/tUcFsSveU21uIH2lXU+n6e4wJX7ZbrKqC4ottFUDm1xz0zR9WwcO65EVjhV3DW6N9jPy1076QOcQiF22XxZYRvvk/KVWdD/pCJKigjcpPEe8pbmsDVreH5y9aEN04yJSJTnK43xSbQk/Th+3uM+U+r00hq75DSoxvIsWyvPjvVd+nxnI0vUk4y/ejfEU9rd5szfjPPOOl+rnGLBBo+ujKtAbfLfhq7zfT9SAREeKMNWbmhPklZfw9+i0vTLIm4Iu5y/ujz9ms9v4JZEK9RFZxsq6jIvO2x5zw5z4fv00juZIONubKR57VRR+h9+sxJKgXmpKfVwbbcNp9rx3odNYpGUe2fF/auDjL5/PGGNLVbwVLN/tYbOw1/i31PrxhGSLLO5KjlKbG/njIq8N9UQlC7FjeNuC3OBOVr+D46H8TkN5HG0ZEQ+9ZRrJkc461LgnhS2Nci3kl3+BWrsM0dWa6ou5in7WcrVDGlLM12KfuiHpN17Ym4vcXILSi/d8YrHxnp2lpT09yaXxlKqrqNjeVxju1nq2y8qk9VoSn7ZLnsxo4rC5r7uMna+r/T6wu0gdhipYDtTgv2t9efP08SNsQlLnard3ZnnPyJR1VparHUltsQyIbH+sKtcH3xddLlgo/Al+7pf9R/y650vf6nzD9I/wCXXepz7HfQzYVvmuQBhnccXV3dnnNgPTNWUt5u1ZS5rAu69tSB8vFfcx1BLULs3hzQy5Kao4wWteHqjRlLUgxalMVSXcwUqeP0rz1bPI5qakY3VAxdoxFPcVuMFXVeLz26Aiudv4mMVHNeIqcAtc/yOjjp6cxHdspxzEzw05byZyP6TaGjCKN7Y3ul7Ze4tRo947i+aSs8WyUXWpZpm6WG8VcW7DnJ3z+t9Hr7omdKkygHevcW8g5E7UdJh6qjMG3bdWxlff3GKP1ycp1S6oe1dxyxirxbSJHmN/odYsyon09QSSGkEQKbLD6ktea84p89NdeaMY7oxPprMc5tHnHnz8B1L6nTY3m47RsKpuLxxeF5/n1To6httlHL2+2Ivcao+dt9+r8opEvq+tZRJfdq/re5isZfudD6P1Wy0KkxiDLt3Bj5LK/KnAdWShQRzFu9xJqOLtpvsYzwdnqX1Gp2hUpgYdtXd34a2tBxj56s5CdLW1Iqyjul76pdqvAyzRnwvXIyUZTk8t8OXxxeB7LXjPTtPXdzcZGNufig7/b+PQS0iANGO1eG3abuRrsf5vIplqWR2DEJRZGXb3ASTxIDGP4nWhBjFiAbf2cXxZi7RLPy6ZCea5m3eMLNzTXxK80EQ46TPR2XKVzXdh7P5YDbfm7E6sU3SnwrjMI4boKO2PjsY44ItLW9+D6ZWU+Sq+T4M4fPXHUnAKqJmqrdNePdwXVUR6bD0d7Jf7sd37siRcijDTssvuv3STsN0fUsZVuBrKFErI2ZU4fnMI5rpOlpSknffiURsiHPnHJd9/v0rS9NK5uI7o8rzz3xlz+XPnq30ut+FHdA8Bf6c8PIfY8PTjwiSfAtNxCg+pF+MHtb+19+n+m9RBjFqUkXEvKK35P8/jodCMdxDld1yW2Qqsu5SWFXisVgDXlLFRQAVs4tBrnvn79+Ol5RZLRhujHPuwHC3lIySj+DlzRjmppibaACnBdc/S3z5+O3PUxr7vw4yojKqMSLpxuEXl/7OqppaQYyr+qyF88c8ZF+nvWc2CTUksl2Q3xyfN8Z/UHw+c9J0ZriZ7m6yMe12SY3h70N9uq9VkY3Yvhqu/zn74vpLqwKjTdpux2Lc2/o/fz1YGet1dSXuxuPaMndY1w+C5FZo6UykbB1CJ3JfrV8WZ8fl1tDU9xUpJK3hHKd5uDN15vOOmXHIRjAt3VYGQG7EW+O+eOtflQ+o0zdujP2yybD6X92UThk98DjBnqf8KVxxdLxm5dgjaP6lX1R6WRGRkIrJavu2BLs0483jraepCDhltjkYiSDLnN39WB/x6QRf6lf3tX/AJZf5dbr0f8AWUP93/8Ac63W/wBfy9Gg1dDTqyRHORKCaXZdYux+19CeuiCTiksVYXz23Juz848Lnrmjo7JEohLDlmrlsJN4YuOeKe1BajJl7YHuC2hKzfD2eUrjnrH55A6Wq5jIuLXvWJIrNdr4pzxX5NNXbuju3mGpJ7aMVV05zbx466aunHAbi6oRBG+H7Zz2GuOgnqQn7iR39pgHi+wOeHn8us2e4ChKdNx9xUo5+ykv3aMZz031HpzUhyki0THe+BiPurPOeezJrzdyPfipIV2ftn9V6q/oiaka3YjVDzl2ycm5Jc5upvnMnZC2DL8G27UjJC2mslUOSXN/o9KJQgxjHlqwEbyNYrLiv+18ZJKJIN1StG09o4ut2f2kew93odTV06VRCPCNG1/d75cfZfh0C1ZVKIpGcZYk+QajEO9v0966M1Fl7hKupLhqxqqunPfqbVhIkVH5c8Z4L7/zOqiBI9wbUGwKxx5knjt/hMmaYj9Ro+wLzfK/vN/U9iVIFftfHTIahcZO7bhval5S7rPi88Zw2V634d5QB3N4Kqqb4yfUfpk6jdEdOhy8UcgtfEfz889WXhTjXlYj9TiAY7bbDBxFu/056Vr6jK7us1tDGQMlU8c2ds465D2y2y3N1EppblistZwvL/N+h7NyMeAcWBGiwea5847d4Eemg17guB9Jw09imnvfOMdHpG4DaX7ivmgp4/ZOLF7PT9VdJWFylKhk+2hibMOLa71yvXn+g9nJ2qTZUWQDQc/f+Jx1ZNmxFfqvUb5bVqADFwFgEQ7Vjy89TemGEYt/V9VvNiS9vB3bcHiw6ohpSYUjVXxiXfaHxHzzjx1NqwZMo1VCQyLdrFcNdjz5+UvgXMowDlEkyu/nCGPgvjpevsZ1GQhUZeSWX6uy/Ph4rqPT1GUS3dzGL+y59t19T/O+mQTF1DNxcUStt2rVr/hXfpZ7Cvx+E3UG1jf1WNXeeL9yZr79N0tTTm7d21jKRVt7qu4tYdocPXZ6NylZ7hHLm8Z2XV814rqh02MggTpCrRTPteWs8VzTfnq2zBz1FRKJRtAeTbJyWvw8BlTxaqTKWQlYcxkZALUqiXHy/ZbKJlhGTtzbI+p5dtF3/LpGrKJ7xyFHu5y5bO/2eesz6FGrkDd9V4kFOM01lx+p9uptH0s8DXemVG3ujtotuu3Bz2ea7AV7mAVxRdJ2+afs9B+JOtjQBWc3fbFIZ5Pjqy3B3X0pC1CP4ji9zkv2qkec5a8ZyPXNN2wb08VkrF/1Qq2vnBzXXJRNxWpIrbUiO4OR9weJN4zV+b5oTSW1tdqA1L8SxyVSOfprv+mr0g/6TD90/wCgf59bpX/h/uS/5DrdY1eT46cdPLGN1dEndKPHFXjtT57h1yfrNjKMTm6lV7fnbw3d/wA+uaZC922pcRkxtMFZCjIHn7dKYs7j7psCV0cRb7RoDbZ2GkuuLnsWaXqJRnJ2XdMt1XHxzeF/yeb6Zrfh6jGMvw7CO4jbVWbr/ir25Wq686GsxI7FaIhEjtr24bQP8ft0x9MbeJZabc3S3kb/APbnrNgdq6UUdsojf07sreA4o+Cziuek6G6Budtkvw36lE5LWzFXeLps56xpDcYLTFtxVo83Qchnmqc9W6WtkJR32Ue6txxYSqj44R6t3DEXqfTQhiSO7mt47raaHHDn560dc35MOR4LkXWc96z5ft1XqwjHUsLlTfu2/V2L4MiWYT46T6/W03U3KcA4wzu6lK74O/xx1ZVc9P6Y07XNUoDlVv8APPirOO/StLTNSXuk3tLbtruLhrd9s33ujNZSRFGsUxK5MGDa2HwVxlpMfWD7pFe727VVcZoy9myw8l9Xkqv1Hp4fRzQMmsLYO4cJ+v5V1VPRlAo1C6Jrm83t+1uQc89uvLNXTnbu2tljm7CqePivt8dVPrvfWoUSqktx/WCiuQ579Zy4h0tGgnGMpRrHuWV98+Va7Z79LfdFhBYJLc0hdhV3bTLx4+ek63r2MojHaI0NXJb+peGs38/fodGQliW3uQ90jNI9gvLfj83KmaemlNydlhuzu3VdLluwz3fjpSII0spDwVm8liZxz36dpzSMRP8AxAtbKQ+qhxxjnt2xc2u00Nok3GbztKy3uHn4KaerNqKPxvZVN42n7RgQ4w01+t13XDgyw+G275t47P6vS9HVkbrhF5qXfdlq/wCPz+fV34mKRcS4+mz48Ffyt6XjoRw1h3YKxj8qzJq8MWi+3R7ZtSDlVTCSjgGKDnHCJnjo/Vu6RyQ3VvAxyIBwkf8AtroPWMRDmLIAu6cGUx4c9h731Z44B7p6kuV5rm6+ZYorjjnvl6fpsNtTu7tlWJXh8cJzx4568/S/CikBIl1ExtLpuu38r6d6WAahGUraJHdjS5Ci7q83x1PkKtSom6MtpjdVF2Fc4Lx+vF11JFUyDLsS4TjNXivjzzXTdMBkiBUdyNcEpSdtX/WcVj79JdC7YY917lz2ulpuu/h/PrPkVaUO7iMS21Q7meaac0/ft0BowGNURRURQy9qq1AO9ncehjrum/tA9gChlW7KqeePpOi0fURfbxu4kJRts4P58/TfFdavsrvqYVyVF4D3W/GBM1f3Ky31OImdkY03mwr9bt+2L6omWbWVVTaNN8V4HpXqdfU02DKNufdG6koUVms5u+/59JNDLn5P1l/n13qf/WU/6n6dbq/pobCDG60oT3G2tk6vxuLcFpt7njPT9TbG2OpKs4cagdkpqpVRuyUV1JrbHctgtrClmXnNG1XzefnpsjSGtOMixds20lURveklSPESrXh5zZBtRjIotS+Y1niqcGf2rCzPyWqxjH3RKkm5tlDjFcW5Mhnd4vrSYwNrLcCe+rzhpQpl7vh/l1vxmIsd/turWT+8Rxm/OPP5orPp2B7jbWPZYc7cPMuex25MPW9LC5FEBEpkMbtJcYbEB54Oi0daLKKzntxG4/S+5+sRMpTVv2t6D1A2QlqEt3BpuIlCklxmr+xWCWb9LIHVnBlKQ4sjVlMmsEbbzzbXfHSpakpxkkQPd7obWLteaMvFZ3Vno9TbAalIoaAnRyYFO6dhc9J0tWUSMF3TSW28SbLrdhETDm8Z6siEasxgbtNSNXWKiuG0w4vPdb7pV6vevtPba8SMtlMTFNcF18dF6Yq5KtyA5x9LlM9q2+bW+h9RqTt2gu0kbmm232i1wHzjFUdXyG7GMTZSFyFlFEHIlGCr5fl6VCMdScZGJx3VtLSK2mJYLW8pw12676b1EPwzfp7NtRXbxw4Vrmku+/PQEA9+krIknt/Zy+3a1t4eaOy3fU/I5L020lsI44ptUw3uebvF1eKvovTx3RdrmVZLQ4aFx+XymOmenihvqETcxdpimh3xcRHjjD2S77rRnGnYxJc8jKw4GTjz9hsx03nkMkXKgi0WlLLkt5/s8XwfmnX1NTve5CxwX2Vv6aQCy/d8dN0JbUnYx5rFIlinP52pXPZRHSmMdobdvtkNWNFuXv4AL46iKJae6VYY2RRPhLeOXt1yme0LHMSSc23i8GaM563qiWMXRK4jwn0IPLYH2ro5zGHyBJMJYRUi98yq/wA77sQqJPN7tx7uKaqqQ/rAB84+F63p9SVTk8Ri+2vyy5pkc56ple632yeZERlgjftMp7Kr+fW0Ncafa4oDaKWnPFJK69tYel3tUuhcXOGR2zLu1uLBt7+Hz00AGVu7i1Sh8nfi/HNX2LX04waxujlvPD7uxnbbx3/IHR1dOTBovYxW1+lGmHi3B8rVN9WTeiHaegbt0ae3P7N2F8h/hycdaXmRSLGTusQO6rf5mOxi1XpNUkiV7nakuLoTBdLg/wAfHPxJWsYrljKrqwcW4/hT8FdTKBzTtyRLFjdKJWXuv5l45psykIhtZZCzHGOR4MHn4XpPpqiLe3dicZLZKJGPtDFs7e31HzbdX1OIsZGG2LuGgl4TNSMB/wC1u6OamlGQmI3X1HtMRCywHJi757dNjKynU1ZW0RSNRw1tq67c815OhiQsR/ZSVcO7LSNPC1zi/hPV9OabJy+0HIhzLn4rnBx4vqaFfjen/cl/03/LrdDv0/D+r/6ut1vL9hnqdBiyCTF5fdtooxl3fnyW9K9TpwqRKV54lSubvI4MFl5l02OlKTeoDG7CUlb5xMqVeL/x67OcJb5SjEifu4uSlnbwYp6z0F6mrFm+zUb5cMaPBVZfB8446E0ozkESUbxhYhV8qkvgpzircoT0olbZ6YOUR3B9RWKBrOfCNvTiUVhKOGqlRLHka3Jns2VZzxfwpvqJbajEnd9pLRXPfg/ZcOfv1LoaTNlIuOJbSzOOZAUii55L7B06NMJb9zJslUWjkKiNCZ4Ozx0uHoIEJGl7ce4MBh792VlJ1JwA9TqxjEtCDUAkbWTe2O35vtR/LoPwAQPbK6oM8hiyy1Lq6vpuhojG3V90akpEFvNMtwxW3i7T73xVVjKL9OWMq3MsC1T2LzQK8dXZ4CfwYw9m1TNrmlu6HPBQnm76bDTjOFajjvcoYviR3Uez4r4N6hkw3FQiYkS4wU9kMcGOfy6SaRF3brEySIrQHN5uzGeeOx1dDPQTEDeMshtlcnKZEO+bQO3VpFjKUtN3nE6bv6as/UsLx36Q69Si0Jk3bgXaAVm8mOu6mtGIS3Mdrsm8knJtlBC4q2I1d+TqZaOT1Nwx2bZyjsGs3GuMgYyX4cVR0uXpdTYm+UsgRKbp4jEkAvOD9rt0zSYpKE4vGH6qa70/a6eY9qvo9OcGMZGRq3LHUApH9fjnzXU5lyBOtSymFNe6DRxUm7+x+1zA+/TssMwPO5Mh3PjDX6+Op9XRhckkQVkrZRIctF3mOeFz0+OpFKK4UiNkia3d/M83XHVvSOjGiSorG84i5DDWL67CcduJo/Te1uQyMSvjDFv+dJ1KpCx4VKvFMVNw4k4D8/HDpacvw6kqI4jz7bBFrscvcOL6mA9ZHY17o3RtrhzeMYrCXz+Ukp7otBdRrFN53Es54yd+3VtIk4zS95zh3KjGVWI0YeXvXSvUaaT3hgk7i3aXMFKvDG8JVnbHSeoNHXjLUztq0qQmc5H5i8V/PodX0tSsEYype1X+6cZPHfx03dDV+mrGsnGaTdVDWatMS56B3bpZ5jHm3a5vsYEKfH69OgiBCEywF2yJGHxIwfSHBb46PzwU+2SCCZb+Ps4rjv0yUDYptnRUbBbvF13vuZ/O6Qabp6kaPbKvaXWCgxlpZF+Kv5u6p0pym8Ure2x48bLz9r75x12c26aalW6KUnGTF3X054e9HQ/jkZSlaVT7aqVDbWPhcDh+3VEJRk7j6Uk8UrXJgspWru4Pz0/Yb02rZkJRq8G6LZYbnH8bvt36PTq6qkoLPLashEeOPvnqaSQblKsiZxjNZzj/ALOnx14/h7od7pqo1VrJM0gFnbv26ziYd/R4/wD9366n/p651J+NL/dn6/8At13qcqPU1NRG43TiRWJVyO3Pa8OK6RDUrAzc19NR+wB7cL7q88X0enqzxtCTgSRWPO6jkfzxw310g2R2g+RZdzcJdPurFVxz1rqBGnCcqkcd5sUYlrVubsrP6dO9Xp6ctsQkyO408PcMePGWuhjFm7QCruzjm8cSMSRU748K9TCFu7UUKvbGi28adZLtKzXxdAPJZDce0xtibY3x4PGT5z1nUkRf2YZ25VTgzbiw47p89K04MI7YQANoEvH9S6XHnxycdM0BhtN24B4tlHskqi3VnI/5KMRkx2/UlYJYxnabVr5HnivAaMJ0EkEpxFZDxbde3KfV+vTtT8KVpbH3Rkyt4odxK8Y48/r0CUbRDdT7Vxd+Xk4PF+eroD1ESMY+3cAFlRKrcRmU/TZIL3GM9+toRJOnswY4cRr3R9i0L+8CUU120NSJOUdsdy3tj5c1mOTdwn9Vzi1GhGwYy2+1aLMxpQtzjI4cc31bopdVDAF1W3klBo5sszxfbHB0U9fTGK7dqFYfat3GjcFAeDOHNdS6WlKCxiYKUEKLfdFcuMU5PjHT9FiRYTYbbcyztyee99s11myIa7bHT2p+0kua7GKxzV0UUF4L+jSWnbKNytLsTcxxbZgHhNl+KXL0d0xCbjHAReKtxG/0+a6klpz3boakZEkkSUk2jV8yzEc/ce42TVVeh3acCEruM5JItNuD+MdzxWHuZWaeyMoxq1dpI5/eLuxNq081fZ60tK21TuRO1KpZnHw9b3MpLT7oe6rp2lX37Mc5zz081Ggk9+oUxSn2/tRu7Pkv+J111SUJWihLNYSy7LaL5M8fpyOmZjCTRlzujgD3XbgzfPHTPW+iJgxKkRUjdOaKrv7rvjjxjq8K2hpbounI2yhPul1GdPe+V88dd0HdtjJfq4lz2Du5sQu8Vz0HpfUT0/wxlTEBsF2pYC/lYcJ2y9H6jTH3RS7LuLuvs58iZL/n1L2BhpSjl27jcMQWKvtvH02Bzffx0vRnUtqtSKlE4bxfFLTSiU1juL1Iz/DcsUkuKQ3KDmuCjNNDnh6bpTzc8u4siZXcB7pODDm+/wAi3gPIxO+3KTKqrC5c2LQ9+brv0HqtLG0k3fbtbw12OThrvjoNH00WRtdsWO2RL9nMiyLw55+fjAz1Csxr6s3HahaX5orgxUUxxM54DdeB7mG3cGCV4lfCraIHznHXdUCpQGyNAtOJKRjRlKxZ3xZx2OkoB7WPJB2jtDBiq5cPGa65DUCKBAWrHHm/q+pOL/zpztLWIE4xir7Y1mTtFpMiCl4Tlb6Z6NlBT8X8MyoRe+MvbLHjh7Zoj1ob2LNJLKUTiO05dtlPY7FX4y+OruiFEIxQu+4Xh4KY5Kx1b0i3+kS/3z/zQ63UlT+P/t/+nrdZw0R6iaiRSQu13NSwlUqLjn5rz0kZbpN1jIpNc05r95P+zrmitjusnuFLru8hiP6c43XZ2NxRnPdG+dqIZsiU2WHhP0610GSWJ/tLzjcn2QQbq+Oeu6+mcWLbwxM+cPxXH88r9JOJE2FMq5h5z7kOWw4XPZWx0YT5lGGzjhsiRqpFtGMU1g8X0xSpRCcrIsnkCllLzJY2U/lY1nJmltkSzGXLukLfb6vd3ot/XHTXQrEKYtsY7VqsWssXbz9/HQaltE43Knn4B7q193H5Ua30Hag2ZqJHKjGyz6Q+K7HbjoNfbtkbmwpu+7jFbqsDN15wXmextlafSiuDgqRxY4TnjpWvLiUtspSCrS/7OJJmK44RepBTpDK4u521y3HDhusYrnz0vYufaRBJNlMf2t0UymMuPt2DS0/BLcCXJxXLuBozXY8NY6PT9JtV9wCO2UkINVhlR9+RbrDQ4lE09OYjH9nNZJAx2ueP2fGfjnqiPpLkJXu2tmEkGUxS8c3dP5LdHa43I17gaM1ktrhLrziyumT0574NypiclohwRAw8Vy28PV3wOennKAe794fbhkYigqHI8t5a87ViTDVgO5AY33HHftR27L2QKWr+HcdqRbluItAq1R2FpDvK83jkPUOfbE3YxmynhJW/U+Op9oPT9REiHDJzaUtdpd6fsYTGOg0tVt9olyJTMibXkfC2H9nz1tGdMyStUO4qUcpuAwWNqvjGOuemjgkxJSA3kFrC/THbW6pVfFh4zJO1gpJLdGqYsm92c2BduEJfk+euXW23bJSIl8XCRxcdqjTxzxfRavq57pQ1M5+oakwbwibsIJmsW8dFHW90PxI+36XhDGN3fA3isidQFAJrvnXLGnbMurpbjYv01x9up9HTnGOpBd8SO4y2Htq2jstBZW7PbpTpNJGW1uMSSNkl9sW8Z/RvnLdOrKQSKk+0C8yVGVMUvmx59srOtYVHqw2xG8YhL6g2o3R+eMAfl0yWruMbZbom7jzyX8Wg0VdUOaJkIyaSsO1icG3IYo3IV3+/UmrpsjfEB3STYduDIuSLIQxRH7dJRRP1VNuObkxwN0X+Zl+WyjrulAJIx9sW+WslJ9k4Pv8AfrhLdskDS1ceYu3gukvkyhT46KMHEpLd5BLsvjvhzuzXewTooHXjujpYIxOyu5QF4+ZSx4eO5LElV2FJ+tYlTfuD4KMdunQZq1K2toyvZy3RfgSzweTrek9OxltdTTNtBUZfVgxKQC4ax1m4gYaZPGyL2SUW8fJlkecufB06WvVER2tnuxGPxM3XtrFfJxjrmqEkZbstEiRnvZUUyqVjlujpWtG62yqi5G5imXvefyX5+ZMQ7+lR8an6z/y63UX9Jn+5pf8AUj/l1ur+m+v9gvS62mxCgey4BTPujKtyWMbXzjPW05T3MHh+mVSEKtdlF3w9s+Oj0fV6cpbdjurKB7o3wcYxbXBHzT0t5AkXS7GQy2raginbLm0PnrWLhOswEu2fFc8h96e61WG77MjIWLhAjRIlQUnsT2mGqzWDt0JLdbOJmqWfNmA4pwZvNGO6LryC2ClP1bZZtKZfVZQ8889UMlp/iUZpMjZeC7LJNfbt0yEJWYljuR9qfSR29vy470p0j+iOCUpRZZAvbVYyYJFvfs579O9P7XayWSN1KBtyntJAOU7jz9+p2H+r1bAYkW8Xjbi63NWpjAtfZeh9UMeZsV5QtFsKPv2fHbqSfpAnBixhIZ0GmW5VTPDauXzXl+rorSSaGiLKOQr6dzeSuPP59ZycYD9NpanYlTgni24mQyVjIhwdl60gE34k2kg7BSRa3YMn+NdK0dGx2+wpHa4C5U02Yb8mH81mrVlPIUMHKfuhfK4fjGTqybQyWm0wJZzSyFJdlrFrnHz366zwWEW/N0fFlEtxZS/V2vDPT6KtARNpdeKMmcZxnxw9koSlGO6XN7aobMbnm8Ljm+m8o76rUZNzjYSKbFRX3RkjnFHf9eg09GntbdZsmj7UPcFm6s89Uem0sohtldg4VoBB5pLz+fA9j6YsojlG3JJzQY911VH8M1NHNOPvZVJLplxyCZcPuxfGHjpfqGN3HKDLdatc1m8FuH/36d62/wALdK5l3LbdwBoWwCkc326nGL7irhG6oys9jwZtzfjGOk3sD6eUZMicro2si6aHY+0WmM0vP7PR+k0DaGorJnKpMY+3bwO3vhb8o467oyYyjBPamAb2pnF54THx89JmzpBTb7pRwF8bhPkLJd1fNXNVVpwadOYNxwpe3w396+CkK6566GEnBmftUWRO1Lmgqzjv56WXPZSSlEcPDFeFy3f5+07nSfVTs2mJ1ZG28WINX5Mec1eUgLX1YGY1IH9nOH3CR7YinH8+sgzrftixbBRfai7vIq821d2X07U1YyhFoyxkCGGs0lU2OH5aa656fQNsZSiXSgGWwpaT2reF/Tq7gX63VUS8e3fTttBJZ9sgUEpOZHmnwlUSiFnZ7d6I1xeMV/lgHdikZBYHGVFu7T6vjjoDUg5SqrwJZZ2Thc/NfaW8J2DXhFmO5luPqoE29iLzbue2DF31U6O+BvhEjfI7mqqyK5RcYuvz6VLbI3e0P3i4sexteB4u3a1mrwZsS+U2kq5bLzzSluQLj9upppUp92XuZUSXDgxtP8onLnvPLYIY7Uj775GPNxRsquV7h1dB7PvwO4Kr3eUTd8fwzfS3UyhpslDCBKFhmRNcNV5z+fVgl/pB+/D/AJo/59bqn/Wf9TS/T/8AbrdTL/KEa34mpWz2xxbDmTn6oDT93ER8Z6fDT0orGlMbjFSe9VWCvyrGOhfxdSFRlJjnc1ttHG3n9N3b9TPSgVORNtIi2SPB2U7i9nBz1u2SKXq+phKWyULnf7Ige1fvxfn791hpsad8arEy2Pf6rjjvdj2+QZD1BGJHYklVAG83a37lA9zjHODoPSEtQJUxMqMYkEyFSGg4KpXlvPWTC9fSMRprN2idt1ET6eOPGeeky1i107J0CgUcXdGKM9sfl1RAIBiUt6dwANpKrfaU/wCNdbQYyLmx3jLI5jjJC8S75z3MdWBXtiBuLcktoK2UlZvvnn79dhMIqqF2pmwiURSsOMj3r56HWhsLIRm7io2Xmy/Jlrmv59Ol6qG04NU3IC0R9o0uFB7FCJ26XkF+OyBCIrUZbSLlRKSKK5oy/wAemz9WKpHargQa+c0rRdNB36mZQ1LiMgvLKXyuc5aO1tWvTJ6NRIm2U9uWTIH5tvDdMcH26nHkTx9STWVJDHuwGVGd9/beC7Djrup6fY3JJRsd87In3QMtSP0tb6q9V6+TZA9wYWVLwFVH5KM8c46XGA7pbqlRcTYo8yQ5Hv70M4rp9irQ09MjG0jt9rFfJns197O3jpOpJiewaschW2nYjdZTk8cGTqbUjsNsYxAjZKUsFtnHK/Pnl6LQ9TFhGMZixBiL7ouF3RXvf0lnF09TL2irWudscQTNgEZNjeQ7vHz+ce1JSkhtb4b22tWP/C9uEvo2mOoMZSowxt3IYJc/rntz2X6SMJbWMeyN1cRWVj3S5UvPcs6s4UnB7kk4S+ThS+faieee+OqvTSdkYO5k1bwbXBuxl4MflebR+LXsztAIqg5TdeOHD8YwdFP0bB7sapKXdFXN8xyZL8dW/YH0tQXNYGsbVpC7PlLzzlovqj/SHppakyjbKCe443cLjIDeLOelacJjKi2kEakrRl4SqkXzX6M0ZJbW7dtwtJiWSHPB+zxyfE87BtTT1LnGPMkRW/7KAXXzfx0cNPcNSGUCJdYZbqyJd7s3Y10yPpEBikhOZYolEy4ozHP3+euaRF9wiiE5RrCUfeOYjhq5LXCrUBL08CTKSkm7z2AZSQfIZP3uk+nVWLHJmNl8t01z7WsFP5313SnRi1iAWXVCU32y855/MtONjOcQlGO+j6ja2q+E205yfkICEb2yw49si/NxzZTXnvjv1vwqkGWaVclEOa/4ecmarpcPU+6QEYtvnaVVNlVb8XgOmac5ORC7au8eb+TNY++OmWI7L1PEWVmLqy6cBRSc56Xpu2gClsF4jVYpklU8c46H1JqXUcnfvK6LLur5L/hx0GkyaTZI45Ctt00U5S65v8jq4qr8Sf8Au5f83/69brz/AOhv/emf+rrdP7VWenGBW5KP3Xb2a2cNGL+JPx0Wmsl9lScuAbcFkvl4M8/B0UZBtlv9yYdlPwVnF42ofnz1xkR011ZwIv01uZHmmPauLjuz2K6loGcIGNWct5TkjTy8ff8Ax6DTnpWMoxk5qXDEcfVy0R71i+tr+rAuN7pUVeRcAHEX75+3Zvp/UeyyMYyIrKN3Ugt/DeKvJkvvVKOUZ9ZCgsg+690ndkd3f3P64PC1JraK1KGjGT/WNrZbVd7uu32a6ZL/AEjuVklB7UBY+KWIjf8ADpuj697uxx2Pd8ZQ25PzeXplnUVz0mhu90incO2MWVqVYYPPnA+eg/CZtJFqNe4lecSwVtaduOQyNdF6oo2xGEeUbKz/ALzIPN1fbvfQaQe4uckzE2pKNU1p3HJj6l5TvXV5Bz12CO2jkvzjdd4z5b7X36bp6TI2hs8MWMXvdeVxnDjpE98pIxYXxXujVW2Vz385fGKNecNOMINzkZjti0eBlZYBatmPz6l44JC9R0iJJtWNpcnsXgxd4a4rt1wiztozG0qRKKcYSwLc7rS+arruppTxKG2c7BjUsVWbzu/jno98G25xwVA4MXUouGTnt00K19VAFLf3Y5kZB3XkPPevyV6uhMWZtj94W3i6eBv47nbqnWnHbeaIlyklVd3fOc8P5BfXma1QluIakij6ZO3xWePd2rznrXxHoaMEBbApSLduKNyYzXPznPU/qtaWD3VFj2lh4G5P1XTSZvi7Q/UeoYrUSMkBfdlylN0mK+FOewev9dtBGRftkUnMS/ChfJ57UdSTnQXqdeMYkkCCyO7W5rvd5POHB2Oj15/+L5W64qcEy8cm5/RxnAf0h2oj223LbyHlrhvDy9chpUPuTlBpbAyZHiRuy88HTAbqLqRFqzv844qnv4ee19VllKxZiCP0y8yQ7tq55t5b6TFwXKNN3y5wrHtwYb/Qeuf6Q0o0ygsZFxkCJK63JReceb7VXWTDdObs2mdoRpLWrrPDmOLc/k9TRlGWpIkhRZtuO6LKn3RoaGr7beXqrRCQCMbqQxlcRsCnzyc9s9Ra0dsdxV3jUXsuY+cVwq/m31Z2CkVqIMveo1WbcFhltUav4Bw09JKEI3KXgN0Svqw+7GHt8V4E6Or71jFjGn3LRG3ILxkuqOO2emaun7/w6qq5k03kHleL/XjpUB+FgnFhIfquY3xVVQHlE5LsDpuj6lnLBJFqjY18MjvfuxefnHQQ1KV1Le3tpYkscSD548OL6nIhJlsSZj28SeCv04cnz1cFM/TShaRe1kX2xw8VYPyB+XHSNTT3FkpkkqwtacXVe6jPwuDL1TDQ1LsnGMDiJhQPqSsW2/YbOOl6/Ihpu6JigbjV7FwtioV2x5QJ/wBVan7sv+tH/LrdO/C/qz/6Z/l1zqfqNVn7H3j/AC60u/5//ket1usXo+Paf/Qv+2l/bf8Ay9N/079b/wAf849brdW/8n7LHra3+x/4Y/3Xr5uP0H9uP96fW63V+HSQTzof25f3Hqr/AEj/APCR/tT/AL51ut12+Pf8+1T/AOjONX+w/wB/r6H1n+y/4j+cOu9brzf1f8h5vpP/AIjV/wDlS/8AL143puT7R/u6XW63XT4d1Emh/t4/2n+919DH6f8Agl/c63W61/V8fitIdX/+D+z/AIQ6b6X/AGb93+/HrdbrHzZeN676Y/8Ay4/zevZ9Z/s4/aX9x651uut8K9bW/wBnL7H9zr5/1vb+y/3eu9brE/yL4WafEv8Ah/8AwR63+jv9hq/2v/OdbrdXyA1uf/q/4vXpeq41P/qf+brdbrHy6n89M152l2+/+L1L/oP6Y/eX9863W61/1V7M/wD4Wf8A83U//I9J9R9Gn/af5vW63WL5/NPl2f1ut1uvO5v/2Q==https://txtrs.ru/textures/grass/grass-1.jpghttps://txtrs.ru/textures/grass/grass-1.jpghttps://txtrs.ru/textures/grass/grass-1.jpghttps://txtrs.ru/textures/grass/grass-1.jpghttps://txtrs.ru/textures/grass/grass-1.jpghttps://txtrs.ru/textures/grass/grass-1.jpghttps://txtrs.ru/textures/grass/grass-1.jpg",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 65.24210357666016,
+                "y": 71.27207946777344,
+                "z": -2.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.8598041534423828,
+                "y": 34.85039520263672,
+                "z": 83.69512176513672
+            },
+            "color": {
+                "r": 0.3921567499637604,
+                "g": 0.7843137383460999,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -58.857669830322269,
+                "y": 71.27207946777344,
+                "z": -2.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.8598041534423828,
+                "y": 34.85039520263672,
+                "z": 83.69512176513672
+            },
+            "color": {
+                "r": 0.3921567499637604,
+                "g": 0.7843137383460999,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 2.373004913330078,
+                "y": 71.27207946777344,
+                "z": -43.020652770996097
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 131.73233032226563,
+                "y": 34.85039520263672,
+                "z": 2.3652572631835939
+            },
+            "color": {
+                "r": 0.3921567499637604,
+                "g": 0.7843137383460999,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 2.373004913330078,
+                "y": 71.27207946777344,
+                "z": 40.085166931152347
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 131.73233032226563,
+                "y": 34.85039520263672,
+                "z": 2.3652572631835939
+            },
+            "color": {
+                "r": 0.3921567499637604,
+                "g": 0.7843137383460999,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 3.165757894515991,
+                "y": 86.55238342285156,
+                "z": -2.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 124.9400634765625,
+                "y": 0.4168701171875,
+                "z": 83.69512176513672
+            },
+            "color": {
+                "r": 0.39215677976608279,
+                "g": 0.7843137383460999,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/SUN",
+            "position": {
+                "x": -50.0,
+                "y": 94.0,
+                "z": -14.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.9215686321258545
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        }
+    ],
+    "npc": []
+}

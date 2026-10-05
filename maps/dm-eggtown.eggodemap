@@ -1,0 +1,4669 @@
+{
+    "mapname": "dm-eggtown",
+    "author": "МемЯйцо",
+    "icon": "",
+    "skybox": "3",
+    "diecord": "​​​​​​​​​​​​​",
+    "uron": true,
+    "canSpawnObj": true,
+    "canDellObj": true,
+    "survival": true,
+    "modsDependence": [],
+    "textures": [],
+    "objects": [
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 0.9957466125488281,
+                "y": -21.69635009765625,
+                "z": 28.643760681152345
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 56.36983108520508,
+                "y": 0.1058180034160614,
+                "z": 59.521968841552737
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvpggWkDdN3JEa7q_YCFZr1FyLBLi9CbosFQ&s",
+            "textureTile": "10",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -17.948375701904298,
+                "y": -19.718320846557618,
+                "z": 30.533519744873048
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.2601613998413086,
+                "y": 4.123412132263184,
+                "z": 10.21030044555664
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZtJ2Xj5pvXY0DyaF7USGYns4EpqkAg61IRw&s",
+            "textureTile": "2",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -18.74519920349121,
+                "y": -21.289249420166017,
+                "z": 33.84531021118164
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.5368270874023438,
+                "y": 0.8018894195556641,
+                "z": 2.5971410274505617
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqIuZQFdp07ETEWwUuLQV_h0wdf43cWNjOQw&s",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -12.628629684448243,
+                "y": -20.098949432373048,
+                "z": 24.534610748291017
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 46.21309280395508,
+                "z": 0.0
+            },
+            "scale": {
+                "x": -2.8541502952575685,
+                "y": 3.561393976211548,
+                "z": -0.4839820861816406
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://img.freepik.com/premium-photo/old-wood-gate-texture-background-old-pine-wood_74782-460.jpg",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -14.985641479492188,
+                "y": -17.72624969482422,
+                "z": 30.53289031982422
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 6.852652549743652,
+                "y": 1.0,
+                "z": 10.519800186157227
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT5sh36JmkrQtzwT8bEs8vKogvGVOgqTd5Tw&s",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/Grass1",
+            "position": {
+                "x": -20.021760940551759,
+                "y": -21.634469985961915,
+                "z": 27.08902931213379
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 0.6025509834289551,
+                "g": 0.9433962106704712,
+                "b": 0.27055853605270388,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": true,
+            "isLomatel": false,
+            "texture": "",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/Grass1",
+            "position": {
+                "x": -16.041900634765626,
+                "y": -21.634469985961915,
+                "z": 20.151779174804689
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 0.6025509834289551,
+                "g": 0.9433962106704712,
+                "b": 0.27055853605270388,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": true,
+            "isLomatel": false,
+            "texture": "",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 12.916540145874024,
+                "y": -18.96919059753418,
+                "z": 12.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.21786260604858399,
+                "y": 5.465850830078125,
+                "z": 10.137960433959961
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYOkw_keKcwjgIMX5nRPuKZ_ea-Ga8RaFMyw&s",
+            "textureTile": "2",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 3.468183994293213,
+                "y": -18.96919059753418,
+                "z": 12.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.21786260604858399,
+                "y": 5.465850830078125,
+                "z": 10.137960433959961
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYOkw_keKcwjgIMX5nRPuKZ_ea-Ga8RaFMyw&s",
+            "textureTile": "2",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 8.259986877441407,
+                "y": -18.96919059753418,
+                "z": 7.022531986236572
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.21786275506019593,
+                "y": 5.465850830078125,
+                "z": 10.137950897216797
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYOkw_keKcwjgIMX5nRPuKZ_ea-Ga8RaFMyw&s",
+            "textureTile": "2",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 11.636048316955567,
+                "y": -18.96919059753418,
+                "z": 16.958690643310548
+            },
+            "rotation": {
+                "x": 2.1344341405438173e-7,
+                "y": 60.46952819824219,
+                "z": 353.54058837890627
+            },
+            "scale": {
+                "x": -0.2051779329776764,
+                "y": 5.465850830078125,
+                "z": 2.735121726989746
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYOkw_keKcwjgIMX5nRPuKZ_ea-Ga8RaFMyw&s",
+            "textureTile": "2",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 4.917014122009277,
+                "y": -18.96919059753418,
+                "z": 16.958690643310548
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": -0.20517796277999879,
+                "y": 5.465850830078125,
+                "z": 3.027318239212036
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYOkw_keKcwjgIMX5nRPuKZ_ea-Ga8RaFMyw&s",
+            "textureTile": "2",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 8.259986877441407,
+                "y": -21.63729476928711,
+                "z": 12.065340042114258
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 90.0
+            },
+            "scale": {
+                "x": -0.09225604683160782,
+                "y": 10.106019973754883,
+                "z": 9.376517295837403
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYOkw_keKcwjgIMX5nRPuKZ_ea-Ga8RaFMyw&s",
+            "textureTile": "2",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 10.394020080566407,
+                "y": -15.666099548339844,
+                "z": 12.066360473632813
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 78.52706146240235
+            },
+            "scale": {
+                "x": 0.09784466028213501,
+                "y": 4.999144077301025,
+                "z": 10.213669776916504
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYOkw_keKcwjgIMX5nRPuKZ_ea-Ga8RaFMyw&s",
+            "textureTile": "2",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 5.6865620613098148,
+                "y": -16.304609298706056,
+                "z": 8.928887367248536
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 90.0
+            },
+            "scale": {
+                "x": 0.0978446751832962,
+                "y": 4.489246845245361,
+                "z": 4.096819877624512
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYOkw_keKcwjgIMX5nRPuKZ_ea-Ga8RaFMyw&s",
+            "textureTile": "2",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 5.72489595413208,
+                "y": -16.086559295654298,
+                "z": 15.843449592590332
+            },
+            "rotation": {
+                "x": 354.2934875488281,
+                "y": 62.33517074584961,
+                "z": 87.31865692138672
+            },
+            "scale": {
+                "x": 0.0978446677327156,
+                "y": 4.3684210777282719,
+                "z": 2.508890151977539
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYOkw_keKcwjgIMX5nRPuKZ_ea-Ga8RaFMyw&s",
+            "textureTile": "2",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 6.613536834716797,
+                "y": -20.038429260253908,
+                "z": 12.934269905090332
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 40.46194839477539
+            },
+            "scale": {
+                "x": 0.0978446900844574,
+                "y": 9.514320373535157,
+                "z": 0.2124354988336563
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYOkw_keKcwjgIMX5nRPuKZ_ea-Ga8RaFMyw&s",
+            "textureTile": "2",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 5.72489595413208,
+                "y": -16.474529266357423,
+                "z": 13.933770179748536
+            },
+            "rotation": {
+                "x": -0.0000017075473124350538,
+                "y": 344.47509765625,
+                "z": 80.56873321533203
+            },
+            "scale": {
+                "x": 0.0978446900844574,
+                "y": 4.36842155456543,
+                "z": 0.21243548393249513
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYOkw_keKcwjgIMX5nRPuKZ_ea-Ga8RaFMyw&s",
+            "textureTile": "2",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 6.173145771026611,
+                "y": -15.962989807128907,
+                "z": 11.768070220947266
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 101.86710357666016
+            },
+            "scale": {
+                "x": 0.097844697535038,
+                "y": 5.821345806121826,
+                "z": 0.2124354988336563
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYOkw_keKcwjgIMX5nRPuKZ_ea-Ga8RaFMyw&s",
+            "textureTile": "2",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -14.243430137634278,
+                "y": -20.468870162963868,
+                "z": 42.371158599853519
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 62.2258186340332,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 6.655194282531738,
+                "y": 2.7133519649505617,
+                "z": 0.03133010491728783
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZeBuBZ5G3JRySBvY8SB3yIJVgqq3bNLS6lg&sе",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -19.0,
+                "y": -20.468870162963868,
+                "z": 50.66994094848633
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 6.655195236206055,
+                "y": 2.7133519649505617,
+                "z": 0.031330108642578128
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZeBuBZ5G3JRySBvY8SB3yIJVgqq3bNLS6lg&sе",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -15.752280235290528,
+                "y": -20.468870162963868,
+                "z": 47.974571228027347
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 5.446677207946777,
+                "y": 2.7133519649505617,
+                "z": -0.09398658573627472
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZeBuBZ5G3JRySBvY8SB3yIJVgqq3bNLS6lg&sе",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -17.703969955444337,
+                "y": -20.817129135131837,
+                "z": 49.16004180908203
+            },
+            "rotation": {
+                "x": 16.607593536376954,
+                "y": 287.6861572265625,
+                "z": 355.3548889160156
+            },
+            "scale": {
+                "x": 1.5368270874023438,
+                "y": 0.8018894195556641,
+                "z": 2.5971407890319826
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqIuZQFdp07ETEWwUuLQV_h0wdf43cWNjOQw&s",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -16.96491050720215,
+                "y": -21.289249420166017,
+                "z": 49.25310516357422
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.5368270874023438,
+                "y": 0.8018894195556641,
+                "z": 2.5971410274505617
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqIuZQFdp07ETEWwUuLQV_h0wdf43cWNjOQw&s",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -16.96491050720215,
+                "y": -21.440340042114259,
+                "z": 46.670188903808597
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 19.70315933227539,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.5368270874023438,
+                "y": 0.8018894195556641,
+                "z": 2.5971412658691408
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqIuZQFdp07ETEWwUuLQV_h0wdf43cWNjOQw&s",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 23.16939926147461,
+                "y": -20.49534034729004,
+                "z": 34.956268310546878
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 347.4042053222656
+            },
+            "scale": {
+                "x": 4.257667541503906,
+                "y": 3.616489887237549,
+                "z": 3.8424909114837648
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqIuZQFdp07ETEWwUuLQV_h0wdf43cWNjOQw&s",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 24.442630767822267,
+                "y": -20.671220779418947,
+                "z": 31.14150047302246
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 3.209045886993408,
+                "y": 2.5050129890441896,
+                "z": 3.8424909114837648
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqIuZQFdp07ETEWwUuLQV_h0wdf43cWNjOQw&s",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 21.22364044189453,
+                "y": -21.145780563354493,
+                "z": 31.400697708129884
+            },
+            "rotation": {
+                "x": -1.0672170702719086e-7,
+                "y": 16.64617347717285,
+                "z": 9.353562355041504
+            },
+            "scale": {
+                "x": 2.608604907989502,
+                "y": 1.8230940103530884,
+                "z": 3.429208755493164
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": true,
+            "isLomatel": false,
+            "texture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqIuZQFdp07ETEWwUuLQV_h0wdf43cWNjOQw&s",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 20.442909240722658,
+                "y": -21.145780563354493,
+                "z": 34.78792190551758
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 5.157259941101074
+            },
+            "scale": {
+                "x": 2.608605146408081,
+                "y": 1.8230942487716675,
+                "z": 3.429208517074585
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": true,
+            "isLomatel": false,
+            "texture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqIuZQFdp07ETEWwUuLQV_h0wdf43cWNjOQw&s",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 22.441059112548829,
+                "y": -21.145780563354493,
+                "z": 36.38431930541992
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 334.4457092285156,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 2.608604907989502,
+                "y": 1.8230940103530884,
+                "z": 3.429208755493164
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": true,
+            "isLomatel": false,
+            "texture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqIuZQFdp07ETEWwUuLQV_h0wdf43cWNjOQw&s",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 19.6837100982666,
+                "y": -20.557329177856447,
+                "z": 28.820079803466798
+            },
+            "rotation": {
+                "x": 0.7915686964988709,
+                "y": 28.594921112060548,
+                "z": 5.592221736907959
+            },
+            "scale": {
+                "x": 0.007642746903002262,
+                "y": 2.1513712406158449,
+                "z": 2.840117931365967
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": true,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://foni.papik.pro/uploads/posts/2024-10/foni-papik-pro-7dnw-p-kartinki-korova-dlya-detei-na-prozrachnom-1.png",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 19.804630279541017,
+                "y": -20.557329177856447,
+                "z": 25.077999114990236
+            },
+            "rotation": {
+                "x": 1.0672170702719086e-7,
+                "y": 116.61150360107422,
+                "z": 1.2594984769821168
+            },
+            "scale": {
+                "x": 0.0076427455060184,
+                "y": 2.1513712406158449,
+                "z": 2.840116024017334
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": true,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://foni.papik.pro/uploads/posts/2024-10/foni-papik-pro-7dnw-p-kartinki-korova-dlya-detei-na-prozrachnom-1.png",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/Cylinder",
+            "position": {
+                "x": -20.0,
+                "y": -14.603300094604493,
+                "z": 3.6713809967041017
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 6.60465145111084,
+                "y": 3.3390839099884035,
+                "z": 6.164917945861816
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://img.freepik.com/premium-photo/full-frame-shot-wall_1048944-17712703.jpg?semt=ais_hybrid&w=740",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/Cylinder",
+            "position": {
+                "x": -20.0,
+                "y": -11.087884902954102,
+                "z": 3.6713809967041017
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 7.781696796417236,
+                "y": 0.15527890622615815,
+                "z": 8.30105972290039
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBKuRGRw4YCT8NJcnjb84CPw-n2yhzSEaIpw&s",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -16.787750244140626,
+                "y": -17.61132049560547,
+                "z": 3.4582109451293947
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.3958244025707245,
+                "y": 8.423266410827637,
+                "z": 0.5161281228065491
+            },
+            "color": {
+                "r": 0.003921568859368563,
+                "g": 0.003921568859368563,
+                "b": 0.003921568859368563,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -23.23992919921875,
+                "y": -17.61132049560547,
+                "z": 3.4582109451293947
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.3958244025707245,
+                "y": 8.423266410827637,
+                "z": 0.5161281228065491
+            },
+            "color": {
+                "r": 0.003921568859368563,
+                "g": 0.003921568859368563,
+                "b": 0.003921568859368563,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -19.990619659423829,
+                "y": -17.61132049560547,
+                "z": 6.778014659881592
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.3958244025707245,
+                "y": 8.423266410827637,
+                "z": 0.5161281228065491
+            },
+            "color": {
+                "r": 0.003921568859368563,
+                "g": 0.003921568859368563,
+                "b": 0.003921568859368563,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -19.990619659423829,
+                "y": -17.61132049560547,
+                "z": 0.612290620803833
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.3958244025707245,
+                "y": 8.423266410827637,
+                "z": 0.5161281228065491
+            },
+            "color": {
+                "r": 0.003921568859368563,
+                "g": 0.003921568859368563,
+                "b": 0.003921568859368563,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -0.06692147254943848,
+                "y": 2.424091100692749,
+                "z": 5.569694995880127
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 6.891537189483643,
+                "y": 4.218771934509277,
+                "z": 0.41173508763313296
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 2.267009973526001,
+                "y": 0.7942580580711365,
+                "z": -4.729981899261475
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.4269570112228394,
+                "y": 1.9184454679489136,
+                "z": 0.1486358940601349
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAEitP4KvHPOTdL0vaPXRX_7hCu4NVQDeT2A&s",
+            "textureTile": "1",
+            "type": 1,
+            "TpCord": "-20,-4.181279,3.6009",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "-10",
+            "Speed": "7",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "4,10000",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 0.5951920747756958,
+                "y": 0.7942581176757813,
+                "z": -4.729981899261475
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.4269570112228394,
+                "y": 1.9184454679489136,
+                "z": 0.1486358940601349
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTbv_ZKPE8H-zdW6RLkxvf0Hk36zVG-L9kzA&s",
+            "textureTile": "1",
+            "type": 1,
+            "TpCord": "17,-9.800117,49",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "-250",
+            "Speed": "4",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "5,10000",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -0.9999663233757019,
+                "y": 0.7942581176757813,
+                "z": -4.729981899261475
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.4269570112228394,
+                "y": 1.9184454679489136,
+                "z": 0.1486358940601349
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://img.pixers.pics/pho_wat(s3:700/FO/57/91/04/78/700_FO57910478_183b6829ee3e40ded76163cb2394996a.jpg,700,700,cms:2018/10/5bd1b6b8d04b8_220x50-watermark.png,over,480,650,jpg)/stickers-fire-alphabet-number-3-three.jpg.jpg",
+            "textureTile": "1",
+            "type": 1,
+            "TpCord": "-22,-14.786,47.84074",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "25",
+            "Speed": "9",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "6,10000",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -2.624933958053589,
+                "y": 0.7942581176757813,
+                "z": -4.729981899261475
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.4269570112228394,
+                "y": 1.9184454679489136,
+                "z": 0.1486358940601349
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrEPu4rfL2xKLR7Ek1jknPfxAAnmKJHCi9QQ&s",
+            "textureTile": "1",
+            "type": 1,
+            "TpCord": "-22,-14.786,47.84074",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "50",
+            "Speed": "10",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "10,10000",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/SUN",
+            "position": {
+                "x": -1.0920699834823609,
+                "y": -46.0,
+                "z": 39.862308502197269
+            },
+            "rotation": {
+                "x": 34.895660400390628,
+                "y": 308.4913024902344,
+                "z": 354.3088073730469
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.9215686321258545
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -12.183210372924805,
+                "y": -19.718320846557618,
+                "z": 30.533519744873048
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.2601613998413086,
+                "y": 4.123412132263184,
+                "z": 10.21030044555664
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZtJ2Xj5pvXY0DyaF7USGYns4EpqkAg61IRw&s",
+            "textureTile": "2",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -12.183210372924805,
+                "y": -19.718320846557618,
+                "z": 30.533519744873048
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.2601613998413086,
+                "y": 4.123412132263184,
+                "z": 10.21030044555664
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZtJ2Xj5pvXY0DyaF7USGYns4EpqkAg61IRw&s",
+            "textureTile": "2",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -15.08765983581543,
+                "y": -19.718320846557618,
+                "z": 35.452999114990237
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 270.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.2601613998413086,
+                "y": 4.123412132263184,
+                "z": 5.778289318084717
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZtJ2Xj5pvXY0DyaF7USGYns4EpqkAg61IRw&s",
+            "textureTile": "2",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -17.0,
+                "y": -21.212099075317384,
+                "z": 34.34321975708008
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 339.9065856933594,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdbcSKIDA6BXbWREObpTCYttFNxfIhkL3irg&s",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -15.823479652404786,
+                "y": -20.98560905456543,
+                "z": 34.699520111083987
+            },
+            "rotation": {
+                "x": 2.1344341405438173e-7,
+                "y": 356.3266906738281,
+                "z": 331.91790771484377
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdbcSKIDA6BXbWREObpTCYttFNxfIhkL3irg&s",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -17.05926513671875,
+                "y": -19.718320846557618,
+                "z": 25.547529220581056
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 270.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.2601613998413086,
+                "y": 4.123412132263184,
+                "z": 1.5314940214157105
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZtJ2Xj5pvXY0DyaF7USGYns4EpqkAg61IRw&s",
+            "textureTile": "2",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -13.018500328063965,
+                "y": -19.718320846557618,
+                "z": 25.547529220581056
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 270.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.2601613998413086,
+                "y": 4.123412132263184,
+                "z": 1.531494140625
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZtJ2Xj5pvXY0DyaF7USGYns4EpqkAg61IRw&s",
+            "textureTile": "2",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/Cylinder",
+            "position": {
+                "x": -20.0,
+                "y": -11.799604415893555,
+                "z": 3.6713809967041017
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 6.96372652053833,
+                "y": 0.15527890622615815,
+                "z": 6.510046005249023
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://img.freepik.com/premium-photo/full-frame-shot-wall_1048944-17712703.jpg?semt=ais_hybrid&w=740",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/Cylinder",
+            "position": {
+                "x": -20.0,
+                "y": -12.345749855041504,
+                "z": 3.6713809967041017
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 6.96372652053833,
+                "y": 0.15527890622615815,
+                "z": 6.510046005249023
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://img.freepik.com/premium-photo/full-frame-shot-wall_1048944-17712703.jpg?semt=ais_hybrid&w=740",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/Cylinder",
+            "position": {
+                "x": -20.0,
+                "y": -12.884340286254883,
+                "z": 3.6713809967041017
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 6.96372652053833,
+                "y": 0.15527890622615815,
+                "z": 6.510046005249023
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://img.freepik.com/premium-photo/full-frame-shot-wall_1048944-17712703.jpg?semt=ais_hybrid&w=740",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/Cylinder",
+            "position": {
+                "x": -20.0,
+                "y": -13.371609687805176,
+                "z": 3.6713809967041017
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 6.96372652053833,
+                "y": 0.15527890622615815,
+                "z": 6.510046005249023
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://img.freepik.com/premium-photo/full-frame-shot-wall_1048944-17712703.jpg?semt=ais_hybrid&w=740",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/Cylinder",
+            "position": {
+                "x": -20.0,
+                "y": -13.975261688232422,
+                "z": 3.6713809967041017
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 6.96372652053833,
+                "y": 0.15527890622615815,
+                "z": 6.510046005249023
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://img.freepik.com/premium-photo/full-frame-shot-wall_1048944-17712703.jpg?semt=ais_hybrid&w=740",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/Cylinder",
+            "position": {
+                "x": -20.0,
+                "y": -14.494770050048829,
+                "z": 3.6713809967041017
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 6.96372652053833,
+                "y": 0.15527890622615815,
+                "z": 6.510046005249023
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://img.freepik.com/premium-photo/full-frame-shot-wall_1048944-17712703.jpg?semt=ais_hybrid&w=740",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/Cylinder",
+            "position": {
+                "x": -20.0,
+                "y": -14.838419914245606,
+                "z": 3.6713809967041017
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 6.96372652053833,
+                "y": 0.15527890622615815,
+                "z": 6.510046005249023
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://img.freepik.com/premium-photo/full-frame-shot-wall_1048944-17712703.jpg?semt=ais_hybrid&w=740",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/Cylinder",
+            "position": {
+                "x": -20.0,
+                "y": -15.30115032196045,
+                "z": 3.6713809967041017
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 6.96372652053833,
+                "y": 0.15527890622615815,
+                "z": 6.510046005249023
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://img.freepik.com/premium-photo/full-frame-shot-wall_1048944-17712703.jpg?semt=ais_hybrid&w=740",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/Cylinder",
+            "position": {
+                "x": -20.0,
+                "y": -15.923009872436524,
+                "z": 3.6713809967041017
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 6.96372652053833,
+                "y": 0.15527890622615815,
+                "z": 6.510046005249023
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://img.freepik.com/premium-photo/full-frame-shot-wall_1048944-17712703.jpg?semt=ais_hybrid&w=740",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/Cylinder",
+            "position": {
+                "x": -20.0,
+                "y": -17.49970054626465,
+                "z": 3.6713809967041017
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 6.96372652053833,
+                "y": 0.15527890622615815,
+                "z": 6.510046005249023
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://img.freepik.com/premium-photo/full-frame-shot-wall_1048944-17712703.jpg?semt=ais_hybrid&w=740",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/Cylinder",
+            "position": {
+                "x": -20.0,
+                "y": -16.38640022277832,
+                "z": 3.6713809967041017
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 6.96372652053833,
+                "y": 0.15527890622615815,
+                "z": 6.510046005249023
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://img.freepik.com/premium-photo/full-frame-shot-wall_1048944-17712703.jpg?semt=ais_hybrid&w=740",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/Cylinder",
+            "position": {
+                "x": -20.0,
+                "y": -16.91177749633789,
+                "z": 3.6713809967041017
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 6.96372652053833,
+                "y": 0.15527890622615815,
+                "z": 6.510046005249023
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://img.freepik.com/premium-photo/full-frame-shot-wall_1048944-17712703.jpg?semt=ais_hybrid&w=740",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 5.72489595413208,
+                "y": -20.2973575592041,
+                "z": 13.933770179748536
+            },
+            "rotation": {
+                "x": -8.537736562175269e-7,
+                "y": 344.47509765625,
+                "z": 151.8126983642578
+            },
+            "scale": {
+                "x": 0.09784470498561859,
+                "y": 8.128493309020996,
+                "z": 0.21243548393249513
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYOkw_keKcwjgIMX5nRPuKZ_ea-Ga8RaFMyw&s",
+            "textureTile": "2",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 15.0,
+                "y": -20.309690475463868,
+                "z": 53.10293960571289
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": -2.7534749507904054,
+                "y": -2.7714710235595705,
+                "z": 0.0029907228890806438
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://i.pinimg.com/236x/51/df/57/51df57131bd5eea362637a5b099e24d1.jpg",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 19.91020965576172,
+                "y": -20.309690475463868,
+                "z": 53.10293960571289
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": -2.7534749507904054,
+                "y": -2.7714710235595705,
+                "z": 0.0029907228890806438
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://i.pinimg.com/236x/51/df/57/51df57131bd5eea362637a5b099e24d1.jpg",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 9.844289779663086,
+                "y": -20.309690475463868,
+                "z": 53.10293960571289
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": -2.7534749507904054,
+                "y": -2.7714710235595705,
+                "z": 0.0029907228890806438
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://i.pinimg.com/236x/51/df/57/51df57131bd5eea362637a5b099e24d1.jpg",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 12.327619552612305,
+                "y": -20.309690475463868,
+                "z": 49.40596008300781
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": -2.7534749507904054,
+                "y": -2.7714710235595705,
+                "z": 0.0029907228890806438
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://i.pinimg.com/236x/51/df/57/51df57131bd5eea362637a5b099e24d1.jpg",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 17.4737491607666,
+                "y": -20.309690475463868,
+                "z": 49.40596008300781
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": -2.7534749507904054,
+                "y": -2.7714710235595705,
+                "z": 0.0029907228890806438
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://i.pinimg.com/236x/51/df/57/51df57131bd5eea362637a5b099e24d1.jpg",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 14.657835006713868,
+                "y": -21.0,
+                "z": 46.45634841918945
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 8.725225448608399,
+                "y": 1.0,
+                "z": 0.9030417799949646
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYOkw_keKcwjgIMX5nRPuKZ_ea-Ga8RaFMyw&s",
+            "textureTile": "3",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -15.094380378723145,
+                "y": -22.126739501953126,
+                "z": 22.809059143066408
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 2.9345929622650148,
+                "y": 1.0,
+                "z": 5.583155155181885
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4Bgz-yPufEDiLNscarFmm-qVom_ze0gN1XA&s",
+            "textureTile": "2",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -15.094380378723145,
+                "y": -22.126739501953126,
+                "z": 22.809059143066408
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 2.9345929622650148,
+                "y": 1.0,
+                "z": 5.583155155181885
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4Bgz-yPufEDiLNscarFmm-qVom_ze0gN1XA&s",
+            "textureTile": "2",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -13.65552043914795,
+                "y": -22.126739501953126,
+                "z": 18.7962703704834
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 141.2115020751953,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 2.9345932006835939,
+                "y": 1.0,
+                "z": 5.583156108856201
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4Bgz-yPufEDiLNscarFmm-qVom_ze0gN1XA&s",
+            "textureTile": "2",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -10.403739929199219,
+                "y": -22.126739501953126,
+                "z": 17.390270233154298
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 264.1356201171875,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 2.9345932006835939,
+                "y": 1.0,
+                "z": 5.583156108856201
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4Bgz-yPufEDiLNscarFmm-qVom_ze0gN1XA&s",
+            "textureTile": "2",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -5.390368938446045,
+                "y": -22.126739501953126,
+                "z": 17.390270233154298
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 277.08111572265627,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 2.9345932006835939,
+                "y": 1.0,
+                "z": 5.583156108856201
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4Bgz-yPufEDiLNscarFmm-qVom_ze0gN1XA&s",
+            "textureTile": "2",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -1.567579984664917,
+                "y": -22.126739501953126,
+                "z": 18.524560928344728
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 230.0173797607422,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 2.934593439102173,
+                "y": 1.0,
+                "z": 5.583156585693359
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4Bgz-yPufEDiLNscarFmm-qVom_ze0gN1XA&s",
+            "textureTile": "2",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 1.28158700466156,
+                "y": -22.126739501953126,
+                "z": 20.253129959106447
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 260.970458984375,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 2.9345927238464357,
+                "y": 1.0,
+                "z": 3.0788187980651857
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4Bgz-yPufEDiLNscarFmm-qVom_ze0gN1XA&s",
+            "textureTile": "2",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 5.196359157562256,
+                "y": -22.126739501953126,
+                "z": 20.18597984313965
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 275.5752868652344,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 2.9345932006835939,
+                "y": 1.0,
+                "z": 5.72521448135376
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4Bgz-yPufEDiLNscarFmm-qVom_ze0gN1XA&s",
+            "textureTile": "2",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 7.778836250305176,
+                "y": -22.126739501953126,
+                "z": 18.625160217285158
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 336.714111328125,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 2.9345927238464357,
+                "y": 1.0,
+                "z": 4.815535545349121
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4Bgz-yPufEDiLNscarFmm-qVom_ze0gN1XA&s",
+            "textureTile": "2",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -13.65552043914795,
+                "y": -22.126739501953126,
+                "z": 18.7962703704834
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 141.2115020751953,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 2.934593439102173,
+                "y": 1.0,
+                "z": 5.583156108856201
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4Bgz-yPufEDiLNscarFmm-qVom_ze0gN1XA&s",
+            "textureTile": "2",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -13.65552043914795,
+                "y": -22.126739501953126,
+                "z": 15.28108024597168
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 227.01890563964845,
+                "z": 0.6069849133491516
+            },
+            "scale": {
+                "x": 2.934593439102173,
+                "y": 1.0,
+                "z": 5.583156108856201
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4Bgz-yPufEDiLNscarFmm-qVom_ze0gN1XA&s",
+            "textureTile": "2",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -16.442829132080079,
+                "y": -22.126739501953126,
+                "z": 11.376618385314942
+            },
+            "rotation": {
+                "x": 1.3340213378398858e-8,
+                "y": 201.0677947998047,
+                "z": 0.6069849729537964
+            },
+            "scale": {
+                "x": 2.934593439102173,
+                "y": 1.0,
+                "z": 5.583156108856201
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4Bgz-yPufEDiLNscarFmm-qVom_ze0gN1XA&s",
+            "textureTile": "2",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -18.3116397857666,
+                "y": -22.126739501953126,
+                "z": 6.37827205657959
+            },
+            "rotation": {
+                "x": 2.0010320511687497e-8,
+                "y": 201.0677947998047,
+                "z": 0.6069849729537964
+            },
+            "scale": {
+                "x": 2.934593439102173,
+                "y": 1.0,
+                "z": 5.583156108856201
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4Bgz-yPufEDiLNscarFmm-qVom_ze0gN1XA&s",
+            "textureTile": "2",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -1.567579984664917,
+                "y": -22.126739501953126,
+                "z": 26.34929084777832
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 153.13616943359376,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 2.9345929622650148,
+                "y": 1.0,
+                "z": 12.246809005737305
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4Bgz-yPufEDiLNscarFmm-qVom_ze0gN1XA&s",
+            "textureTile": "2",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -1.567579984664917,
+                "y": -22.126739501953126,
+                "z": 31.59197998046875
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 237.77685546875,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 2.9345927238464357,
+                "y": 1.0,
+                "z": 6.170404434204102
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4Bgz-yPufEDiLNscarFmm-qVom_ze0gN1XA&s",
+            "textureTile": "2",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 2.134114980697632,
+                "y": -22.126739501953126,
+                "z": 35.24967956542969
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 209.160400390625,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 2.9345924854278566,
+                "y": 1.0,
+                "z": 6.170404434204102
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4Bgz-yPufEDiLNscarFmm-qVom_ze0gN1XA&s",
+            "textureTile": "2",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 5.777666091918945,
+                "y": -22.126739501953126,
+                "z": 38.93873977661133
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 239.49807739257813,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 2.9345924854278566,
+                "y": 1.0,
+                "z": 6.17040491104126
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4Bgz-yPufEDiLNscarFmm-qVom_ze0gN1XA&s",
+            "textureTile": "2",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 10.031370162963868,
+                "y": -22.126739501953126,
+                "z": 43.23506164550781
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 216.75669860839845,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 2.9345924854278566,
+                "y": 1.0,
+                "z": 9.234640121459961
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4Bgz-yPufEDiLNscarFmm-qVom_ze0gN1XA&s",
+            "textureTile": "2",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 8.481027603149414,
+                "y": -22.126739501953126,
+                "z": 37.381988525390628
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 292.0527648925781,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 2.9345922470092775,
+                "y": 1.0,
+                "z": 6.170404434204102
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4Bgz-yPufEDiLNscarFmm-qVom_ze0gN1XA&s",
+            "textureTile": "2",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 12.496720314025879,
+                "y": -22.126739501953126,
+                "z": 34.88433074951172
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 308.9552917480469,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 2.9345922470092775,
+                "y": 1.0,
+                "z": 6.170404434204102
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4Bgz-yPufEDiLNscarFmm-qVom_ze0gN1XA&s",
+            "textureTile": "2",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 17.379470825195314,
+                "y": -22.126739501953126,
+                "z": 31.955289840698243
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 292.98870849609377,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 2.9345922470092775,
+                "y": 1.0,
+                "z": 6.17040491104126
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4Bgz-yPufEDiLNscarFmm-qVom_ze0gN1XA&s",
+            "textureTile": "2",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -26.709030151367189,
+                "y": -21.217849731445314,
+                "z": 3.6977241039276125
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 334.61358642578127,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.3919258117675781,
+                "y": 1.0,
+                "z": 1.8128629922866822
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT5sh36JmkrQtzwT8bEs8vKogvGVOgqTd5Tw&s",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -24.509260177612306,
+                "y": -21.217849731445314,
+                "z": 2.032093048095703
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 288.0474853515625,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.3919258415699005,
+                "y": 1.0,
+                "z": 1.8128628730773926
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT5sh36JmkrQtzwT8bEs8vKogvGVOgqTd5Tw&s",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 25.92753028869629,
+                "y": -21.217849731445314,
+                "z": 2.032093048095703
+            },
+            "rotation": {
+                "x": 358.7872619628906,
+                "y": 266.7031555175781,
+                "z": -1.0674560257939447e-7
+            },
+            "scale": {
+                "x": 0.3919258415699005,
+                "y": 1.0,
+                "z": 1.8128629922866822
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT5sh36JmkrQtzwT8bEs8vKogvGVOgqTd5Tw&s",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 23.524980545043947,
+                "y": -21.217849731445314,
+                "z": 3.6186490058898927
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 233.75009155273438,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.3919258713722229,
+                "y": 1.0,
+                "z": 1.8128631114959717
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT5sh36JmkrQtzwT8bEs8vKogvGVOgqTd5Tw&s",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 25.852340698242189,
+                "y": -21.217849731445314,
+                "z": 5.280971050262451
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 312.6424865722656,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.3919258713722229,
+                "y": 1.0,
+                "z": 1.8128631114959717
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT5sh36JmkrQtzwT8bEs8vKogvGVOgqTd5Tw&s",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 25.852340698242189,
+                "y": -21.217849731445314,
+                "z": 5.280971050262451
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 312.6424865722656,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.3919259011745453,
+                "y": 1.0,
+                "z": 1.8128633499145508
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT5sh36JmkrQtzwT8bEs8vKogvGVOgqTd5Tw&s",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 25.852340698242189,
+                "y": -21.217849731445314,
+                "z": 10.197750091552735
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 258.9591064453125,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.3919259309768677,
+                "y": 1.0,
+                "z": 1.8128635883331299
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT5sh36JmkrQtzwT8bEs8vKogvGVOgqTd5Tw&s",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 21.503999710083009,
+                "y": -21.217849731445314,
+                "z": 5.635464191436768
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 201.11183166503907,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.3919259309768677,
+                "y": 1.0,
+                "z": 1.8128635883331299
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT5sh36JmkrQtzwT8bEs8vKogvGVOgqTd5Tw&s",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        }
+    ],
+    "npc": []
+}

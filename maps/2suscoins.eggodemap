@@ -1,0 +1,196 @@
+{
+    "mapname": "хорор но за 2 сускоина",
+    "author": "подхлебник",
+    "objects": [
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 0.0,
+                "y": -1.0,
+                "z": 0.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1000.0,
+                "y": 1.0,
+                "z": 1000.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 0.4196077883243561
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://avatars.mds.yandex.net/i?id=9747fa1869be1ab57168e614d74bc7009e75ac23-10855021-images-thumbs&n=13",
+            "id": "",
+            "Destroy": "",
+            "TpCord": "",
+            "Damagenum": "",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "",
+            "Animation": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 0.0,
+                "y": 4.699999809265137,
+                "z": -6.400000095367432
+            },
+            "rotation": {
+                "x": 67.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 7.0,
+                "y": 4.0,
+                "z": 0.8999999761581421
+            },
+            "color": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.4196077883243561
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": true,
+            "texture": "",
+            "id": "",
+            "Destroy": "",
+            "TpCord": "",
+            "Damagenum": "",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "",
+            "Animation": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 0.0,
+                "y": 2.0,
+                "z": -6.400000095367432
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 6.0,
+                "y": 4.0,
+                "z": 0.8999999761581421
+            },
+            "color": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.4196077883243561
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": true,
+            "texture": "",
+            "id": "",
+            "Destroy": "",
+            "TpCord": "",
+            "Damagenum": "",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "",
+            "Animation": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 0.0,
+                "y": 2.0,
+                "z": 6.099999904632568
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 8.500001907348633,
+                "y": 4.099999904632568,
+                "z": 1.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 0.4196077883243561
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": true,
+            "texture": "https://gas-kvas.com/uploads/posts/2023-02/1675456794_gas-kvas-com-p-fonovie-risunki-na-dveri-36.jpg",
+            "id": "1",
+            "Destroy": "1",
+            "TpCord": "",
+            "Damagenum": "",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "2",
+            "Speed": "",
+            "Animation": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 0.0,
+                "y": 148.0,
+                "z": 337.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 300.0,
+                "y": 300.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 0.4196077883243561
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": true,
+            "texture": "https://avatars.mds.yandex.net/i?id=1492c362cc0076e14da6a42d8a4de9ed8bd580b4-10639889-images-thumbs&n=13",
+            "id": "2",
+            "Destroy": "",
+            "TpCord": "",
+            "Damagenum": "100",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "",
+            "Animation": "{\n  \"loop\": \"false\",\n  \"cards\": [\n    {\n      \"pos\": \"0,148,-337\",\n       \"rotate\": \"0,180,0\",\n      \"scale\": \"300,300,1\",\n      \"speed\": \"100\"\n    }\n  ]\n}"
+        }
+    ]
+}

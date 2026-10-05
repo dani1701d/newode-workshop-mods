@@ -3,14 +3,30 @@
     {
       "name": "eg_mirage",
       "type": "map",
-      "description": "cool map",
+      "author": "Danoka",
+      "description": "Переделанная карта de_mirage из CS2.",
       "fileUrl": "https://raw.githubusercontent.com/dani1701d/newode-workshop-mods/refs/heads/main/maps/eg_mirage.eggodemap"
     },
     {
       "name": "eg_rampland",
       "type": "map",
-      "description": "same",
+      "author": "Danoka",
+      "description": "Тренировка своих навыков в мувменте, в частности на наклонных поверхностях.",
       "fileUrl": "https://raw.githubusercontent.com/dani1701d/newode-workshop-mods/refs/heads/main/maps/eg_rampland.eggodemap"
+    },
+    {
+      "name": "eg_rampland_v2",
+      "type": "map",
+      "author": "Danoka",
+      "description": "Вторая часть карты, то же самое.",
+      "fileUrl": "https://raw.githubusercontent.com/dani1701d/newode-workshop-mods/refs/heads/main/maps/eg_rampland_v2.eggodemap"
+    },
+    {
+      "name": "eg_rampland_v3",
+      "type": "map",
+      "author": "Danoka",
+      "description": "Третья часть карты, то же самое",
+      "fileUrl": "https://raw.githubusercontent.com/dani1701d/newode-workshop-mods/refs/heads/main/maps/eg_rampland_v3.eggodemap"
     }
   ]
 }

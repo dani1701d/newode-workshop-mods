@@ -1,0 +1,120 @@
+{
+    "mapname": "ЫЫ портал",
+    "author": "Rasbur Яичный",
+    "objects": [
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 0.0,
+                "y": -1.0,
+                "z": 0.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 31.0,
+                "y": 1.0,
+                "z": 44.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 0.4196077883243561
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "id": "",
+            "Destroy": "",
+            "TpCord": "",
+            "Damagenum": "",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "",
+            "Animation": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 12.0,
+                "y": 8.0,
+                "z": 15.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 3.0,
+                "y": 1.0,
+                "z": 5.0
+            },
+            "color": {
+                "r": 0.0,
+                "g": 0.3921567499637604,
+                "b": 1.0,
+                "a": 0.4196077883243561
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "id": "",
+            "Destroy": "",
+            "TpCord": "",
+            "Damagenum": "",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "",
+            "Animation": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 12.0,
+                "y": 0.0,
+                "z": 15.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 3.0,
+                "y": 1.0,
+                "z": 5.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 0.39215654134750368,
+                "b": 0.0,
+                "a": 0.4196077883243561
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "id": "",
+            "Destroy": "",
+            "TpCord": "12,6,15",
+            "Damagenum": "",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "",
+            "Animation": ""
+        }
+    ]
+}

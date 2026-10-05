@@ -1,0 +1,1418 @@
+{
+    "mapname": "Nether_(port_from_minecraft)",
+    "author": "Yarik21YT",
+    "icon": "https://i.ibb.co/422rxdp/image.png",
+    "skybox": "1",
+    "diecord": "​​​​​",
+    "uron": true,
+    "canSpawnObj": true,
+    "canDellObj": true,
+    "objects": [
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 6.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1000.0,
+                "y": 1.0,
+                "z": 1000.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://i.ibb.co/Tkynp7W/image.png",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 17.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 5.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 0.12941130995750428,
+                "g": 0.08627412468194962,
+                "b": 0.1882348656654358,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -2.0,
+                "y": 3.0,
+                "z": 17.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 4.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 0.12941128015518189,
+                "g": 0.08627406507730484,
+                "b": 0.18823480606079102,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 2.0,
+                "y": 3.0,
+                "z": 17.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 4.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 0.12941116094589234,
+                "g": 0.08627397567033768,
+                "b": 0.18823468685150147,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 0.0,
+                "y": 5.0,
+                "z": 17.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 5.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 0.12941119074821473,
+                "g": 0.08627400547266007,
+                "b": 0.18823474645614625,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 0.0,
+                "y": 3.0,
+                "z": 17.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 3.0,
+                "y": 3.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": true,
+            "texture": "https://sun6-21.userapi.com/s/v1/if1/6s2ZvXQ3jDEKzAq1XbVq-ix9FoDnz_KEHFQ-nb7lYTiPZp34HEQ1AmYMpTJSSrnHL0zsJftD.jpg?size=1080x1080&quality=96&crop=0,0,1080,1080&ava=1",
+            "type": 0,
+            "TpCord": "-4,-5,-6",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "1",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 0.0,
+                "y": -8.0,
+                "z": 0.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 20.0,
+                "y": 1.0,
+                "z": 20.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://sun9-45.userapi.com/impg/O2SvcyOqdV1tR8Uc7cWcD5YiNkzvtcJzm_6cyQ/Bo8DaWig8aQ.jpg?size=599x604&quality=96&sign=489b35f5eb04eefaf0b3a8e7ccc51462&type=album",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/dverrrrrrrrrrrrrrrrrr",
+            "position": {
+                "x": 2.0,
+                "y": -5.0,
+                "z": -9.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": true,
+            "texture": "",
+            "type": 0,
+            "TpCord": "2,2,13",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -9.0,
+                "y": -7.0,
+                "z": 0.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 2.0,
+                "y": 9.0,
+                "z": 20.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://sun9-45.userapi.com/impg/O2SvcyOqdV1tR8Uc7cWcD5YiNkzvtcJzm_6cyQ/Bo8DaWig8aQ.jpg?size=599x604&quality=96&sign=489b35f5eb04eefaf0b3a8e7ccc51462&type=album",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 9.0,
+                "y": -7.0,
+                "z": 0.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 2.0,
+                "y": 9.0,
+                "z": 20.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://sun9-45.userapi.com/impg/O2SvcyOqdV1tR8Uc7cWcD5YiNkzvtcJzm_6cyQ/Bo8DaWig8aQ.jpg?size=599x604&quality=96&sign=489b35f5eb04eefaf0b3a8e7ccc51462&type=album",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 0.0,
+                "y": -7.0,
+                "z": 9.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 2.0,
+                "y": 9.0,
+                "z": 19.999996185302736
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://sun9-45.userapi.com/impg/O2SvcyOqdV1tR8Uc7cWcD5YiNkzvtcJzm_6cyQ/Bo8DaWig8aQ.jpg?size=599x604&quality=96&sign=489b35f5eb04eefaf0b3a8e7ccc51462&type=album",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 0.0,
+                "y": -7.0,
+                "z": -10.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 2.0,
+                "y": 9.0,
+                "z": 19.999996185302736
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://sun9-45.userapi.com/impg/O2SvcyOqdV1tR8Uc7cWcD5YiNkzvtcJzm_6cyQ/Bo8DaWig8aQ.jpg?size=599x604&quality=96&sign=489b35f5eb04eefaf0b3a8e7ccc51462&type=album",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 0.0,
+                "y": -3.0,
+                "z": 0.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 20.0,
+                "y": 1.0,
+                "z": 20.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://sun9-45.userapi.com/impg/O2SvcyOqdV1tR8Uc7cWcD5YiNkzvtcJzm_6cyQ/Bo8DaWig8aQ.jpg?size=599x604&quality=96&sign=489b35f5eb04eefaf0b3a8e7ccc51462&type=album",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/Cylinder",
+            "position": {
+                "x": -2.0,
+                "y": 1.0,
+                "z": -8.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 85.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.9000001549720764,
+                "y": 0.5,
+                "z": 0.5
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://i.ibb.co/1KzH9Ln/2-y-NEDOErw62.png",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/EpicSUStxt",
+            "position": {
+                "x": 0.0,
+                "y": 9.0,
+                "z": 16.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "ПОРТАЛ В НЕЗЕР",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/Cylinder",
+            "position": {
+                "x": -3.0,
+                "y": -7.0,
+                "z": 5.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.5,
+                "y": 0.5,
+                "z": 0.5
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://kartinki.pics/uploads/posts/2021-07/thumbs/1626795150_26-kartinkin-com-p-belii-kafel-tekstura-krasivo-29.jpg",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/Cylinder",
+            "position": {
+                "x": -3.0,
+                "y": -6.5,
+                "z": 5.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 5.0,
+                "y": 0.20000000298023225,
+                "z": 5.0
+            },
+            "color": {
+                "r": 0.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://kartinki.pics/uploads/posts/2021-07/thumbs/1626965015_24-kartinkin-com-p-sinii-plastik-tekstura-krasivo-26.jpg",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/Cylinder",
+            "position": {
+                "x": 1.0,
+                "y": -6.5,
+                "z": 5.5
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://static.wikia.nocookie.net/minecraftseries/images/3/33/Херобрин_%28МХ%29.png/revision/latest?cb=20220320183724&path-prefix=ru",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/Cylinder",
+            "position": {
+                "x": -6.300000190734863,
+                "y": -6.5,
+                "z": 5.5
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 280.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://static.wikia.nocookie.net/minecraft_ru_gamepedia/images/9/96/Анонс_жестокого_пиглина.png/revision/latest?cb=20200707150856",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -3.0,
+                "y": -6.0,
+                "z": 5.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 0.5,
+                "z": 0.5
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://i.pinimg.com/736x/48/49/72/4849721b22dd5c314f7b3439b7ea3212.jpg",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 5.0,
+                "y": 1.5,
+                "z": 2.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.30000001192092898,
+                "y": 2.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://static.wikia.nocookie.net/bbrms/images/a/af/BSODAMachine.png/revision/latest/scale-to-width/360?cb=20230601235238",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/Tree",
+            "position": {
+                "x": -23.0,
+                "y": 1.0,
+                "z": 12.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": true,
+            "texture": "",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/Tree",
+            "position": {
+                "x": 23.0,
+                "y": 1.0,
+                "z": 12.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": true,
+            "texture": "",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/Tree",
+            "position": {
+                "x": 24.0,
+                "y": 1.0,
+                "z": -13.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": true,
+            "texture": "",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/Tree",
+            "position": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 52.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": true,
+            "texture": "",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/Tree",
+            "position": {
+                "x": -24.0,
+                "y": 1.0,
+                "z": -13.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": true,
+            "texture": "",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/Tree",
+            "position": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": -52.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": true,
+            "texture": "",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/плакат1",
+            "position": {
+                "x": -4.900000095367432,
+                "y": 2.0,
+                "z": 0.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.000009999999747378752,
+                "y": 3.0,
+                "z": 2.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/SUN",
+            "position": {
+                "x": 54.0,
+                "y": 56.0,
+                "z": 63.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 0.5,
+                "g": 0.5,
+                "b": 0.5,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 10.0,
+                "y": 1.0,
+                "z": 12.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 5.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://png.pngtree.com/thumb_back/fw800/background/20231031/pngtree-close-up-view-of-intricate-wood-grain-in-tree-background-image_13745651.png",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/Sphere",
+            "position": {
+                "x": 10.0,
+                "y": 1.7000000476837159,
+                "z": 12.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.30000001192092898,
+                "y": 0.4000000059604645,
+                "z": 1.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": true,
+            "isCollider": false,
+            "texture": "https://media.istockphoto.com/id/637683106/ru/фото/текстура-белого-хлеба-хлеб-текстурный-фон.jpg?s=612x612&w=is&k=20&c=Ij4wJzLdiCwKCfhsOXiwUK0vjAHdoWDWoAS8Kd4bn-A=",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 10.0,
+                "y": 4.0,
+                "z": 12.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.0010000000474974514,
+                "y": 1.0,
+                "z": 2.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://i.ibb.co/3Ft2gZ4/image.png",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        }
+    ],
+    "npc": [
+        {
+            "folderLocation": "NPC/NPC",
+            "position": {
+                "x": 3.000000476837158,
+                "y": -6.5,
+                "z": 1.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 310.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.5834020376205445,
+                "y": 1.583400011062622,
+                "z": 1.5834020376205445
+            },
+            "color": {
+                "r": 0.7907306551933289,
+                "g": 0.7907306551933289,
+                "b": 0.7907306551933289,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "npcslovo": "добро пожаловать в \"кривой\" незер! (майнкрафт референс)"
+        },
+        {
+            "folderLocation": "NPC/NPC",
+            "position": {
+                "x": 1.0000004768371583,
+                "y": 1.0,
+                "z": -8.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.583400011062622,
+                "y": 1.583400011062622,
+                "z": 1.583400011062622
+            },
+            "color": {
+                "r": 0.7907306551933289,
+                "g": 0.7907306551933289,
+                "b": 0.7907306551933289,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "npcslovo": "АФИГЕТЬ!!!! ЭТО ЖЕ КОШКА СКИН!!!! Я ТВОЙ ФАНАТ!!"
+        },
+        {
+            "folderLocation": "NPC/NPC",
+            "position": {
+                "x": 5.000000476837158,
+                "y": 1.3999996185302735,
+                "z": 52.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.583400011062622,
+                "y": 1.583400011062622,
+                "z": 1.583400011062622
+            },
+            "color": {
+                "r": 0.7907306551933289,
+                "g": 0.7907306551933289,
+                "b": 0.7907306551933289,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "npcslovo": "какое большое дерево! впервые такое вижу!"
+        },
+        {
+            "folderLocation": "NPC/NPC",
+            "position": {
+                "x": 4.000000476837158,
+                "y": 1.0,
+                "z": 0.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.5834002494812012,
+                "y": 1.583400011062622,
+                "z": 1.5834002494812012
+            },
+            "color": {
+                "r": 0.7907306551933289,
+                "g": 0.7907306551933289,
+                "b": 0.7907306551933289,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "npcslovo": "Этот автомат с BSOD'ой сломался."
+        }
+    ]
+}

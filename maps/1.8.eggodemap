@@ -1,0 +1,6436 @@
+{
+    "mapname": "кирпичное поле 1.8",
+    "author": "подхлебник",
+    "skybox": "2",
+    "diecord": "0,2,0",
+    "uron": true,
+    "canSpawnObj": true,
+    "canDellObj": true,
+    "objects": [
+        {
+            "folderLocation": "mapcreator/SUN",
+            "position": {
+                "x": 0.0,
+                "y": 11.275702476501465,
+                "z": 0.4088647663593292
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 0.5,
+                "g": 0.5,
+                "b": 0.5,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 0.0,
+                "y": 12.275699615478516,
+                "z": 0.4088647961616516
+            },
+            "rotation": {
+                "x": 270.0,
+                "y": 0.00001001791224553017,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 0.5,
+                "g": 0.5,
+                "b": 0.5,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": true,
+            "texture": "",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 31.0,
+                "y": -20.0,
+                "z": 0.0
+            },
+            "rotation": {
+                "x": 45.000038146972659,
+                "y": 270.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 134.0,
+                "y": 1.0,
+                "z": 100.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://avatars.mds.yandex.net/i?id=852f11f876556f82b24138f1caa4c5bf7cd28dad-10836596-images-thumbs&n=13",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 134.0,
+                "y": 15.199999809265137,
+                "z": 116.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 134.0,
+                "y": 1.0,
+                "z": 100.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://avatars.mds.yandex.net/i?id=852f11f876556f82b24138f1caa4c5bf7cd28dad-10836596-images-thumbs&n=13",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 0.0,
+                "y": -20.0,
+                "z": -31.0
+            },
+            "rotation": {
+                "x": 45.000003814697269,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 134.0,
+                "y": 1.0,
+                "z": 100.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://avatars.mds.yandex.net/i?id=852f11f876556f82b24138f1caa4c5bf7cd28dad-10836596-images-thumbs&n=13",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 0.0,
+                "y": -20.0,
+                "z": 31.0
+            },
+            "rotation": {
+                "x": 45.000003814697269,
+                "y": 180.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 134.0,
+                "y": 1.0,
+                "z": 100.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://avatars.mds.yandex.net/i?id=852f11f876556f82b24138f1caa4c5bf7cd28dad-10836596-images-thumbs&n=13",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -31.0,
+                "y": -20.0,
+                "z": 0.0
+            },
+            "rotation": {
+                "x": 45.000038146972659,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 134.0,
+                "y": 1.0,
+                "z": 100.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://avatars.mds.yandex.net/i?id=852f11f876556f82b24138f1caa4c5bf7cd28dad-10836596-images-thumbs&n=13",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 134.0,
+                "y": 15.199999809265137,
+                "z": -116.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 134.0,
+                "y": 1.0,
+                "z": 100.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://avatars.mds.yandex.net/i?id=852f11f876556f82b24138f1caa4c5bf7cd28dad-10836596-images-thumbs&n=13",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 0.0,
+                "y": 15.199999809265137,
+                "z": 116.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 134.0,
+                "y": 1.0,
+                "z": 100.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://avatars.mds.yandex.net/i?id=852f11f876556f82b24138f1caa4c5bf7cd28dad-10836596-images-thumbs&n=13",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 0.0,
+                "y": 15.199999809265137,
+                "z": -116.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 134.0,
+                "y": 1.0,
+                "z": 100.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://avatars.mds.yandex.net/i?id=852f11f876556f82b24138f1caa4c5bf7cd28dad-10836596-images-thumbs&n=13",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -133.5,
+                "y": 15.199999809265137,
+                "z": 0.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 135.0,
+                "y": 1.0,
+                "z": 134.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://avatars.mds.yandex.net/i?id=852f11f876556f82b24138f1caa4c5bf7cd28dad-10836596-images-thumbs&n=13",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -134.0,
+                "y": 15.199999809265137,
+                "z": -116.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 134.0,
+                "y": 1.0,
+                "z": 100.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://avatars.mds.yandex.net/i?id=852f11f876556f82b24138f1caa4c5bf7cd28dad-10836596-images-thumbs&n=13",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 31.0,
+                "y": -20.0,
+                "z": 0.0
+            },
+            "rotation": {
+                "x": 45.000038146972659,
+                "y": 270.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 134.0,
+                "y": 1.0,
+                "z": 100.00010681152344
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://avatars.mds.yandex.net/i?id=852f11f876556f82b24138f1caa4c5bf7cd28dad-10836596-images-thumbs&n=13",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 0.0,
+                "y": -20.0,
+                "z": -31.0
+            },
+            "rotation": {
+                "x": 45.000003814697269,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 134.0,
+                "y": 1.0,
+                "z": 100.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://avatars.mds.yandex.net/i?id=852f11f876556f82b24138f1caa4c5bf7cd28dad-10836596-images-thumbs&n=13",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 0.0,
+                "y": -20.0,
+                "z": 31.0
+            },
+            "rotation": {
+                "x": 45.000003814697269,
+                "y": 180.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 134.0,
+                "y": 1.0,
+                "z": 100.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://avatars.mds.yandex.net/i?id=852f11f876556f82b24138f1caa4c5bf7cd28dad-10836596-images-thumbs&n=13",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -31.0,
+                "y": -20.0,
+                "z": 0.0
+            },
+            "rotation": {
+                "x": 45.000038146972659,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 134.0,
+                "y": 1.0,
+                "z": 100.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://avatars.mds.yandex.net/i?id=852f11f876556f82b24138f1caa4c5bf7cd28dad-10836596-images-thumbs&n=13",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 0.0,
+                "y": -68.5,
+                "z": 0.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 404.0,
+                "y": 1.0,
+                "z": 333.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://avatars.mds.yandex.net/i?id=aa4656b70bc48d81c539d2b22e7b78742e19a3b9-10415038-images-thumbs&n=13",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -134.0,
+                "y": 5.199999809265137,
+                "z": 164.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 134.0,
+                "y": 21.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://avatars.mds.yandex.net/i?id=852f11f876556f82b24138f1caa4c5bf7cd28dad-10836596-images-thumbs&n=13",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 133.5,
+                "y": 15.199999809265137,
+                "z": 0.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 135.0,
+                "y": 1.0,
+                "z": 134.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://avatars.mds.yandex.net/i?id=852f11f876556f82b24138f1caa4c5bf7cd28dad-10836596-images-thumbs&n=13",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 0.0,
+                "y": -21.799999237060548,
+                "z": 166.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 93.0,
+                "z": 404.0007629394531
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://avatars.mds.yandex.net/i?id=aa4656b70bc48d81c539d2b22e7b78742e19a3b9-10415038-images-thumbs&n=13",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 0.0,
+                "y": -1.0,
+                "z": 0.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 100.0,
+                "y": 1.0,
+                "z": 100.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://avatars.mds.yandex.net/i?id=852f11f876556f82b24138f1caa4c5bf7cd28dad-10836596-images-thumbs&n=13",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 201.5,
+                "y": -21.799999237060548,
+                "z": 0.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 93.0,
+                "z": 333.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://avatars.mds.yandex.net/i?id=aa4656b70bc48d81c539d2b22e7b78742e19a3b9-10415038-images-thumbs&n=13",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -0.5,
+                "y": -21.799999237060548,
+                "z": -166.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 93.0,
+                "z": 403.00079345703127
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://avatars.mds.yandex.net/i?id=aa4656b70bc48d81c539d2b22e7b78742e19a3b9-10415038-images-thumbs&n=13",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -201.5,
+                "y": -21.799999237060548,
+                "z": 0.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 93.0,
+                "z": 332.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://avatars.mds.yandex.net/i?id=aa4656b70bc48d81c539d2b22e7b78742e19a3b9-10415038-images-thumbs&n=13",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -17.200000762939454,
+                "y": 19.0,
+                "z": 118.0999984741211
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 7.400000095367432,
+                "y": 6.699999809265137,
+                "z": 32.20000076293945
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://avatars.mds.yandex.net/i?id=aa4656b70bc48d81c539d2b22e7b78742e19a3b9-10415038-images-thumbs&n=13",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -17.200000762939454,
+                "y": 22.100000381469728,
+                "z": 118.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 5.400000095367432,
+                "y": 16.299999237060548,
+                "z": 28.799999237060548
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://avatars.mds.yandex.net/i?id=aa4656b70bc48d81c539d2b22e7b78742e19a3b9-10415038-images-thumbs&n=13",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -14.399999618530274,
+                "y": 28.200000762939454,
+                "z": 118.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 313.39996337890627
+            },
+            "scale": {
+                "x": 4.500000953674316,
+                "y": 10.800008773803711,
+                "z": 28.799999237060548
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://avatars.mds.yandex.net/i?id=aa4656b70bc48d81c539d2b22e7b78742e19a3b9-10415038-images-thumbs&n=13",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -17.200000762939454,
+                "y": 22.799999237060548,
+                "z": 118.0999984741211
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 6.099999904632568,
+                "y": 1.0,
+                "z": 29.399999618530275
+            },
+            "color": {
+                "r": 0.7843137383460999,
+                "g": 0.7843137383460999,
+                "b": 0.7843137383460999,
+                "a": 0.4196077883243561
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 17.200000762939454,
+                "y": 22.799999237060548,
+                "z": 118.0999984741211
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 6.099999904632568,
+                "y": 1.0,
+                "z": 29.399999618530275
+            },
+            "color": {
+                "r": 0.7843137383460999,
+                "g": 0.7843137383460999,
+                "b": 0.7843137383460999,
+                "a": 0.4196077883243561
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 0.0,
+                "y": 30.899999618530275,
+                "z": 118.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 40.400001525878909,
+                "y": 2.599993944168091,
+                "z": 29.200000762939454
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://avatars.mds.yandex.net/i?id=aa4656b70bc48d81c539d2b22e7b78742e19a3b9-10415038-images-thumbs&n=13",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 0.0,
+                "y": 32.70000076293945,
+                "z": 118.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 41.0,
+                "y": 2.0,
+                "z": 31.399999618530275
+            },
+            "color": {
+                "r": 0.7843137383460999,
+                "g": 0.7843137383460999,
+                "b": 0.7843137383460999,
+                "a": 0.4196077883243561
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 17.200000762939454,
+                "y": 22.100000381469728,
+                "z": 118.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 5.400000095367432,
+                "y": 16.299999237060548,
+                "z": 28.799999237060548
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://avatars.mds.yandex.net/i?id=aa4656b70bc48d81c539d2b22e7b78742e19a3b9-10415038-images-thumbs&n=13",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 14.399999618530274,
+                "y": 28.200000762939454,
+                "z": 118.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 46.599998474121097
+            },
+            "scale": {
+                "x": 4.5,
+                "y": 10.800000190734864,
+                "z": 28.799999237060548
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://avatars.mds.yandex.net/i?id=aa4656b70bc48d81c539d2b22e7b78742e19a3b9-10415038-images-thumbs&n=13",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 17.200000762939454,
+                "y": 19.0,
+                "z": 118.0999984741211
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 7.400000095367432,
+                "y": 6.699999809265137,
+                "z": 32.20000076293945
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://avatars.mds.yandex.net/i?id=aa4656b70bc48d81c539d2b22e7b78742e19a3b9-10415038-images-thumbs&n=13",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/EpicSUStxt",
+            "position": {
+                "x": 261.0,
+                "y": 68.0,
+                "z": 0.0
+            },
+            "rotation": {
+                "x": 336.0,
+                "y": 90.0,
+                "z": 9.999999046325684
+            },
+            "scale": {
+                "x": 3.000000238418579,
+                "y": 6.000000476837158,
+                "z": 1.0
+            },
+            "color": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/плакат1",
+            "position": {
+                "x": 13.399999618530274,
+                "y": 18.0,
+                "z": 111.0
+            },
+            "rotation": {
+                "x": 354.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.0010000000474974514,
+                "y": 2.9029529094696047,
+                "z": 2.4000000953674318
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://www.epicsusgames.com/avatarki_forum/20240305195014225cat_skin_imba_ava_hahahahah.png",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/плакат1",
+            "position": {
+                "x": -13.399999618530274,
+                "y": 18.0,
+                "z": 125.0
+            },
+            "rotation": {
+                "x": 354.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.0010000000474974514,
+                "y": 2.9029529094696047,
+                "z": 5.10001277923584
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://www.epicsusgames.com/avatarki_forum/20240313200848311cat_skin_imba_ava_hahahahah.png",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 37.0,
+                "y": 10.0,
+                "z": -30.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 15.0,
+                "y": 22.0,
+                "z": 15.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://avatars.mds.yandex.net/i?id=5f3df301353330587c8af6917a9e83590dacf041-9625733-images-thumbs&n=13",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -37.0,
+                "y": 21.5,
+                "z": 30.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 17.0,
+                "y": 1.0,
+                "z": 17.0
+            },
+            "color": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.4196077883243561
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "8",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -35.29999923706055,
+                "y": 1.0,
+                "z": 44.29999923706055
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.5,
+                "y": 4.0,
+                "z": 26.00004768371582
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://avatars.mds.yandex.net/i?id=aa4656b70bc48d81c539d2b22e7b78742e19a3b9-10415038-images-thumbs&n=13",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -22.600000381469728,
+                "y": 1.0,
+                "z": 28.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 337.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.6000000238418579,
+                "y": 4.0,
+                "z": 26.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://avatars.mds.yandex.net/i?id=aa4656b70bc48d81c539d2b22e7b78742e19a3b9-10415038-images-thumbs&n=13",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -48.0,
+                "y": 1.0,
+                "z": 31.5
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.6000000238418579,
+                "y": 4.0,
+                "z": 26.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://avatars.mds.yandex.net/i?id=aa4656b70bc48d81c539d2b22e7b78742e19a3b9-10415038-images-thumbs&n=13",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 66.0,
+                "y": 15.699999809265137,
+                "z": 99.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 55.0,
+                "y": 0.20000000298023225,
+                "z": 41.5
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://avatars.mds.yandex.net/i?id=34b74f533af27ff1dafdb7840edb2be7d47bad12-10812288-images-thumbs&n=13",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -37.0,
+                "y": 10.0,
+                "z": 30.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 15.0,
+                "y": 22.0,
+                "z": 15.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://avatars.mds.yandex.net/i?id=5f3df301353330587c8af6917a9e83590dacf041-9625733-images-thumbs&n=13",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "8",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 37.0,
+                "y": 21.5,
+                "z": -30.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 17.0,
+                "y": 1.0,
+                "z": 17.0
+            },
+            "color": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.4196077883243561
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 34.0,
+                "y": 2.200000047683716,
+                "z": 32.79999923706055
+            },
+            "rotation": {
+                "x": 45.000003814697269,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 12.0,
+                "y": 9.500001907348633,
+                "z": 1.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://avatars.mds.yandex.net/i?id=aa4656b70bc48d81c539d2b22e7b78742e19a3b9-10415038-images-thumbs&n=13",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 3.0,
+                "y": 3.0,
+                "z": -33.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 48.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 12.0,
+                "y": 7.699999809265137,
+                "z": 1.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://avatars.mds.yandex.net/i?id=aa4656b70bc48d81c539d2b22e7b78742e19a3b9-10415038-images-thumbs&n=13",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 35.0,
+                "y": 0.0,
+                "z": 11.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 3.200000047683716,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 7.100011348724365,
+                "y": 1.0,
+                "z": 4.400000095367432
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://avatars.mds.yandex.net/i?id=aa4656b70bc48d81c539d2b22e7b78742e19a3b9-10415038-images-thumbs&n=13",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -34.0,
+                "y": 2.0,
+                "z": -44.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 302.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 6.0,
+                "z": 8.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://avatars.mds.yandex.net/i?id=aa4656b70bc48d81c539d2b22e7b78742e19a3b9-10415038-images-thumbs&n=13",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -44.0,
+                "y": 2.0,
+                "z": -43.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 6.0,
+                "z": 9.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://avatars.mds.yandex.net/i?id=aa4656b70bc48d81c539d2b22e7b78742e19a3b9-10415038-images-thumbs&n=13",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -40.0,
+                "y": 2.0,
+                "z": -35.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 302.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 6.0,
+                "z": 8.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://avatars.mds.yandex.net/i?id=aa4656b70bc48d81c539d2b22e7b78742e19a3b9-10415038-images-thumbs&n=13",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -25.0,
+                "y": 2.0,
+                "z": -24.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 36.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 9.0,
+                "y": 5.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://avatars.mds.yandex.net/i?id=aa4656b70bc48d81c539d2b22e7b78742e19a3b9-10415038-images-thumbs&n=13",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 34.0,
+                "y": 3.0,
+                "z": 36.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 12.0,
+                "y": 7.699999809265137,
+                "z": 1.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://avatars.mds.yandex.net/i?id=aa4656b70bc48d81c539d2b22e7b78742e19a3b9-10415038-images-thumbs&n=13",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 2.0,
+                "y": 3.0,
+                "z": 31.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 48.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 12.0,
+                "y": 7.699999809265137,
+                "z": 1.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://avatars.mds.yandex.net/i?id=aa4656b70bc48d81c539d2b22e7b78742e19a3b9-10415038-images-thumbs&n=13",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 14.0,
+                "y": 3.0,
+                "z": -23.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 48.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 12.0,
+                "y": 7.699999809265137,
+                "z": 1.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://avatars.mds.yandex.net/i?id=aa4656b70bc48d81c539d2b22e7b78742e19a3b9-10415038-images-thumbs&n=13",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -35.0,
+                "y": 4.0,
+                "z": -13.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 43.999996185302737,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 10.0,
+                "z": 15.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://avatars.mds.yandex.net/i?id=aa4656b70bc48d81c539d2b22e7b78742e19a3b9-10415038-images-thumbs&n=13",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 91.29985046386719,
+                "y": 22.399999618530275,
+                "z": 95.89990997314453
+            },
+            "rotation": {
+                "x": 90.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 3.0,
+                "y": 6.900010108947754,
+                "z": 0.5
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 0.4196077883243561
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 91.29985046386719,
+                "y": 19.200000762939454,
+                "z": 92.69998168945313
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 3.0,
+                "y": 6.900000095367432,
+                "z": 0.5
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 0.4196077883243561
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 91.29985046386719,
+                "y": 19.200000762939454,
+                "z": 105.29989624023438
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 3.0,
+                "y": 6.900000095367432,
+                "z": 0.5
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 0.4196077883243561
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 91.29985046386719,
+                "y": 22.399999618530275,
+                "z": 102.09989929199219
+            },
+            "rotation": {
+                "x": 90.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 3.0,
+                "y": 6.900012016296387,
+                "z": 0.5
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 0.4196077883243561
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 40.70000076293945,
+                "y": 19.200000762939454,
+                "z": 105.29989624023438
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 3.0,
+                "y": 6.900000095367432,
+                "z": 0.5
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 0.4196077883243561
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 40.70000076293945,
+                "y": 19.200000762939454,
+                "z": 92.69998168945313
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 3.0,
+                "y": 6.900000095367432,
+                "z": 0.5
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 0.4196077883243561
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 40.70000076293945,
+                "y": 22.399999618530275,
+                "z": 102.09989929199219
+            },
+            "rotation": {
+                "x": 90.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 3.0,
+                "y": 6.900012016296387,
+                "z": 0.5
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 0.4196077883243561
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 40.70000076293945,
+                "y": 22.399999618530275,
+                "z": 95.89990997314453
+            },
+            "rotation": {
+                "x": 90.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 3.0,
+                "y": 6.90001106262207,
+                "z": 0.5
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 0.4196077883243561
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/Tree",
+            "position": {
+                "x": -126.5,
+                "y": 16.0,
+                "z": 40.5
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": true,
+            "texture": "",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/Tree",
+            "position": {
+                "x": -96.0,
+                "y": 16.0,
+                "z": 66.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": true,
+            "texture": "",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/Tree",
+            "position": {
+                "x": -117.5,
+                "y": 16.0,
+                "z": 93.5
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": true,
+            "texture": "",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -128.0,
+                "y": 5.5,
+                "z": 147.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 15.5,
+                "y": 1.0,
+                "z": 100.00013732910156
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://avatars.mds.yandex.net/i?id=a544149fe96ca2c4caa8aab2d4086d007f23997d-5350015-images-thumbs&n=13",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -160.0,
+                "y": 22.0,
+                "z": 147.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 18.0,
+                "y": 1.0,
+                "z": 15.5
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://avatars.mds.yandex.net/i?id=852f11f876556f82b24138f1caa4c5bf7cd28dad-10836596-images-thumbs&n=13",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -160.0,
+                "y": 19.0,
+                "z": 139.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 18.0,
+                "y": 7.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://avatars.mds.yandex.net/i?id=852f11f876556f82b24138f1caa4c5bf7cd28dad-10836596-images-thumbs&n=13",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -160.0,
+                "y": 19.0,
+                "z": 155.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 18.0,
+                "y": 7.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://avatars.mds.yandex.net/i?id=852f11f876556f82b24138f1caa4c5bf7cd28dad-10836596-images-thumbs&n=13",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/Trigger",
+            "position": {
+                "x": -157.60000610351563,
+                "y": 9.300000190734864,
+                "z": 147.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 6.5,
+                "z": 15.0
+            },
+            "color": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": true,
+            "texture": "",
+            "TpCord": "-151,18,147",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -160.60000610351563,
+                "y": 22.399999618530275,
+                "z": 141.60000610351563
+            },
+            "rotation": {
+                "x": 315.0,
+                "y": 45.00000762939453,
+                "z": 0.000004829672889172798
+            },
+            "scale": {
+                "x": 10.0,
+                "y": 10.0,
+                "z": 10.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://avatars.mds.yandex.net/i?id=852f11f876556f82b24138f1caa4c5bf7cd28dad-10836596-images-thumbs&n=13",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -169.60000610351563,
+                "y": 22.799999237060548,
+                "z": 148.8000030517578
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 45.000003814697269,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 10.0,
+                "y": 14.300000190734864,
+                "z": 10.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://avatars.mds.yandex.net/i?id=852f11f876556f82b24138f1caa4c5bf7cd28dad-10836596-images-thumbs&n=13",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -162.39999389648438,
+                "y": 20.700000762939454,
+                "z": 139.5
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 45.000003814697269,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 10.0,
+                "y": 10.0,
+                "z": 10.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://avatars.mds.yandex.net/i?id=852f11f876556f82b24138f1caa4c5bf7cd28dad-10836596-images-thumbs&n=13",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -166.3000030517578,
+                "y": 20.700000762939454,
+                "z": 153.10000610351563
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 45.20000076293945,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 10.000000953674317,
+                "y": 10.0,
+                "z": 10.000000953674317
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://avatars.mds.yandex.net/i?id=852f11f876556f82b24138f1caa4c5bf7cd28dad-10836596-images-thumbs&n=13",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -167.1999969482422,
+                "y": 20.700000762939454,
+                "z": 145.8000030517578
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 45.000003814697269,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 10.0,
+                "y": 10.0,
+                "z": 10.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://avatars.mds.yandex.net/i?id=852f11f876556f82b24138f1caa4c5bf7cd28dad-10836596-images-thumbs&n=13",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -167.1999969482422,
+                "y": 20.700000762939454,
+                "z": 142.39999389648438
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 45.000003814697269,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 10.0,
+                "y": 14.300000190734864,
+                "z": 10.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://avatars.mds.yandex.net/i?id=852f11f876556f82b24138f1caa4c5bf7cd28dad-10836596-images-thumbs&n=13",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -160.60000610351563,
+                "y": 26.700000762939454,
+                "z": 141.60000610351563
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 45.000003814697269,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 10.0,
+                "y": 10.0,
+                "z": 10.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://avatars.mds.yandex.net/i?id=852f11f876556f82b24138f1caa4c5bf7cd28dad-10836596-images-thumbs&n=13",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -165.0,
+                "y": 20.700000762939454,
+                "z": 151.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 45.000003814697269,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 10.0,
+                "y": 10.0,
+                "z": 10.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://avatars.mds.yandex.net/i?id=852f11f876556f82b24138f1caa4c5bf7cd28dad-10836596-images-thumbs&n=13",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/Tree",
+            "position": {
+                "x": 174.89999389648438,
+                "y": 16.100000381469728,
+                "z": 146.10000610351563
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": true,
+            "texture": "",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/Tree",
+            "position": {
+                "x": 172.0,
+                "y": 16.100000381469728,
+                "z": 132.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": true,
+            "texture": "",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/Tree",
+            "position": {
+                "x": 172.1999969482422,
+                "y": 16.100000381469728,
+                "z": 154.89999389648438
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": true,
+            "texture": "",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 5.0,
+                "y": 15.5,
+                "z": 147.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 15.5,
+                "y": 1.0,
+                "z": 329.99945068359377
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://avatars.mds.yandex.net/i?id=a544149fe96ca2c4caa8aab2d4086d007f23997d-5350015-images-thumbs&n=13",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -134.0,
+                "y": 15.199999809265137,
+                "z": 116.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 134.0,
+                "y": 1.0,
+                "z": 100.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://avatars.mds.yandex.net/i?id=852f11f876556f82b24138f1caa4c5bf7cd28dad-10836596-images-thumbs&n=13",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -157.6999969482422,
+                "y": 6.199999809265137,
+                "z": 149.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 18.0,
+                "z": 30.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://avatars.mds.yandex.net/i?id=852f11f876556f82b24138f1caa4c5bf7cd28dad-10836596-images-thumbs&n=13",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -134.0,
+                "y": 5.199999809265137,
+                "z": 134.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 134.0,
+                "y": 21.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://avatars.mds.yandex.net/i?id=852f11f876556f82b24138f1caa4c5bf7cd28dad-10836596-images-thumbs&n=13",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -134.0,
+                "y": 5.199999809265137,
+                "z": 149.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 134.0,
+                "y": 1.0,
+                "z": 30.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://avatars.mds.yandex.net/i?id=852f11f876556f82b24138f1caa4c5bf7cd28dad-10836596-images-thumbs&n=13",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -67.0,
+                "y": 6.199999809265137,
+                "z": 149.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 18.0,
+                "z": 30.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://avatars.mds.yandex.net/i?id=852f11f876556f82b24138f1caa4c5bf7cd28dad-10836596-images-thumbs&n=13",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -67.0,
+                "y": 6.199999809265137,
+                "z": 149.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 18.0,
+                "z": 30.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://avatars.mds.yandex.net/i?id=852f11f876556f82b24138f1caa4c5bf7cd28dad-10836596-images-thumbs&n=13",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/Trigger",
+            "position": {
+                "x": -157.60000610351563,
+                "y": 18.299999237060548,
+                "z": 147.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 6.5,
+                "z": 15.0
+            },
+            "color": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": true,
+            "texture": "",
+            "TpCord": "-151,9,147",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -111.0,
+                "y": -9.0,
+                "z": 7.900000095367432
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 50.0,
+                "y": 1.0,
+                "z": 50.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 0.4196077883243561
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": true,
+            "texture": "",
+            "TpCord": "-129,40,39",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "989",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -95.0,
+                "y": 2.0,
+                "z": 32.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": true,
+            "isCollider": false,
+            "texture": "https://www.epicsusgames.com/catskin/16.jpg",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -92.0,
+                "y": 2.0,
+                "z": 32.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": true,
+            "isCollider": false,
+            "texture": "https://www.epicsusgames.com/catskin/16.jpg",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -124.0,
+                "y": 4.0,
+                "z": 3.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 10.0,
+                "y": 1.0,
+                "z": 10.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": true,
+            "isCollider": false,
+            "texture": "https://www.epicsusgames.com/catskin/16.jpg",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -95.0,
+                "y": 2.0,
+                "z": 31.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": true,
+            "isCollider": false,
+            "texture": "https://www.epicsusgames.com/catskin/16.jpg",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -92.0,
+                "y": 2.0,
+                "z": 30.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": true,
+            "isCollider": false,
+            "texture": "https://www.epicsusgames.com/catskin/16.jpg",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -92.0,
+                "y": 3.0,
+                "z": 16.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 10.0,
+                "y": 1.0,
+                "z": 10.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": true,
+            "isCollider": false,
+            "texture": "https://www.epicsusgames.com/catskin/16.jpg",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/Sphere",
+            "position": {
+                "x": -96.0,
+                "y": 2.0,
+                "z": -2.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 9.0,
+                "y": 1.0,
+                "z": 9.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": true,
+            "isCollider": false,
+            "texture": "https://www.epicsusgames.com/catskin/16.jpg",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/Sphere",
+            "position": {
+                "x": -96.0,
+                "y": 4.0,
+                "z": -2.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 9.0,
+                "y": 1.0,
+                "z": 9.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": true,
+            "isCollider": false,
+            "texture": "https://www.epicsusgames.com/catskin/16.jpg",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/Sphere",
+            "position": {
+                "x": -96.0,
+                "y": 5.0,
+                "z": -2.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 9.0,
+                "y": 1.0,
+                "z": 9.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": true,
+            "isCollider": false,
+            "texture": "https://www.epicsusgames.com/catskin/16.jpg",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/Sphere",
+            "position": {
+                "x": -96.0,
+                "y": 6.0,
+                "z": -2.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 9.0,
+                "y": 1.0,
+                "z": 9.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": true,
+            "isCollider": false,
+            "texture": "https://www.epicsusgames.com/catskin/16.jpg",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/Sphere",
+            "position": {
+                "x": -96.0,
+                "y": 7.0,
+                "z": -2.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 9.0,
+                "y": 1.0,
+                "z": 9.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": true,
+            "isCollider": false,
+            "texture": "https://www.epicsusgames.com/catskin/16.jpg",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/Sphere",
+            "position": {
+                "x": -96.0,
+                "y": 3.0,
+                "z": -2.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 9.0,
+                "y": 1.0,
+                "z": 9.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": true,
+            "isCollider": false,
+            "texture": "https://www.epicsusgames.com/catskin/16.jpg",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -108.0,
+                "y": 3.0,
+                "z": 16.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 10.0,
+                "y": 1.0,
+                "z": 10.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": true,
+            "isCollider": false,
+            "texture": "https://www.epicsusgames.com/catskin/16.jpg",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/Grass1",
+            "position": {
+                "x": -108.0,
+                "y": 6.0,
+                "z": -8.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": true,
+            "isCollider": true,
+            "texture": "https://www.epicsusgames.com/catskin/16.jpg",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/плакат1",
+            "position": {
+                "x": -112.0,
+                "y": 6.0,
+                "z": -4.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.0010000000474974514,
+                "y": 1.402953028678894,
+                "z": 1.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": true,
+            "isCollider": false,
+            "texture": "",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/плакат1",
+            "position": {
+                "x": -110.0,
+                "y": 4.0,
+                "z": -2.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.0010000000474974514,
+                "y": 1.402953028678894,
+                "z": 1.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": true,
+            "isCollider": false,
+            "texture": "",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/плакат1",
+            "position": {
+                "x": -110.0,
+                "y": 6.0,
+                "z": -2.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.0010000000474974514,
+                "y": 1.402953028678894,
+                "z": 1.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": true,
+            "isCollider": false,
+            "texture": "",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/плакат1",
+            "position": {
+                "x": -112.0,
+                "y": 6.0,
+                "z": -2.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.0010000000474974514,
+                "y": 1.402953028678894,
+                "z": 1.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": true,
+            "isCollider": false,
+            "texture": "",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -111.0,
+                "y": 1.0,
+                "z": 7.900000095367432
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 50.0,
+                "y": 1.0,
+                "z": 50.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 0.4196077883243561
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "999",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/Capsule",
+            "position": {
+                "x": -132.60000610351563,
+                "y": 16.899999618530275,
+                "z": 32.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 250.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": true,
+            "texture": "https://www.epicsusgames.com/catskin/16.jpg",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "999",
+            "id": "0",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/Trigger",
+            "position": {
+                "x": -160.0,
+                "y": 17.0,
+                "z": 147.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 4.0,
+                "y": 2.0,
+                "z": 2.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": true,
+            "texture": "https://i.postimg.cc/h4sVYCBq/image.jpg",
+            "TpCord": "-58,18,-150",
+            "Animation": "{\n  \"loop\": \"true\",\n  \"cards\": [\n    {\n      \"pos\": \"160,17,147\",\n       \"rotate\": \"0,0,0\",\n      \"scale\": \"4,2,2\",\n      \"speed\": \"50\"\n    },\n    {\n      \"pos\": \"160,-10,147\",\n       \"rotate\": \"0,0,0\",\n      \"scale\": \"4,2,2\",\n      \"speed\": \"1000000\"\n    },\n{\n      \"pos\": \"-160,-10,147\",\n       \"rotate\": \"0,0,0\",\n      \"scale\": \"4,2,2\",\n      \"speed\": \"50\"\n    },\n  {\n      \"pos\": \"-160,17,147\",\n       \"rotate\": \"0,0,0\",\n      \"scale\": \"4,2,2\",\n      \"speed\": \"1000000\"\n    }\n\n  ]\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "5",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/Trigger",
+            "position": {
+                "x": -160.0,
+                "y": -10.0,
+                "z": 147.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 4.0,
+                "y": 2.0,
+                "z": 2.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": true,
+            "texture": "https://i.postimg.cc/Dz4gk1cP/image.jpg",
+            "TpCord": "-58,18,-150",
+            "Animation": "{\n  \"loop\": \"true\",\n  \"cards\": [\n    {\n      \"pos\": \"160,-10,147\",\n       \"rotate\": \"0,0,0\",\n      \"scale\": \"4,2,2\",\n      \"speed\": \"50\"\n    },\n    {\n      \"pos\": \"160,17,147\",\n       \"rotate\": \"0,0,0\",\n      \"scale\": \"4,2,2\",\n      \"speed\": \"1000000\"\n    },\n{\n      \"pos\": \"-160,17,147\",\n       \"rotate\": \"0,0,0\",\n      \"scale\": \"4,2,2\",\n      \"speed\": \"50\"\n    },\n  {\n      \"pos\": \"-160,-10,147\",\n       \"rotate\": \"0,0,0\",\n      \"scale\": \"4,2,2\",\n      \"speed\": \"1000000\"\n    }\n\n  ]\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "5",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 0.0,
+                "y": 2.0,
+                "z": 0.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 9.0,
+                "y": 7.0,
+                "z": 14.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 0.4196077883243561
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": true,
+            "texture": "",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "5",
+            "Destroy": "6",
+            "id": "6",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/плакат1",
+            "position": {
+                "x": -79.0,
+                "y": 7.0,
+                "z": 147.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.0010000000474974514,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": true,
+            "texture": "https://i.postimg.cc/MpGnF934/15.png",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "7",
+            "Destroy": "8",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -40.0,
+                "y": 10.0,
+                "z": 35.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": true,
+            "texture": "https://avatars.mds.yandex.net/i?id=276c9e0ac10502db7fcfb57aa6e40d144fdfa4a4-12614136-images-thumbs&n=13",
+            "TpCord": "",
+            "Animation": "{\n  \"loop\": \"false\",\n  \"cards\": [\n    {\n      \"pos\": \"-40,10,35\",\n       \"rotate\": \"0,0,0\",\n      \"scale\": \"50,50,50\",\n      \"speed\": \"100\"\n    },\n    {\n      \"pos\": \"-40,-10,35\",\n       \"rotate\": \"0,0,0\",\n      \"scale\": \"1,1,1\",\n      \"speed\": \"10\"\n    }\n  ]\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "7",
+            "Damagenum": "100",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -36.900001525878909,
+                "y": -0.699999988079071,
+                "z": 30.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 14.600000381469727,
+                "y": 1.0,
+                "z": 14.899999618530274
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": true,
+            "texture": "https://avatars.mds.yandex.net/i?id=e74b91a3f8b42fad2e9110135650b9f10e75bfac-10339875-images-thumbs&n=13",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "870",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/Tree",
+            "position": {
+                "x": 189.60000610351563,
+                "y": 16.100000381469728,
+                "z": 154.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 5.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": true,
+            "texture": "",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/Tree",
+            "position": {
+                "x": 182.0,
+                "y": 16.100000381469728,
+                "z": 135.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": true,
+            "texture": "",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/Tree",
+            "position": {
+                "x": 191.60000610351563,
+                "y": 16.100000381469728,
+                "z": 135.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 5.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": true,
+            "texture": "",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/Tree",
+            "position": {
+                "x": -37.0,
+                "y": -0.10000000149011612,
+                "z": -33.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": true,
+            "texture": "",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/Tree",
+            "position": {
+                "x": -12.0,
+                "y": -0.10000000149011612,
+                "z": -33.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": true,
+            "texture": "",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -77.0,
+                "y": 26.700000762939454,
+                "z": -152.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 45.000003814697269,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 15.0,
+                "y": 22.0,
+                "z": 15.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://avatars.mds.yandex.net/i?id=5f3df301353330587c8af6917a9e83590dacf041-9625733-images-thumbs&n=13",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -183.0,
+                "y": 38.099998474121097,
+                "z": -106.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 17.0,
+                "y": 1.0,
+                "z": 17.0
+            },
+            "color": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.4196077883243561
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -157.0,
+                "y": 38.099998474121097,
+                "z": -87.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 17.0,
+                "y": 1.0,
+                "z": 17.0
+            },
+            "color": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.4196077883243561
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -157.0,
+                "y": 26.700000762939454,
+                "z": -87.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 15.0,
+                "y": 22.0,
+                "z": 15.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://avatars.mds.yandex.net/i?id=5f3df301353330587c8af6917a9e83590dacf041-9625733-images-thumbs&n=13",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -183.0,
+                "y": 26.700000762939454,
+                "z": -106.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 15.0,
+                "y": 22.0,
+                "z": 15.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://avatars.mds.yandex.net/i?id=5f3df301353330587c8af6917a9e83590dacf041-9625733-images-thumbs&n=13",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -193.0,
+                "y": 38.099998474121097,
+                "z": -158.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 17.0,
+                "y": 1.0,
+                "z": 17.0
+            },
+            "color": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.4196077883243561
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -171.0,
+                "y": 26.700000762939454,
+                "z": -136.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 15.0,
+                "y": 22.0,
+                "z": 15.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://avatars.mds.yandex.net/i?id=5f3df301353330587c8af6917a9e83590dacf041-9625733-images-thumbs&n=13",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -171.0,
+                "y": 38.099998474121097,
+                "z": -136.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 17.0,
+                "y": 1.0,
+                "z": 17.0
+            },
+            "color": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.4196077883243561
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -193.0,
+                "y": 26.700000762939454,
+                "z": -158.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 15.0,
+                "y": 22.0,
+                "z": 15.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://avatars.mds.yandex.net/i?id=5f3df301353330587c8af6917a9e83590dacf041-9625733-images-thumbs&n=13",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -77.0,
+                "y": 38.099998474121097,
+                "z": -152.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 45.000003814697269,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 17.0,
+                "y": 1.0,
+                "z": 17.0
+            },
+            "color": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.4196077883243561
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -130.0,
+                "y": 26.700000762939454,
+                "z": -150.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 15.0,
+                "y": 22.0,
+                "z": 15.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://avatars.mds.yandex.net/i?id=5f3df301353330587c8af6917a9e83590dacf041-9625733-images-thumbs&n=13",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -130.0,
+                "y": 38.099998474121097,
+                "z": -150.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 17.0,
+                "y": 1.0,
+                "z": 17.0
+            },
+            "color": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.4196077883243561
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -131.0,
+                "y": 26.700000762939454,
+                "z": -107.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 15.0,
+                "y": 22.0,
+                "z": 15.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://avatars.mds.yandex.net/i?id=5f3df301353330587c8af6917a9e83590dacf041-9625733-images-thumbs&n=13",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -131.0,
+                "y": 38.099998474121097,
+                "z": -107.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 17.0,
+                "y": 1.0,
+                "z": 17.0
+            },
+            "color": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.4196077883243561
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -107.0,
+                "y": 26.700000762939454,
+                "z": -101.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 45.000003814697269,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 15.0,
+                "y": 22.0,
+                "z": 15.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://avatars.mds.yandex.net/i?id=5f3df301353330587c8af6917a9e83590dacf041-9625733-images-thumbs&n=13",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -107.0,
+                "y": 38.099998474121097,
+                "z": -101.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 45.000003814697269,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 17.0,
+                "y": 1.0,
+                "z": 17.0
+            },
+            "color": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.4196077883243561
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -56.0,
+                "y": 15.300000190734864,
+                "z": -118.80000305175781
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 9.999998092651368,
+                "y": 1.0,
+                "z": 63.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://avatars.mds.yandex.net/i?id=a544149fe96ca2c4caa8aab2d4086d007f23997d-5350015-images-thumbs&n=13",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -167.6999969482422,
+                "y": 15.300000190734864,
+                "z": -98.80000305175781
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 315.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 10.0,
+                "y": 1.0,
+                "z": 59.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://avatars.mds.yandex.net/i?id=a544149fe96ca2c4caa8aab2d4086d007f23997d-5350015-images-thumbs&n=13",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -119.0,
+                "y": 15.300000190734864,
+                "z": -118.80000305175781
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 9.999998092651368,
+                "y": 1.0,
+                "z": 63.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://avatars.mds.yandex.net/i?id=a544149fe96ca2c4caa8aab2d4086d007f23997d-5350015-images-thumbs&n=13",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/Tree",
+            "position": {
+                "x": -23.0,
+                "y": 16.0,
+                "z": -116.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": true,
+            "texture": "",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/Tree",
+            "position": {
+                "x": -23.0,
+                "y": 16.0,
+                "z": -122.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": true,
+            "texture": "",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/Tree",
+            "position": {
+                "x": -191.0,
+                "y": 16.0,
+                "z": -79.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": true,
+            "texture": "",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/Tree",
+            "position": {
+                "x": -188.0,
+                "y": 16.0,
+                "z": -75.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": true,
+            "texture": "",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -50.0,
+                "y": 16.0,
+                "z": -143.5
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 90.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 30.0,
+                "z": 31.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -35.0,
+                "y": 10.0,
+                "z": -143.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 30.0,
+                "z": 30.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -41.5,
+                "y": 10.0,
+                "z": -128.5
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 30.0,
+                "z": 12.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -50.0,
+                "y": 16.0,
+                "z": -143.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 90.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 30.0,
+                "z": 31.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -50.0,
+                "y": 28.0,
+                "z": -128.10000610351563
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 6.0,
+                "y": 5.0,
+                "z": -0.10000000149011612
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://vectorified.com/image/medical-cross-vector-32.png",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -50.0,
+                "y": 25.0,
+                "z": -143.5
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 90.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 30.0,
+                "z": 31.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -50.0,
+                "y": 25.0,
+                "z": -143.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 90.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 30.0,
+                "z": 31.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -65.0,
+                "y": 10.0,
+                "z": -143.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 30.0,
+                "z": 30.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -50.0,
+                "y": 10.0,
+                "z": -158.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 30.0,
+                "z": 31.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -47.0,
+                "y": 10.0,
+                "z": -151.6999969482422
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 30.0,
+                "z": 12.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "Лампа 1",
+            "position": {
+                "x": -42.0,
+                "y": 23.899999618530275,
+                "z": -144.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 0.5704600214958191,
+                "z": 1.0
+            },
+            "color": {
+                "r": 0.5,
+                "g": 0.5,
+                "b": 0.5,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": true,
+            "texture": "",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -59.0,
+                "y": 10.0,
+                "z": -128.5
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 30.0,
+                "z": 12.000000953674317
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -47.0,
+                "y": 10.0,
+                "z": -134.10000610351563
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 30.0,
+                "z": 12.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -53.5,
+                "y": 10.0,
+                "z": -134.10000610351563
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 30.0,
+                "z": 12.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -53.5,
+                "y": 10.0,
+                "z": -151.6999969482422
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 30.0,
+                "z": 12.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "Лампа 1",
+            "position": {
+                "x": -58.0,
+                "y": 23.899999618530275,
+                "z": -144.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 0.5704600214958191,
+                "z": 1.0
+            },
+            "color": {
+                "r": 0.5,
+                "g": 0.5,
+                "b": 0.5,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": true,
+            "texture": "",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -43.0,
+                "y": -0.6000000238418579,
+                "z": 36.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 0.8999999761581421,
+                "z": 1.7000000476837159
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": true,
+            "texture": "https://o-pencil.ru/upload/iblock/afa/afa8a6b0f1b1470abb3376c9348419ed.jpg",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "870",
+            "id": "870",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -38.0,
+                "y": 16.799999237060548,
+                "z": -122.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 4.900000095367432,
+                "y": 3.299999952316284,
+                "z": 1.600000023841858
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": true,
+            "texture": "https://msk.biomedgroup.ru/uploads/images/for%20blog/mashiny_skoroj_pomoshchi_0.png",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -58.70000076293945,
+                "y": 18.200000762939454,
+                "z": -153.89999389648438
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 6.0,
+                "y": 3.5999999046325685,
+                "z": 1.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": true,
+            "texture": "https://w7.pngwing.com/pngs/682/31/png-transparent-hospital-bed-cama-electrica-hospital-bed-medical-equipment-bed-furniture-service-room.png",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -40.70000076293945,
+                "y": 18.200000762939454,
+                "z": -153.89999389648438
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 6.0,
+                "y": 3.5999999046325685,
+                "z": 1.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://w7.pngwing.com/pngs/682/31/png-transparent-hospital-bed-cama-electrica-hospital-bed-medical-equipment-bed-furniture-service-room.png",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -40.0,
+                "y": 18.5,
+                "z": -136.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.699999988079071,
+                "y": 0.699999988079071,
+                "z": 1.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://klev.club/uploads/posts/2023-11/1699103793_klev-club-p-trafareti-maska-vracha-7.png",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -60.0,
+                "y": 18.5,
+                "z": -136.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.6999999284744263,
+                "y": 0.699999988079071,
+                "z": 1.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://klev.club/uploads/posts/2023-11/1699103793_klev-club-p-trafareti-maska-vracha-7.png",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        }
+    ],
+    "npc": [
+        {
+            "folderLocation": "NPC/NPC",
+            "position": {
+                "x": -60.0,
+                "y": 17.599998474121095,
+                "z": -136.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 270.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.583400011062622,
+                "y": 1.583400011062622,
+                "z": 1.583400011062622
+            },
+            "color": {
+                "r": 1.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "npcslovo": "тебя сбила машина...будь внимательней"
+        }
+    ]
+}

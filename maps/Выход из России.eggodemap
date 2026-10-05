@@ -1,0 +1,804 @@
+{
+    "mapname": "Выход из России",
+    "author": "Rasbur Яичный",
+    "objects": [
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 0.0,
+                "y": -1.0,
+                "z": 0.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 60.0,
+                "y": 1.0,
+                "z": 60.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3JOxBnBLMyb_r6AmATM1emHIdYg8GKHPt2dNbw_6WYL4GHTwcZ7TIYlPWUkjq4lJ9xHU&usqp=CAU",
+            "script": {
+                "Trigger": {
+                    "tpbool": false,
+                    "tp": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                }
+            }
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 0.0,
+                "y": 57.0,
+                "z": 0.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 180.0
+            },
+            "scale": {
+                "x": 60.0,
+                "y": 1.0,
+                "z": 60.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://arte1.ru/images/detailed/4/23265.jpg",
+            "script": {
+                "Trigger": {
+                    "tpbool": false,
+                    "tp": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                }
+            }
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 29.0,
+                "y": 29.0,
+                "z": 0.0
+            },
+            "rotation": {
+                "x": 90.0,
+                "y": 270.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 60.0,
+                "y": 1.0,
+                "z": 60.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://preview.redd.it/i-attempted-a-frutiger-aero-wallpaper-design-v0-kqbqrz5mo8bb1.jpg?width=1920&format=pjpg&auto=webp&s=a0dc99540a6993375d09f8d5014413c364d6d103",
+            "script": {
+                "Trigger": {
+                    "tpbool": false,
+                    "tp": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                }
+            }
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -29.0,
+                "y": 29.0,
+                "z": 0.0
+            },
+            "rotation": {
+                "x": 270.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 60.0,
+                "y": 1.0,
+                "z": 60.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://preview.redd.it/i-attempted-a-frutiger-aero-wallpaper-design-v0-kqbqrz5mo8bb1.jpg?width=1920&format=pjpg&auto=webp&s=a0dc99540a6993375d09f8d5014413c364d6d103",
+            "script": {
+                "Trigger": {
+                    "tpbool": false,
+                    "tp": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                }
+            }
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 0.0,
+                "y": 29.0,
+                "z": 29.0
+            },
+            "rotation": {
+                "x": 270.0,
+                "y": 180.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 60.000003814697269,
+                "y": 1.0,
+                "z": 60.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://i.ytimg.com/vi/bTd2VLTBOX4/maxresdefault.jpg",
+            "script": {
+                "Trigger": {
+                    "tpbool": false,
+                    "tp": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                }
+            }
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 0.0,
+                "y": 29.0,
+                "z": -29.0
+            },
+            "rotation": {
+                "x": 90.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 60.0,
+                "y": 1.0,
+                "z": 60.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://i.ytimg.com/vi/bTd2VLTBOX4/maxresdefault.jpg",
+            "script": {
+                "Trigger": {
+                    "tpbool": false,
+                    "tp": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                }
+            }
+        },
+        {
+            "folderLocation": "mapcreator/PORTAL",
+            "position": {
+                "x": 4.0,
+                "y": 16.0,
+                "z": -6.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "script": {
+                "Trigger": {
+                    "tpbool": false,
+                    "tp": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                }
+            }
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 15.0,
+                "y": 3.0,
+                "z": 15.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 2.0,
+                "y": 2.0,
+                "z": 2.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": true,
+            "isCollider": false,
+            "texture": "https://img.freepik.com/free-photo/cardboard-wallpaper-template_1194-6785.jpg",
+            "script": {
+                "Trigger": {
+                    "tpbool": false,
+                    "tp": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                }
+            }
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 15.0,
+                "y": 1.0,
+                "z": 15.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 2.0,
+                "y": 2.0,
+                "z": 2.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": true,
+            "isCollider": false,
+            "texture": "https://upload.wikimedia.org/wikipedia/commons/5/59/Companion_Cube.jpg",
+            "script": {
+                "Trigger": {
+                    "tpbool": false,
+                    "tp": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                }
+            }
+        },
+        {
+            "folderLocation": "mapcreator/Sphere",
+            "position": {
+                "x": -12.0,
+                "y": 1.0,
+                "z": 18.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 2.0,
+                "y": 2.0,
+                "z": 2.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": true,
+            "isCollider": false,
+            "texture": "https://grizly.club/uploads/posts/2023-01/1672839348_grizly-club-p-tekstura-myacha-2.png",
+            "script": {
+                "Trigger": {
+                    "tpbool": false,
+                    "tp": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                }
+            }
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 0.0,
+                "y": 2.0,
+                "z": -6.400000095367432
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 7.0,
+                "y": 4.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://avianity.ru/wp-content/uploads/moskva-650x379.jpg",
+            "script": {
+                "Trigger": {
+                    "tpbool": false,
+                    "tp": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                }
+            }
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 0.0,
+                "y": 4.699999809265137,
+                "z": -5.800000190734863
+            },
+            "rotation": {
+                "x": 62.29999923706055,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 6.800000190734863,
+                "y": 1.8000000715255738,
+                "z": 0.10000000149011612
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://upload.wikimedia.org/wikipedia/commons/4/42/Blue_sky%2C_white-gray_clouds.JPG",
+            "script": {
+                "Trigger": {
+                    "tpbool": false,
+                    "tp": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                }
+            }
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 0.0,
+                "y": 2.0,
+                "z": 5.800000190734863
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 7.0,
+                "y": -4.0,
+                "z": 0.10000000149011612
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": true,
+            "texture": "https://masterpiecer-images.s3.yandex.net/0745e66282f611ee8488b646b2a0ffc1:upscaled",
+            "script": {
+                "Trigger": {
+                    "tpbool": false,
+                    "tp": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                }
+            }
+        },
+        {
+            "folderLocation": "mapcreator/плакат1",
+            "position": {
+                "x": 0.0,
+                "y": 2.0,
+                "z": 5.900000095367432
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.0009999871253967286,
+                "y": 2.0,
+                "z": 2.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": true,
+            "texture": "https://space-way.ru/design/images/portal.png",
+            "script": {
+                "Trigger": {
+                    "tpbool": false,
+                    "tp": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                }
+            }
+        },
+        {
+            "folderLocation": "mapcreator/плакат1",
+            "position": {
+                "x": 0.0,
+                "y": 2.0,
+                "z": 5.699999809265137
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.0009999871253967286,
+                "y": 2.0,
+                "z": 2.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": true,
+            "texture": "https://space-way.ru/design/images/portal.png",
+            "script": {
+                "Trigger": {
+                    "tpbool": false,
+                    "tp": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                }
+            }
+        },
+        {
+            "folderLocation": "mapcreator/плакат1",
+            "position": {
+                "x": 5.0,
+                "y": 2.0,
+                "z": 0.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.10000000149011612,
+                "y": 2.7029531002044679,
+                "z": 2.200000047683716
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://preview.redd.it/my-name-is-freddy-fazbear-yo-v0-4resglr0ki5a1.jpg?width=640&crop=smart&auto=webp&s=b7c34b9d25f336e79de678031ca8cb48ad51686e",
+            "script": {
+                "Trigger": {
+                    "tpbool": false,
+                    "tp": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                }
+            }
+        },
+        {
+            "folderLocation": "mapcreator/плакат1",
+            "position": {
+                "x": -4.900000095367432,
+                "y": 2.0,
+                "z": 0.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.10000000149011612,
+                "y": 3.302953004837036,
+                "z": 5.400000095367432
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://i.pinimg.com/736x/69/6e/9f/696e9fed36eb91b7a1f46a3d65aae82e.jpg",
+            "script": {
+                "Trigger": {
+                    "tpbool": false,
+                    "tp": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                }
+            }
+        },
+        {
+            "folderLocation": "mapcreator/плакат1",
+            "position": {
+                "x": 0.0,
+                "y": 4.199999809265137,
+                "z": 5.900000095367432
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.0,
+                "y": 0.8029530048370361,
+                "z": 1.899999976158142
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://static.insales-cdn.com/images/products/1/3895/613887799/E24.jpg",
+            "script": {
+                "Trigger": {
+                    "tpbool": false,
+                    "tp": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                }
+            }
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 15.0,
+                "y": 1.0,
+                "z": 17.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 2.0,
+                "y": 2.0,
+                "z": 2.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": true,
+            "isCollider": false,
+            "texture": "https://img.freepik.com/free-photo/cardboard-wallpaper-template_1194-6785.jpg",
+            "script": {
+                "Trigger": {
+                    "tpbool": false,
+                    "tp": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                }
+            }
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 17.0,
+                "y": 1.0,
+                "z": 15.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 2.0,
+                "y": 2.0,
+                "z": 2.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": true,
+            "isCollider": false,
+            "texture": "https://img.freepik.com/free-photo/cardboard-wallpaper-template_1194-6785.jpg",
+            "script": {
+                "Trigger": {
+                    "tpbool": false,
+                    "tp": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                }
+            }
+        },
+        {
+            "folderLocation": "mapcreator/плакат1",
+            "position": {
+                "x": 0.0,
+                "y": 4.199999809265137,
+                "z": 4.900000095367432
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.0,
+                "y": 0.8029530048370361,
+                "z": 1.899999976158142
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://static.insales-cdn.com/images/products/1/4136/125571112/znak-vyhod-zdes-pravostoronniy-s-napravlyayuschey-strelkoy.png",
+            "script": {
+                "Trigger": {
+                    "tpbool": false,
+                    "tp": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                }
+            }
+        }
+    ]
+}

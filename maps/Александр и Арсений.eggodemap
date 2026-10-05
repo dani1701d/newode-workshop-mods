@@ -1,0 +1,602 @@
+{
+    "mapname": "Александр и Арсений",
+    "author": "Rasbur",
+    "icon": "https://adm-zheleznovodsk.ru/media/resized/FrJgAPPuBebREiDBqfr7WG7kMlyzvLZl4fwo2OHTcSI/rs:fit:1024:768/aHR0cHM6Ly9hZG0t/emhlbGV6bm92b2Rz/ay5ydS9tZWRpYS9w/cm9qZWN0X21vXzU2/MS83NS8zMy9lMy8w/NS9kZS85ZS9wb3J0/cmV0LWFsZWtzYW5k/cmEtaS5qcGc.jpg",
+    "skybox": "0",
+    "diecord": "​",
+    "uron": true,
+    "canSpawnObj": true,
+    "canDellObj": true,
+    "survival": false,
+    "objects": [
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 12.0,
+                "y": 8.0,
+                "z": 5.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 27.0,
+                "y": 19.0,
+                "z": -1.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": ""
+        },
+        {
+            "folderLocation": "mapcreator/SUN",
+            "position": {
+                "x": 2.0,
+                "y": 20.0,
+                "z": 6.0
+            },
+            "rotation": {
+                "x": 77.00001525878906,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 0.23115479946136475,
+                "g": 1.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 0.0,
+                "y": -1.0,
+                "z": 5.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 25.0,
+                "y": 1.0,
+                "z": -27.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://adm-zheleznovodsk.ru/media/resized/FrJgAPPuBebREiDBqfr7WG7kMlyzvLZl4fwo2OHTcSI/rs:fit:1024:768/aHR0cHM6Ly9hZG0t/emhlbGV6bm92b2Rz/ay5ydS9tZWRpYS9w/cm9qZWN0X21vXzU2/MS83NS8zMy9lMy8w/NS9kZS85ZS9wb3J0/cmV0LWFsZWtzYW5k/cmEtaS5qcGc.jpg",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 0.0,
+                "y": 8.0,
+                "z": 19.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 25.0,
+                "y": 19.0,
+                "z": -1.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 0.0,
+                "y": 8.0,
+                "z": -8.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 25.0,
+                "y": 19.0,
+                "z": -1.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -12.0,
+                "y": 8.0,
+                "z": 5.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 27.000001907348634,
+                "y": 19.0,
+                "z": -1.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": ""
+        },
+        {
+            "folderLocation": "mapcreator/Sphere",
+            "position": {
+                "x": 0.0,
+                "y": 11.0,
+                "z": 14.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 5.0,
+                "y": 5.0,
+                "z": 5.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": true,
+            "isCollider": false,
+            "texture": "https://github.com/RasburCompany/Eggode2Textures/blob/main/photo_2025-01-26_20-13-15.jpg?raw=true",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": ""
+        },
+        {
+            "folderLocation": "mapcreator/Sphere",
+            "position": {
+                "x": 8.0,
+                "y": 2.0,
+                "z": 14.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 5.0,
+                "y": 5.0,
+                "z": 5.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": true,
+            "isCollider": false,
+            "texture": "https://github.com/RasburCompany/Eggode2Textures/blob/main/photo_2025-01-26_20-13-15.jpg?raw=true",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": ""
+        },
+        {
+            "folderLocation": "mapcreator/Sphere",
+            "position": {
+                "x": 3.0,
+                "y": 2.0,
+                "z": 14.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 5.0,
+                "y": 5.0,
+                "z": 5.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": true,
+            "isCollider": false,
+            "texture": "https://github.com/RasburCompany/Eggode2Textures/blob/main/photo_2025-01-26_20-13-15.jpg?raw=true",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": ""
+        },
+        {
+            "folderLocation": "mapcreator/Sphere",
+            "position": {
+                "x": -2.0,
+                "y": 2.0,
+                "z": 14.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 5.0,
+                "y": 5.0,
+                "z": 5.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": true,
+            "isCollider": false,
+            "texture": "https://github.com/RasburCompany/Eggode2Textures/blob/main/photo_2025-01-26_20-13-15.jpg?raw=true",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": ""
+        },
+        {
+            "folderLocation": "mapcreator/Sphere",
+            "position": {
+                "x": -7.0,
+                "y": 2.0,
+                "z": 14.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 5.0,
+                "y": 5.0,
+                "z": 5.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": true,
+            "isCollider": false,
+            "texture": "https://github.com/RasburCompany/Eggode2Textures/blob/main/photo_2025-01-26_20-13-15.jpg?raw=true",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": ""
+        },
+        {
+            "folderLocation": "mapcreator/Sphere",
+            "position": {
+                "x": -5.0,
+                "y": 6.0,
+                "z": 14.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 5.0,
+                "y": 5.0,
+                "z": 5.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": true,
+            "isCollider": false,
+            "texture": "https://github.com/RasburCompany/Eggode2Textures/blob/main/photo_2025-01-26_20-13-15.jpg?raw=true",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": ""
+        },
+        {
+            "folderLocation": "mapcreator/Sphere",
+            "position": {
+                "x": 0.0,
+                "y": 6.0,
+                "z": 14.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 5.0,
+                "y": 5.0,
+                "z": 5.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": true,
+            "isCollider": false,
+            "texture": "https://github.com/RasburCompany/Eggode2Textures/blob/main/photo_2025-01-26_20-13-15.jpg?raw=true",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": ""
+        },
+        {
+            "folderLocation": "mapcreator/Sphere",
+            "position": {
+                "x": 5.0,
+                "y": 6.0,
+                "z": 14.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 5.0,
+                "y": 5.0,
+                "z": 5.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": true,
+            "isCollider": false,
+            "texture": "https://github.com/RasburCompany/Eggode2Textures/blob/main/photo_2025-01-26_20-13-15.jpg?raw=true",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": ""
+        }
+    ],
+    "npc": []
+}

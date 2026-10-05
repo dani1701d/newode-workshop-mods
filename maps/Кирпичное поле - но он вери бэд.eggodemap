@@ -1,0 +1,2675 @@
+{
+    "mapname": "Кирпичное поле - но он вери бэд",
+    "author": "Rasbur Яичный",
+    "icon": "https://github.com/RasburCompany/Eggode2Textures/blob/main/Screenshot_4.png?raw=true",
+    "skybox": "0",
+    "diecord": "-25,21,292​",
+    "uron": false,
+    "canSpawnObj": false,
+    "canDellObj": false,
+    "objects": [
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 295.0,
+                "y": 19.0,
+                "z": 294.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 500.0,
+                "y": 1.0,
+                "z": 500.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://txtrs.ru/textures/grass/grass-1.jpg",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/SUN",
+            "position": {
+                "x": -1.0,
+                "y": 73.0,
+                "z": 0.0
+            },
+            "rotation": {
+                "x": 90.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 0.5,
+                "g": 0.5,
+                "b": 0.5,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -5.0,
+                "y": 6.0,
+                "z": -29.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 270.0,
+                "z": 330.0
+            },
+            "scale": {
+                "x": 52.0,
+                "y": 1.0,
+                "z": 52.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://txtrs.ru/textures/grass/grass-1.jpg",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -310.0,
+                "y": 19.0,
+                "z": 294.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 500.0,
+                "y": 1.0,
+                "z": 500.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://txtrs.ru/textures/grass/grass-1.jpg",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -305.0,
+                "y": 19.0,
+                "z": -301.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 500.0,
+                "y": 1.0,
+                "z": 500.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://txtrs.ru/textures/grass/grass-1.jpg",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 195.0,
+                "y": 19.0,
+                "z": -301.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 500.0,
+                "y": 1.0,
+                "z": 500.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://txtrs.ru/textures/grass/grass-1.jpg",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 295.0,
+                "y": 19.0,
+                "z": -111.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 500.0,
+                "y": 1.0,
+                "z": 500.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://txtrs.ru/textures/grass/grass-1.jpg",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 0.0,
+                "y": 19.0,
+                "z": 294.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 500.0,
+                "y": 1.0,
+                "z": 500.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://txtrs.ru/textures/grass/grass-1.jpg",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -305.0,
+                "y": 19.0,
+                "z": -206.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 500.0,
+                "y": 1.0,
+                "z": 500.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://txtrs.ru/textures/grass/grass-1.jpg",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 0.0,
+                "y": -1.0,
+                "z": 0.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 52.0,
+                "y": 1.0,
+                "z": 52.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://txtrs.ru/textures/grass/grass-1.jpg",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 24.0,
+                "y": 6.0,
+                "z": 0.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 30.000001907348634
+            },
+            "scale": {
+                "x": 52.000003814697269,
+                "y": 1.0,
+                "z": 52.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://txtrs.ru/textures/grass/grass-1.jpg",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -33.0,
+                "y": 6.0,
+                "z": 0.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 330.0
+            },
+            "scale": {
+                "x": 52.0,
+                "y": 1.0,
+                "z": 52.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://txtrs.ru/textures/grass/grass-1.jpg",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -41.0,
+                "y": 14.0,
+                "z": 28.0
+            },
+            "rotation": {
+                "x": 8.537736562175269e-7,
+                "y": 241.99998474121095,
+                "z": 30.00000762939453
+            },
+            "scale": {
+                "x": 63.0,
+                "y": 1.0,
+                "z": 53.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://txtrs.ru/textures/grass/grass-1.jpg",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -5.0,
+                "y": 6.0,
+                "z": 22.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 330.0
+            },
+            "scale": {
+                "x": 52.0,
+                "y": 1.0,
+                "z": 52.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://txtrs.ru/textures/grass/grass-1.jpg",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 25.0,
+                "y": 6.0,
+                "z": 21.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 111.0,
+                "z": 330.0
+            },
+            "scale": {
+                "x": 63.0,
+                "y": 1.0,
+                "z": 53.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://txtrs.ru/textures/grass/grass-1.jpg",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 28.0,
+                "y": 6.0,
+                "z": -22.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 222.0,
+                "z": 328.0
+            },
+            "scale": {
+                "x": 63.0,
+                "y": 1.0,
+                "z": 56.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://txtrs.ru/textures/grass/grass-1.jpg",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -46.0,
+                "y": 6.0,
+                "z": -24.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 118.0,
+                "z": 30.00000762939453
+            },
+            "scale": {
+                "x": 63.0,
+                "y": 1.0,
+                "z": 53.00000762939453
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://txtrs.ru/textures/grass/grass-1.jpg",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -15.0,
+                "y": 2.0,
+                "z": 0.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 292.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 10.0,
+                "y": 5.0,
+                "z": -1.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq1EXfYC8iL0zMQtndTlyb4mBb3joPiDeIcnva9QO9xlET_KOi-cX7oXeyqyL3jvmhdGk&usqp=CAU",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -16.0,
+                "y": 2.0,
+                "z": -9.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 20.000003814697267,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 10.0,
+                "y": 5.0,
+                "z": -1.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq1EXfYC8iL0zMQtndTlyb4mBb3joPiDeIcnva9QO9xlET_KOi-cX7oXeyqyL3jvmhdGk&usqp=CAU",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -16.0,
+                "y": 2.0,
+                "z": 8.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 344.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 10.000000953674317,
+                "y": 5.0,
+                "z": -1.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq1EXfYC8iL0zMQtndTlyb4mBb3joPiDeIcnva9QO9xlET_KOi-cX7oXeyqyL3jvmhdGk&usqp=CAU",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 301.0,
+                "y": 19.100000381469728,
+                "z": -112.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 28.0,
+                "y": 1.0,
+                "z": 236.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://junior3d.ru/texture/%D0%94%D0%BE%D1%80%D0%BE%D0%B3%D0%B0/%D0%94%D0%BE%D1%80%D0%BE%D0%B3%D0%B0/%D0%B4%D0%BE%D1%80%D0%BE%D0%B3%D0%B0_45.jpg",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 299.0,
+                "y": 25.0,
+                "z": 15.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 33.0,
+                "y": 12.0,
+                "z": 16.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://txtrs.ru/textures/grass/grass-1.jpg",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 289.0,
+                "y": 25.0,
+                "z": 6.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 9.0,
+                "y": 12.0,
+                "z": 18.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://txtrs.ru/textures/grass/grass-1.jpg",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 312.0,
+                "y": 25.0,
+                "z": 6.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 9.0,
+                "y": 12.0,
+                "z": 18.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://txtrs.ru/textures/grass/grass-1.jpg",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 300.0,
+                "y": 35.0,
+                "z": 6.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 33.0,
+                "y": 8.0,
+                "z": 16.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://txtrs.ru/textures/grass/grass-1.jpg",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 301.0,
+                "y": 25.0,
+                "z": 3.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 16.0,
+                "y": 13.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": true,
+            "texture": "",
+            "TpCord": "-17,619,3",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 7.0,
+                "y": 617.0,
+                "z": -2.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 75.0,
+                "y": 1.0,
+                "z": 89.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://txtrs.ru/textures/asphalt/asphalt-1-2.jpg",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 5.0,
+                "y": 640.0,
+                "z": 39.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 2.0,
+                "y": 46.0,
+                "z": 88.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://upload.wikimedia.org/wikipedia/commons/2/20/Tokyo_Tower_and_Tokyo_Sky_Tree_2011_January.jpg",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 43.0,
+                "y": 640.0,
+                "z": -2.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 2.0,
+                "y": 46.0,
+                "z": 88.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://upload.wikimedia.org/wikipedia/commons/2/20/Tokyo_Tower_and_Tokyo_Sky_Tree_2011_January.jpg",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -30.0,
+                "y": 640.0,
+                "z": -2.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 2.0,
+                "y": 46.0,
+                "z": 88.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://upload.wikimedia.org/wikipedia/commons/2/20/Tokyo_Tower_and_Tokyo_Sky_Tree_2011_January.jpg",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 8.0,
+                "y": 640.0,
+                "z": -44.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 2.0,
+                "y": 46.0,
+                "z": 87.99999237060547
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://upload.wikimedia.org/wikipedia/commons/2/20/Tokyo_Tower_and_Tokyo_Sky_Tree_2011_January.jpg",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 22.5,
+                "y": 617.0999755859375,
+                "z": 1.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 14.0,
+                "y": 1.0,
+                "z": 21.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcxrOC2ex0nARJPtZvZkGuTyDxKJZ4h6OtVw732kkpQHiAr0wuz16zXPVVCQsEC-PoYOk&usqp=CAU",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 23.0,
+                "y": 624.5,
+                "z": 1.0
+            },
+            "rotation": {
+                "x": 90.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 19.0,
+                "y": 13.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 0.0,
+                "g": 1.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 23.0,
+                "y": 621.0,
+                "z": 11.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 15.0,
+                "y": 8.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 0.0,
+                "g": 1.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 23.0,
+                "y": 621.0,
+                "z": -9.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 15.0,
+                "y": 8.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 0.0,
+                "g": 1.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 30.0,
+                "y": 621.0,
+                "z": 1.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 19.0,
+                "y": 8.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 0.0,
+                "g": 1.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 16.0,
+                "y": 623.0,
+                "z": 1.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 7.0,
+                "y": 4.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 0.0,
+                "g": 1.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 16.0,
+                "y": 621.0,
+                "z": 7.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 7.0,
+                "y": 8.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 0.0,
+                "g": 1.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 16.0,
+                "y": 621.0,
+                "z": -5.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 7.0,
+                "y": 8.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 0.0,
+                "g": 1.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 16.100000381469728,
+                "y": 619.0,
+                "z": 1.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.10000000149011612,
+                "y": 4.0,
+                "z": 6.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://maxtextures.ru/assets/images/resources/269/doorswoodvarious-15.jpg",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/Cylinder",
+            "position": {
+                "x": 16.0,
+                "y": 626.5,
+                "z": 6.0
+            },
+            "rotation": {
+                "x": 90.0,
+                "y": 270.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 3.0,
+                "y": 0.10000000149011612,
+                "z": 3.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://github.com/RasburCompany/Eggode2Textures/blob/main/%D0%9E%D1%87%D0%BA%D0%BE%D1%80%D0%BE%D1%87%D0%BA%D0%B0%20%D1%82%D0%B5%D0%BA%D1%81%D1%82%D1%83%D1%80%D1%8B/%D1%87%D0%BA.png?raw=true",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/плакат1",
+            "position": {
+                "x": 16.0,
+                "y": 626.2000122070313,
+                "z": 0.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.0010000000474974514,
+                "y": 2.4029529094696047,
+                "z": 8.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://github.com/RasburCompany/Eggode2Textures/blob/main/%D0%9E%D1%87%D0%BA%D0%BE%D1%80%D0%BE%D1%87%D0%BA%D0%B0%20%D1%82%D0%B5%D0%BA%D1%81%D1%82%D1%83%D1%80%D1%8B/%D0%BE%D1%87%D0%BA%D0%BE%D1%80%D0%BE%D1%87%D0%BA%D0%B0.png?raw=true",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/плакат1",
+            "position": {
+                "x": 16.0,
+                "y": 619.5999755859375,
+                "z": 1.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.0010000000474974514,
+                "y": 1.402953028678894,
+                "z": 1.5
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://galaktika-plan.ru/wp-content/uploads/2020/07/vs-12-10-700x700-1.jpg",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/плакат1",
+            "position": {
+                "x": -20.600000381469728,
+                "y": 622.0,
+                "z": 3.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.0010000000474974514,
+                "y": 9.0,
+                "z": 10.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": true,
+            "texture": "https://w7.pngwing.com/pngs/909/43/png-transparent-white-and-blue-abstract-color-portal-2-portal-blue-spiral-computer-wallpaper-thumbnail.png",
+            "TpCord": "302,21,-1",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 290.0,
+                "y": 22.0,
+                "z": -5.0
+            },
+            "rotation": {
+                "x": 9.400001525878907,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 3.0,
+                "y": 4.0,
+                "z": -8.100000381469727
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS39kj9GF5FJvTYTO-jRL63rFiO2Q4jB5rp2UJP5entvV4pIVPHWh2Rl2bxCvue3bXcckk&usqp=CAU",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 349.0,
+                "y": 42.0,
+                "z": 317.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 11.0,
+                "y": 44.0,
+                "z": 11.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://i.pinimg.com/736x/d3/7b/a8/d37ba8e8b1dc9dd5340cd328c8deb289.jpg",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 288.0,
+                "y": 47.0,
+                "z": 333.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 13.0,
+                "y": 1.0,
+                "z": 13.0
+            },
+            "color": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 307.0,
+                "y": 33.0,
+                "z": 309.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 11.0,
+                "y": 27.0,
+                "z": 11.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://kartinki.pics/uploads/posts/2021-07/1627496533_12-kartinkin-com-p-tekstura-khrushchevki-plita-krasivo-15.jpg",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 307.0,
+                "y": 47.0,
+                "z": 309.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 13.0,
+                "y": 1.0,
+                "z": 13.0
+            },
+            "color": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 288.0,
+                "y": 33.0,
+                "z": 333.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 11.0,
+                "y": 27.0,
+                "z": 11.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://kartinki.pics/uploads/posts/2021-07/1627496533_12-kartinkin-com-p-tekstura-khrushchevki-plita-krasivo-15.jpg",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 335.0,
+                "y": 42.0,
+                "z": 334.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 11.0,
+                "y": 44.0,
+                "z": 11.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://i.pinimg.com/736x/d3/7b/a8/d37ba8e8b1dc9dd5340cd328c8deb289.jpg",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 349.0,
+                "y": 71.0,
+                "z": 317.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 15.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 0.7843137383460999,
+                "g": 0.7843137383460999,
+                "b": 0.7843137383460999,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 291.0,
+                "y": 33.0,
+                "z": 291.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 11.0,
+                "y": 27.0,
+                "z": 11.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://kartinki.pics/uploads/posts/2021-07/1627496533_12-kartinkin-com-p-tekstura-khrushchevki-plita-krasivo-15.jpg",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 291.0,
+                "y": 47.0,
+                "z": 291.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 13.0,
+                "y": 1.0,
+                "z": 13.0
+            },
+            "color": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -24.0,
+                "y": 24.0,
+                "z": 300.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 43.0,
+                "y": 9.0,
+                "z": 2.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -38.0,
+                "y": 24.0,
+                "z": 263.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 16.0,
+                "y": 9.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -11.0,
+                "y": 24.0,
+                "z": 263.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 16.0,
+                "y": 9.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -25.0,
+                "y": 29.100000381469728,
+                "z": 282.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 40.0,
+                "y": 1.0,
+                "z": 44.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -46.0,
+                "y": 24.0,
+                "z": 282.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 39.0,
+                "y": 9.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -3.0,
+                "y": 24.0,
+                "z": 282.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 39.0,
+                "y": 9.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -25.0,
+                "y": 19.100000381469728,
+                "z": 282.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 39.999996185302737,
+                "y": 1.0,
+                "z": 43.999996185302737
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -21.0,
+                "y": 22.0,
+                "z": 295.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 13.0,
+                "y": 6.0,
+                "z": -1.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTeJk54xqLH5fhVlsA_fo4cpF_5_rDLmQKBtX9wsGRoAef2tMMbz7SEUSsXbNNUJxe1Qw&usqp=CAU",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -25.0,
+                "y": 33.0,
+                "z": 263.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 7.0,
+                "y": 7.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://cdn-icons-png.flaticon.com/512/527/527034.png",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/Capsule",
+            "position": {
+                "x": 130.0,
+                "y": 20.399999618530275,
+                "z": 269.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": true,
+            "texture": "https://sun9-70.userapi.com/impg/5m3sWaE9NpdTb9z34r066Hyhv7MQTm9tQsvmPg/UzlQNdIF0EM.jpg?size=510x637&quality=95&sign=2e5d12469b8d448a9d1e899904b10b27&type=album",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "cat-skin",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 143.0,
+                "y": 12.0,
+                "z": 277.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 14.0,
+                "y": 1.0,
+                "z": 10.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": true,
+            "isCollider": false,
+            "texture": "https://sun9-70.userapi.com/impg/5m3sWaE9NpdTb9z34r066Hyhv7MQTm9tQsvmPg/UzlQNdIF0EM.jpg?size=510x637&quality=95&sign=2e5d12469b8d448a9d1e899904b10b27&type=album",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/Sphere",
+            "position": {
+                "x": 143.0,
+                "y": 12.0,
+                "z": 288.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 4.0,
+                "y": 4.0,
+                "z": 4.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://sun9-70.userapi.com/impg/5m3sWaE9NpdTb9z34r066Hyhv7MQTm9tQsvmPg/UzlQNdIF0EM.jpg?size=510x637&quality=95&sign=2e5d12469b8d448a9d1e899904b10b27&type=album",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/SUN",
+            "position": {
+                "x": 152.0,
+                "y": 14.0,
+                "z": 282.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 325.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 0.5,
+                "g": 0.5,
+                "b": 0.5,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": true,
+            "isCollider": false,
+            "texture": "https://sun9-70.userapi.com/impg/5m3sWaE9NpdTb9z34r066Hyhv7MQTm9tQsvmPg/UzlQNdIF0EM.jpg?size=510x637&quality=95&sign=2e5d12469b8d448a9d1e899904b10b27&type=album",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 146.0,
+                "y": 3.0,
+                "z": 276.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 41.0,
+                "y": 1.0,
+                "z": 37.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": true,
+            "texture": "",
+            "TpCord": "130,108,269",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 146.0,
+                "y": 8.0,
+                "z": 276.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 41.0,
+                "y": 1.0,
+                "z": 37.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "cat-skin",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        }
+    ],
+    "npc": [
+        {
+            "folderLocation": "NPC/NPC",
+            "position": {
+                "x": -20.0,
+                "y": 20.5,
+                "z": 286.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.583400011062622,
+                "y": 1.583400011062622,
+                "z": 1.583400011062622
+            },
+            "color": {
+                "r": 0.7907306551933289,
+                "g": 0.7907306551933289,
+                "b": 0.7907306551933289,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "npcslovo": "ХАХХАХАХА. ЛОХ!"
+        }
+    ]
+}

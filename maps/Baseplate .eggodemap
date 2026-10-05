@@ -1,0 +1,24 @@
+{
+  "mapname": "Eggode Classic Baseplate",
+  "author": "EpicSUS",
+  "objects": [
+    {
+      "folderLocation": "mapcreator/cube",
+      "position": {
+        "x": 1.00,
+        "y": 0.00,
+        "z": 0.00
+      },
+      "rotation": {
+        "x": 0.00,
+        "y": 0.00,
+        "z": 0.00
+      },
+      "scale": {
+        "x": 9000.00,
+        "y": 1.00,
+        "z": 9000.00
+      }
+    }
+  ]
+}

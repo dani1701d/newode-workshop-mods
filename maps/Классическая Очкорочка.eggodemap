@@ -1,0 +1,1343 @@
+{
+    "mapname": "Классическая Очкорочка",
+    "author": "Rasbur Яичный",
+    "icon": "https://github.com/RasburCompany/Eggode2Textures/blob/main/%D0%AF%D0%B9%D1%86%D0%B5%D0%BE%D0%B4%D1%8B%202%20%D0%BF%D1%80%D0%B5%D0%B2%D1%8C%D1%8E%20%D0%BA%D0%B0%D1%80%D1%82/%D0%9A%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F%20%D0%9E%D1%87%D0%BA%D0%BE%D1%80%D0%BE%D1%87%D0%BA%D0%B0.png?raw=true",
+    "skybox": "0",
+    "diecord": "​",
+    "uron": true,
+    "canSpawnObj": true,
+    "canDellObj": true,
+    "objects": [
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -21.0,
+                "y": -1.0,
+                "z": 39.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 300.0,
+                "y": 1.0,
+                "z": 300.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://img.freepik.com/free-photo/blank-concrete-white-wall-texture-background_1017-15560.jpg?size=626&ext=jpg&ga=GA1.1.1546980028.1710547200&semt=ais",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 0.0,
+                "y": 34.0,
+                "z": 109.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 69.0,
+                "z": 148.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://upload.wikimedia.org/wikipedia/commons/2/20/Tokyo_Tower_and_Tokyo_Sky_Tree_2011_January.jpg",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 74.0,
+                "y": 34.0,
+                "z": 35.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 69.0,
+                "z": 148.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://upload.wikimedia.org/wikipedia/commons/2/20/Tokyo_Tower_and_Tokyo_Sky_Tree_2011_January.jpg",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 0.0,
+                "y": 34.0,
+                "z": -38.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 69.0,
+                "z": 148.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://upload.wikimedia.org/wikipedia/commons/2/20/Tokyo_Tower_and_Tokyo_Sky_Tree_2011_January.jpg",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -74.0,
+                "y": 34.0,
+                "z": 35.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 69.0,
+                "z": 148.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://upload.wikimedia.org/wikipedia/commons/2/20/Tokyo_Tower_and_Tokyo_Sky_Tree_2011_January.jpg",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 18.0,
+                "y": 2.0,
+                "z": 60.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": -29.0,
+                "y": 5.0,
+                "z": -1.0
+            },
+            "color": {
+                "r": 0.0,
+                "g": 1.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 4.0,
+                "y": 2.0,
+                "z": 74.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": -29.0,
+                "y": 5.0,
+                "z": -1.0
+            },
+            "color": {
+                "r": 0.0,
+                "g": 1.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -5.0,
+                "y": 2.0,
+                "z": 46.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": -12.0,
+                "y": 5.0,
+                "z": -1.0
+            },
+            "color": {
+                "r": 0.0,
+                "g": 1.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -11.0,
+                "y": 2.0,
+                "z": 60.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": -29.0,
+                "y": 5.0,
+                "z": -1.0
+            },
+            "color": {
+                "r": 0.0,
+                "g": 1.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 4.0,
+                "y": 4.0,
+                "z": 46.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": -12.0,
+                "y": 1.0,
+                "z": -1.0
+            },
+            "color": {
+                "r": 0.0,
+                "g": 1.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 4.0,
+                "y": 4.5,
+                "z": 60.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 29.0,
+                "y": 0.10000000149011612,
+                "z": 27.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Blank.jpg",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 4.0,
+                "y": -0.5,
+                "z": 60.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 29.0,
+                "y": 0.10000000149011612,
+                "z": 27.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://kalix.club/uploads/posts/2022-12/1671648256_kalix-club-p-plitka-tekstura-besshovnaya-vkontakte-1.jpg",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 14.800000190734864,
+                "y": 2.0999999046325685,
+                "z": 72.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 90.0
+            },
+            "scale": {
+                "x": -0.10000003129243851,
+                "y": -0.5,
+                "z": 2.0999999046325685
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 15.0,
+                "y": 2.0,
+                "z": 72.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.10000000149011612,
+                "y": 5.0,
+                "z": 2.0999999046325685
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 3.299999952316284,
+                "y": 0.0,
+                "z": 72.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 90.0
+            },
+            "scale": {
+                "x": -0.1000000387430191,
+                "y": 22.499990463256837,
+                "z": 2.0999999046325685
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 14.800000190734864,
+                "y": 0.0,
+                "z": 72.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 90.0
+            },
+            "scale": {
+                "x": -0.1000000387430191,
+                "y": -0.5,
+                "z": 2.0999999046325685
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/плакат1",
+            "position": {
+                "x": 13.0,
+                "y": 2.799999952316284,
+                "z": 72.4000015258789
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.0010000469628721476,
+                "y": 1.402953028678894,
+                "z": 2.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://api.psychologos.ru/storage/image/v-alchevske-bezdomnyj-spas-broshenogo-novorozhdennogo-_1440212365.jpg",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/плакат1",
+            "position": {
+                "x": 13.0,
+                "y": 0.699999988079071,
+                "z": 72.4000015258789
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.0010000469628721476,
+                "y": 1.402953028678894,
+                "z": 2.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://api.psychologos.ru/storage/image/v-alchevske-bezdomnyj-spas-broshenogo-novorozhdennogo-_1440212365.jpg",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/плакат1",
+            "position": {
+                "x": -1.0,
+                "y": 2.799999952316284,
+                "z": 72.4000015258789
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.0010000469628721476,
+                "y": 1.402953028678894,
+                "z": 2.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://api.psychologos.ru/storage/image/v-alchevske-bezdomnyj-spas-broshenogo-novorozhdennogo-_1440212365.jpg",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/плакат1",
+            "position": {
+                "x": 4.0,
+                "y": 2.799999952316284,
+                "z": 72.4000015258789
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.0010000469628721476,
+                "y": 1.402953028678894,
+                "z": 2.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://api.psychologos.ru/storage/image/v-alchevske-bezdomnyj-spas-broshenogo-novorozhdennogo-_1440212365.jpg",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/плакат1",
+            "position": {
+                "x": 9.0,
+                "y": 2.799999952316284,
+                "z": 72.4000015258789
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.0010000469628721476,
+                "y": 1.402953028678894,
+                "z": 2.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://api.psychologos.ru/storage/image/v-alchevske-bezdomnyj-spas-broshenogo-novorozhdennogo-_1440212365.jpg",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/плакат1",
+            "position": {
+                "x": -6.0,
+                "y": 0.699999988079071,
+                "z": 72.4000015258789
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.0010000469628721476,
+                "y": 1.402953028678894,
+                "z": 2.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://api.psychologos.ru/storage/image/v-alchevske-bezdomnyj-spas-broshenogo-novorozhdennogo-_1440212365.jpg",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/плакат1",
+            "position": {
+                "x": -1.0,
+                "y": 0.699999988079071,
+                "z": 72.4000015258789
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.0010000469628721476,
+                "y": 1.402953028678894,
+                "z": 2.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://api.psychologos.ru/storage/image/v-alchevske-bezdomnyj-spas-broshenogo-novorozhdennogo-_1440212365.jpg",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/плакат1",
+            "position": {
+                "x": 4.0,
+                "y": 0.699999988079071,
+                "z": 72.4000015258789
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.0010000469628721476,
+                "y": 1.402953028678894,
+                "z": 2.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://api.psychologos.ru/storage/image/v-alchevske-bezdomnyj-spas-broshenogo-novorozhdennogo-_1440212365.jpg",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/плакат1",
+            "position": {
+                "x": 9.0,
+                "y": 0.699999988079071,
+                "z": 72.4000015258789
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.0010000469628721476,
+                "y": 1.402953028678894,
+                "z": 2.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://api.psychologos.ru/storage/image/v-alchevske-bezdomnyj-spas-broshenogo-novorozhdennogo-_1440212365.jpg",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/плакат1",
+            "position": {
+                "x": 7.0,
+                "y": -0.10000000149011612,
+                "z": 70.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.0009999871253967286,
+                "y": 0.8029530048370361,
+                "z": -0.5
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://github.com/RasburCompany/Eggode2Textures/blob/main/%D0%9E%D1%87%D0%BA%D0%BE%D1%80%D0%BE%D1%87%D0%BA%D0%B0%20%D1%82%D0%B5%D0%BA%D1%81%D1%82%D1%83%D1%80%D1%8B/%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D0%BE.png?raw=true",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/плакат1",
+            "position": {
+                "x": 7.0,
+                "y": 7.0,
+                "z": 47.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.0009999871253967286,
+                "y": 5.0,
+                "z": 15.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://github.com/RasburCompany/Eggode2Textures/blob/main/%D0%9E%D1%87%D0%BA%D0%BE%D1%80%D0%BE%D1%87%D0%BA%D0%B0%20%D1%82%D0%B5%D0%BA%D1%81%D1%82%D1%83%D1%80%D1%8B/%D0%BE%D1%87%D0%BA%D0%BE%D1%80%D0%BE%D1%87%D0%BA%D0%B0.png?raw=true",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/Cylinder",
+            "position": {
+                "x": -3.299999952316284,
+                "y": 7.0,
+                "z": 47.0
+            },
+            "rotation": {
+                "x": 90.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 5.0,
+                "y": 0.10000002384185791,
+                "z": 4.999999046325684
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://github.com/RasburCompany/Eggode2Textures/blob/main/%D0%9E%D1%87%D0%BA%D0%BE%D1%80%D0%BE%D1%87%D0%BA%D0%B0%20%D1%82%D0%B5%D0%BA%D1%81%D1%82%D1%83%D1%80%D1%8B/%D1%87%D0%BA.png?raw=true",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 12.0,
+                "y": 2.0,
+                "z": 46.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": -12.0,
+                "y": 5.0,
+                "z": -1.0
+            },
+            "color": {
+                "r": 0.0,
+                "g": 1.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -8.0,
+                "y": 2.0,
+                "z": 72.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.10000000149011612,
+                "y": 5.0,
+                "z": 2.0999999046325685
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 3.299999952316284,
+                "y": 2.0999999046325685,
+                "z": 72.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 90.0
+            },
+            "scale": {
+                "x": -0.10000003129243851,
+                "y": 22.49999237060547,
+                "z": 2.0999999046325685
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/плакат1",
+            "position": {
+                "x": -6.0,
+                "y": 2.799999952316284,
+                "z": 72.4000015258789
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.0010000469628721476,
+                "y": 1.402953028678894,
+                "z": 2.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://api.psychologos.ru/storage/image/v-alchevske-bezdomnyj-spas-broshenogo-novorozhdennogo-_1440212365.jpg",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/плакат1",
+            "position": {
+                "x": 7.0,
+                "y": 1.0,
+                "z": 70.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.0009999871253967286,
+                "y": 1.402953028678894,
+                "z": 2.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://github.com/RasburCompany/Eggode2Textures/blob/main/%D0%9E%D1%87%D0%BA%D0%BE%D1%80%D0%BE%D1%87%D0%BA%D0%B0%20%D1%82%D0%B5%D0%BA%D1%81%D1%82%D1%83%D1%80%D1%8B/%D0%B4%D0%B5%D1%82%D0%B8%2040%20%D1%80%D1%83%D0%B1.png?raw=true",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -10.0,
+                "y": 2.0,
+                "z": 55.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 3.0,
+                "z": 4.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://kiosks.ru/wp-content/uploads/2022/05/kassa-dlya-kafe.jpg",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        },
+        {
+            "folderLocation": "mapcreator/SUN",
+            "position": {
+                "x": 11.0,
+                "y": 97.0,
+                "z": -35.0
+            },
+            "rotation": {
+                "x": 62.99999237060547,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 0.5,
+                "g": 0.5,
+                "b": 0.5,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false
+        }
+    ],
+    "npc": []
+}

@@ -1,0 +1,62 @@
+{
+    "mapname": "планета с богом",
+    "author": "Rasbur Яичный",
+    "objects": [
+        {
+            "folderLocation": "mapcreator/Sphere",
+            "position": {
+                "x": 1.0,
+                "y": -500.0000305175781,
+                "z": -2.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1000.0,
+                "y": 1000.0,
+                "z": 1000.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://kartinki.pics/uploads/posts/2021-07/thumbs/1625864478_32-kartinkin-com-p-tekstura-travi-besshovnaya-krasivo-44.jpg"
+        },
+        {
+            "folderLocation": "mapcreator/плакат1",
+            "position": {
+                "x": 0.0,
+                "y": 4.0,
+                "z": 433.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1000.0,
+                "z": 950.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": true,
+            "texture": ""
+        }
+    ]
+}

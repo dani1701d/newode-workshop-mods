@@ -123,9 +123,37 @@
     {
       "name": "Башня Фуфелшмертца",
       "type": "map",
-      "author": "Rasbur",
+      "author": "Rasbur Яичный",
       "description": "Башня из мультсериала 'Финес и Ферб', в которую можно зайти",
       "fileUrl": "https://raw.githubusercontent.com/dani1701d/newode-workshop-mods/refs/heads/main/maps/Башня Фуфелшмертца.eggodemap"
+    },
+    {
+      "name": "Локация из Gummy Bear",
+      "type": "map",
+      "author": "Rasbur Яичный",
+      "description": "Локация из Gummy Bear, как ни странно",
+      "fileUrl": "https://raw.githubusercontent.com/dani1701d/newode-workshop-mods/refs/heads/main/maps/Локация из Gummy Bear.eggodemap"
+    },
+    {
+      "name": "Негри Бёрдс",
+      "type": "map",
+      "author": "Rasbur Яичный",
+      "description": "Angry Birds в Яйцеодах",
+      "fileUrl": "https://raw.githubusercontent.com/dani1701d/newode-workshop-mods/refs/heads/main/maps/Негри Бёрдс.eggodemap"
+    },
+    {
+      "name": "Очкорочка",
+      "type": "map",
+      "author": "Rasbur Яичный",
+      "description": "Легендарный магазин Очкорочка",
+      "fileUrl": "https://raw.githubusercontent.com/dani1701d/newode-workshop-mods/refs/heads/main/maps/Очкорочка.eggodemap"
+    },
+    {
+      "name": "портал исп 00",
+      "type": "map",
+      "author": "Rasbur Яичный",
+      "description": "Первое испытание из Портала в Яйцеодах",
+      "fileUrl": "https://raw.githubusercontent.com/dani1701d/newode-workshop-mods/refs/heads/main/maps/портал исп 00.eggodemap"
     },
     {
       "name": "Старый замок",
@@ -135,6 +163,20 @@
       "fileUrl": "https://raw.githubusercontent.com/dani1701d/newode-workshop-mods/refs/heads/main/maps/Старый замок.eggodemap"
     },
     {
+      "name": "Editor Assets",
+      "type": "mod",
+      "author": "Rasbur",
+      "description": "Возвращает те самые модельки, которые раньше были на сайте. Автор модельки sdsdds и model - EpicSUS, teapot - Yarik21YT, а все остальные - Rasbur (Я)",
+      "fileUrl": "https://raw.githubusercontent.com/dani1701d/newode-workshop-mods/refs/heads/main/mods/EditorAssets.zip"
+    },
+    {
+      "name": "Музыка для карт.",
+      "type": "mod",
+      "author": "Rasbur",
+      "description": "Фоновая музыка на карте.",
+      "fileUrl": "https://raw.githubusercontent.com/dani1701d/newode-workshop-mods/refs/heads/main/mods/MapMusic.zip"
+    },
+    {
       "name": "Developer Toolset",
       "type": "mod",
       "author": "Mongabox",
@@ -142,14 +184,7 @@
       "fileUrl": "https://raw.githubusercontent.com/dani1701d/newode-workshop-mods/refs/heads/main/mods/DeveloperToolset.zip"
     },
     {
-      "name": "EditorAssets",
-      "type": "mod",
-      "author": "Rasbur",
-      "description": "Возвращает те самые модельки, которые раньше были на сайте. Автор модельки sdsdds и model - EpicSUS, teapot - Yarik21YT, а все остальные - Rasbur (Я)",
-      "fileUrl": "https://raw.githubusercontent.com/dani1701d/newode-workshop-mods/refs/heads/main/mods/EditorAssets.zip"
-    },
-    {
-      "name": "NoclipMod",
+      "name": "Noclip Mod",
       "type": "mod",
       "author": "Mongabox",
       "description": "Мод, который позволяет вашему яйцу летать на V.",

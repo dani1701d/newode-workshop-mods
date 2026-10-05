@@ -43,6 +43,13 @@
       "fileUrl": "https://raw.githubusercontent.com/dani1701d/newode-workshop-mods/refs/heads/main/maps/DuelsMap.eggodemap"
     },
     {
+      "name": "PromGorodok",
+      "type": "map",
+      "author": "Danoka",
+      "description": "Карта с реалистичными зданиями",
+      "fileUrl": "https://raw.githubusercontent.com/dani1701d/newode-workshop-mods/refs/heads/main/maps/PromGorodok.eggodemap"
+    },
+    {
       "name": "хорор но за 2 сускоина",
       "type": "map",
       "author": "подхлебник",
@@ -105,13 +112,6 @@
       "author": "Kapusta123",
       "description": "Паркур в стиле Майнкрафта",
       "fileUrl": "https://raw.githubusercontent.com/dani1701d/newode-workshop-mods/refs/heads/main/maps/Parkour.eggodemap"
-    },
-    {
-      "name": "PromGorodok",
-      "type": "map",
-      "author": "Danoka",
-      "description": "Карта с реалистичными зданиями",
-      "fileUrl": "https://raw.githubusercontent.com/dani1701d/newode-workshop-mods/refs/heads/main/maps/PromGorodok.eggodemap"
     },
     {
       "name": "dm-eggtown",

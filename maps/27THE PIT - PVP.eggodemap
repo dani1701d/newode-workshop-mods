@@ -1,0 +1,240 @@
+{
+    "mapname": "THE PIT - PVP",
+    "author": "Пон",
+    "objects": [
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": -25.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 60.0,
+                "y": 20.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 0.4196077883243561
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://img.freepik.com/free-photo/water-drops-background_23-2148098971.jpg?size=626&ext=jpg&ga=GA1.1.632798143.1713139200&semt=ais",
+            "id": "",
+            "Destroy": "",
+            "TpCord": "",
+            "Damagenum": "",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "",
+            "IISpeed": "5",
+            "Animation": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 30.0,
+                "y": 1.0,
+                "z": 5.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 60.0,
+                "y": 20.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 0.4196077883243561
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://img.freepik.com/free-photo/water-drops-background_23-2148098971.jpg?size=626&ext=jpg&ga=GA1.1.632798143.1713139200&semt=ais",
+            "id": "",
+            "Destroy": "",
+            "TpCord": "",
+            "Damagenum": "",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "",
+            "IISpeed": "5",
+            "Animation": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -30.0,
+                "y": 1.0,
+                "z": 5.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 60.0,
+                "y": 20.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 0.4196077883243561
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://img.freepik.com/free-photo/water-drops-background_23-2148098971.jpg?size=626&ext=jpg&ga=GA1.1.632798143.1713139200&semt=ais",
+            "id": "",
+            "Destroy": "",
+            "TpCord": "",
+            "Damagenum": "",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "",
+            "IISpeed": "5",
+            "Animation": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 30.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 60.0,
+                "y": 20.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 0.4196077883243561
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://img.freepik.com/free-photo/water-drops-background_23-2148098971.jpg?size=626&ext=jpg&ga=GA1.1.632798143.1713139200&semt=ais",
+            "id": "",
+            "Destroy": "",
+            "TpCord": "",
+            "Damagenum": "",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "",
+            "IISpeed": "5",
+            "Animation": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 0.0,
+                "y": 9.0,
+                "z": 0.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 60.0,
+                "y": 1.0,
+                "z": 60.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 0.4196077883243561
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://img.freepik.com/free-photo/seamless-yellow-fabric-texture-background_1373-136.jpg",
+            "id": "",
+            "Destroy": "",
+            "TpCord": "",
+            "Damagenum": "",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "",
+            "IISpeed": "5",
+            "Animation": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 0.0,
+                "y": -9.0,
+                "z": 0.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 60.0,
+                "y": 1.0,
+                "z": 60.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 0.4196077883243561
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://img.freepik.com/free-photo/seamless-yellow-fabric-texture-background_1373-136.jpg",
+            "id": "1",
+            "Destroy": "",
+            "TpCord": "",
+            "Damagenum": "",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "50",
+            "IISpeed": "5",
+            "Animation": ""
+        }
+    ]
+}Запись успешно обновлена

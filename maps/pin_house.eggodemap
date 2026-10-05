@@ -1,0 +1,5374 @@
+{
+    "mapname": "pin_house",
+    "author": "Rasbur",
+    "icon": "",
+    "skybox": "0",
+    "diecord": "​​​​​​​​​​​​​",
+    "uron": true,
+    "canSpawnObj": true,
+    "canDellObj": true,
+    "survival": false,
+    "modsDependence": [],
+    "textures": [],
+    "objects": [
+        {
+            "folderLocation": "mapcreator/Cylinder",
+            "position": {
+                "x": 40.56071090698242,
+                "y": -9.950169563293457,
+                "z": -17.85590934753418
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 151.2041778564453,
+                "y": 9.566414833068848,
+                "z": 314.8567199707031
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://img.freepik.com/free-vector/paper-texture-background_1100-281.jpg?w=360",
+            "textureTile": "50",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/SUN",
+            "position": {
+                "x": 0.0,
+                "y": 78.0,
+                "z": 103.0
+            },
+            "rotation": {
+                "x": 60.66123962402344,
+                "y": 180.0,
+                "z": 180.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.9215686321258545
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/Water 1",
+            "position": {
+                "x": 35.81975173950195,
+                "y": -41.726280212402347,
+                "z": 48.04048156738281
+            },
+            "rotation": {
+                "x": 0.8533477783203125,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1000.0,
+                "y": 64.97986602783203,
+                "z": 1000.00146484375
+            },
+            "color": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/Sphere",
+            "position": {
+                "x": 6.170241832733154,
+                "y": 11.842118263244629,
+                "z": 88.72377014160156
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 13.232879638671875,
+                "y": 13.232879638671875,
+                "z": 13.232879638671875
+            },
+            "color": {
+                "r": 0.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://grizly.club/uploads/posts/2023-01/thumbs/1673208094_grizly-club-p-besshovnaya-tekstura-fetra-5.jpg",
+            "textureTile": "10",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 3.2355310916900636,
+                "y": 3.444153070449829,
+                "z": 85.3469009399414
+            },
+            "rotation": {
+                "x": 359.8119812011719,
+                "y": 321.91558837890627,
+                "z": 349.1285095214844
+            },
+            "scale": {
+                "x": 1.6712713241577149,
+                "y": 9.943193435668946,
+                "z": 2.7223663330078127
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://grizly.club/uploads/posts/2023-01/1673147179_grizly-club-p-besshovnaya-tekstura-dereva-dlya-3d-maks-1.jpg",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 8.811845779418946,
+                "y": 3.444153070449829,
+                "z": 85.8470230102539
+            },
+            "rotation": {
+                "x": 3.7893428802490236,
+                "y": 321.91558837890627,
+                "z": 10.871493339538575
+            },
+            "scale": {
+                "x": 1.6712709665298463,
+                "y": 9.943192481994629,
+                "z": 2.7223663330078127
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://grizly.club/uploads/posts/2023-01/1673147179_grizly-club-p-besshovnaya-tekstura-dereva-dlya-3d-maks-1.jpg",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 6.236371994018555,
+                "y": 3.444153070449829,
+                "z": 93.54178619384766
+            },
+            "rotation": {
+                "x": 356.803955078125,
+                "y": 275.6921081542969,
+                "z": 14.533302307128907
+            },
+            "scale": {
+                "x": 1.6712692975997925,
+                "y": 9.943191528320313,
+                "z": 2.7223665714263918
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://grizly.club/uploads/posts/2023-01/1673147179_grizly-club-p-besshovnaya-tekstura-dereva-dlya-3d-maks-1.jpg",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 4.4110188484191898,
+                "y": 2.984304904937744,
+                "z": 89.89169311523438
+            },
+            "rotation": {
+                "x": 357.74432373046877,
+                "y": 208.70953369140626,
+                "z": 1.4412559270858765
+            },
+            "scale": {
+                "x": 0.4619489908218384,
+                "y": 1.218416452407837,
+                "z": 9.316483497619629
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://grizly.club/uploads/posts/2023-01/1673147179_grizly-club-p-besshovnaya-tekstura-dereva-dlya-3d-maks-1.jpg",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 6.134663105010986,
+                "y": 2.984304904937744,
+                "z": 85.52764129638672
+            },
+            "rotation": {
+                "x": 357.74432373046877,
+                "y": 72.47760009765625,
+                "z": 1.441256046295166
+            },
+            "scale": {
+                "x": 0.4619489908218384,
+                "y": 1.2184165716171265,
+                "z": 6.447495460510254
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://grizly.club/uploads/posts/2023-01/1673147179_grizly-club-p-besshovnaya-tekstura-dereva-dlya-3d-maks-1.jpg",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 7.584476947784424,
+                "y": 2.984304904937744,
+                "z": 89.74403381347656
+            },
+            "rotation": {
+                "x": 359.7312927246094,
+                "y": 344.21319580078127,
+                "z": 8.226275444030762
+            },
+            "scale": {
+                "x": 0.46194884181022646,
+                "y": 1.218414306640625,
+                "z": 7.283117771148682
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://grizly.club/uploads/posts/2023-01/1673147179_grizly-club-p-besshovnaya-tekstura-dereva-dlya-3d-maks-1.jpg",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/Cylinder",
+            "position": {
+                "x": 6.628574848175049,
+                "y": 10.976730346679688,
+                "z": 82.2654037475586
+            },
+            "rotation": {
+                "x": 84.17577362060547,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 3.3095529079437258,
+                "y": 0.18171840906143189,
+                "z": 3.3095500469207765
+            },
+            "color": {
+                "r": 0.0,
+                "g": 0.6666666865348816,
+                "b": 0.6666666865348816,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://grizly.club/uploads/posts/2023-01/thumbs/1673208094_grizly-club-p-besshovnaya-tekstura-fetra-5.jpg",
+            "textureTile": "5",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "Бублик из крутого мода эпиксуса Больше Фигур",
+            "position": {
+                "x": 6.630640983581543,
+                "y": 10.810334205627442,
+                "z": 81.50626373291016
+            },
+            "rotation": {
+                "x": 354.97430419921877,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 67.09443664550781,
+                "y": 67.09452056884766,
+                "z": 49.09324264526367
+            },
+            "color": {
+                "r": 1.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": true,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://grizly.club/uploads/posts/2023-01/thumbs/1673208094_grizly-club-p-besshovnaya-tekstura-fetra-5.jpg",
+            "textureTile": "5",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/Cylinder",
+            "position": {
+                "x": 6.596023082733154,
+                "y": 10.838489532470704,
+                "z": 81.80596923828125
+            },
+            "rotation": {
+                "x": 273.792236328125,
+                "y": 180.0,
+                "z": 180.0
+            },
+            "scale": {
+                "x": 0.4471816122531891,
+                "y": 0.40892964601516726,
+                "z": 0.44718196988105776
+            },
+            "color": {
+                "r": 1.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://grizly.club/uploads/posts/2023-01/thumbs/1673208094_grizly-club-p-besshovnaya-tekstura-fetra-5.jpg",
+            "textureTile": "5",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 6.618147850036621,
+                "y": 10.854040145874024,
+                "z": 81.52161407470703
+            },
+            "rotation": {
+                "x": 354.9356994628906,
+                "y": 0.0,
+                "z": 49.53547668457031
+            },
+            "scale": {
+                "x": 0.22040176391601563,
+                "y": 1.1669940948486329,
+                "z": 0.04266357421875
+            },
+            "color": {
+                "r": 1.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://grizly.club/uploads/posts/2023-01/thumbs/1673208094_grizly-club-p-besshovnaya-tekstura-fetra-5.jpg",
+            "textureTile": "5",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 6.618147850036621,
+                "y": 10.854040145874024,
+                "z": 81.52161407470703
+            },
+            "rotation": {
+                "x": 354.9356994628906,
+                "y": 3.2141983297151457e-7,
+                "z": 323.4281921386719
+            },
+            "scale": {
+                "x": 0.22040176391601563,
+                "y": 1.166994333267212,
+                "z": 0.04266357421875
+            },
+            "color": {
+                "r": 1.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://grizly.club/uploads/posts/2023-01/thumbs/1673208094_grizly-club-p-besshovnaya-tekstura-fetra-5.jpg",
+            "textureTile": "5",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "Бублик из крутого мода эпиксуса Больше Фигур",
+            "position": {
+                "x": 6.0,
+                "y": 14.974230766296387,
+                "z": 83.0495834350586
+            },
+            "rotation": {
+                "x": 25.98386001586914,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 160.8125,
+                "y": 160.8125,
+                "z": 100.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 0.5882353186607361,
+                "b": 0.003921568859368563,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": true,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/Cylinder",
+            "position": {
+                "x": 5.9831061363220219,
+                "y": 14.583120346069336,
+                "z": 83.85679626464844
+            },
+            "rotation": {
+                "x": 296.4664611816406,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": -2.5617146492004396,
+                "y": 1.0334283113479615,
+                "z": -2.542832374572754
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://github.com/RasburCompany/Eggode2Textures/blob/main/%D0%94%D0%BE%D0%BC%D0%B8%D0%BA%20%D0%9F%D0%B8%D0%BD%D0%B0/%D1%87%D0%B0%D1%81%D1%8B.png?raw=true",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 5.943253993988037,
+                "y": 14.97134017944336,
+                "z": 82.89586639404297
+            },
+            "rotation": {
+                "x": 23.770238876342775,
+                "y": -2.332283770556387e-7,
+                "z": 344.1351318359375
+            },
+            "scale": {
+                "x": 0.30758997797966006,
+                "y": 0.6883668899536133,
+                "z": 0.21303555369377137
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://grizly.club/uploads/posts/2023-01/thumbs/1673208094_grizly-club-p-besshovnaya-tekstura-fetra-5.jpg",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 6.081264019012451,
+                "y": 15.398215293884278,
+                "z": 83.05049133300781
+            },
+            "rotation": {
+                "x": 23.770238876342775,
+                "y": -2.332283770556387e-7,
+                "z": 344.1351318359375
+            },
+            "scale": {
+                "x": 0.7607135772705078,
+                "y": 0.4287815988063812,
+                "z": 0.21303564310073853
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://grizly.club/uploads/posts/2023-01/thumbs/1673208094_grizly-club-p-besshovnaya-tekstura-fetra-5.jpg",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 3.7330029010772707,
+                "y": 17.721359252929689,
+                "z": 88.98265838623047
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 303.37127685546877
+            },
+            "scale": {
+                "x": 0.8397508859634399,
+                "y": 7.098725318908691,
+                "z": 10.256019592285157
+            },
+            "color": {
+                "r": 1.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://grizly.club/uploads/posts/2023-01/1673147179_grizly-club-p-besshovnaya-tekstura-dereva-dlya-3d-maks-1.jpg",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 8.51443862915039,
+                "y": 17.725671768188478,
+                "z": 88.98265838623047
+            },
+            "rotation": {
+                "x": 359.0,
+                "y": 0.9999995827674866,
+                "z": 56.62870788574219
+            },
+            "scale": {
+                "x": 0.8923681974411011,
+                "y": 5.865485191345215,
+                "z": 10.256019592285157
+            },
+            "color": {
+                "r": 1.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://grizly.club/uploads/posts/2023-01/1673147179_grizly-club-p-besshovnaya-tekstura-dereva-dlya-3d-maks-1.jpg",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 6.0,
+                "y": 18.328350067138673,
+                "z": 89.83614349365235
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 8.981404304504395
+            },
+            "color": {
+                "r": 1.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://grizly.club/uploads/posts/2023-01/1673147179_grizly-club-p-besshovnaya-tekstura-dereva-dlya-3d-maks-1.jpg",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 10.483019828796387,
+                "y": 14.167360305786133,
+                "z": 86.5228042602539
+            },
+            "rotation": {
+                "x": -6.403302563739999e-7,
+                "y": 24.213531494140626,
+                "z": 17.299097061157228
+            },
+            "scale": {
+                "x": 1.8260328769683838,
+                "y": 0.1649647057056427,
+                "z": 0.1716461032629013
+            },
+            "color": {
+                "r": 0.3921565115451813,
+                "g": 0.3921565115451813,
+                "b": 0.3921565115451813,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 12.788220405578614,
+                "y": 14.075730323791504,
+                "z": 86.08592987060547
+            },
+            "rotation": {
+                "x": 9.0,
+                "y": 9.000015258789063,
+                "z": 24.081912994384767
+            },
+            "scale": {
+                "x": 2.594681978225708,
+                "y": 0.15134049952030183,
+                "z": 0.054512057453393939
+            },
+            "color": {
+                "r": 0.3921565115451813,
+                "g": 0.3921565115451813,
+                "b": 0.3921565115451813,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 13.711609840393067,
+                "y": 14.489543914794922,
+                "z": 85.95477294921875
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 103.49140167236328
+            },
+            "scale": {
+                "x": 1.9389950037002564,
+                "y": 0.7828674912452698,
+                "z": 0.20552830398082734
+            },
+            "color": {
+                "r": 0.7843137383460999,
+                "g": 0.7843137383460999,
+                "b": 0.7843137383460999,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://grizly.club/uploads/posts/2023-01/thumbs/1673208094_grizly-club-p-besshovnaya-tekstura-fetra-5.jpg",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 13.904430389404297,
+                "y": 15.410762786865235,
+                "z": 85.95477294921875
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 64.17735290527344
+            },
+            "scale": {
+                "x": 1.2417725324630738,
+                "y": 0.4145433306694031,
+                "z": 0.20552830398082734
+            },
+            "color": {
+                "r": 0.7843137383460999,
+                "g": 0.7843137383460999,
+                "b": 0.7843137383460999,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://grizly.club/uploads/posts/2023-01/thumbs/1673208094_grizly-club-p-besshovnaya-tekstura-fetra-5.jpg",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 13.168231010437012,
+                "y": 15.410759925842286,
+                "z": 85.95477294921875
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 295.8226318359375
+            },
+            "scale": {
+                "x": 1.2417724132537842,
+                "y": 0.4145437180995941,
+                "z": 0.20552830398082734
+            },
+            "color": {
+                "r": 0.7843137383460999,
+                "g": 0.7843137383460999,
+                "b": 0.7843137383460999,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://grizly.club/uploads/posts/2023-01/thumbs/1673208094_grizly-club-p-besshovnaya-tekstura-fetra-5.jpg",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 12.946410179138184,
+                "y": 16.236713409423829,
+                "z": 85.95477294921875
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 265.4364013671875
+            },
+            "scale": {
+                "x": 0.7619845867156982,
+                "y": 0.414543479681015,
+                "z": 0.20552830398082734
+            },
+            "color": {
+                "r": 0.7843137383460999,
+                "g": 0.7843137383460999,
+                "b": 0.7843137383460999,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://grizly.club/uploads/posts/2023-01/thumbs/1673208094_grizly-club-p-besshovnaya-tekstura-fetra-5.jpg",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 14.125978469848633,
+                "y": 16.236709594726564,
+                "z": 85.95477294921875
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 94.56360626220703
+            },
+            "scale": {
+                "x": 0.7619845867156982,
+                "y": 0.414543479681015,
+                "z": 0.20552830398082734
+            },
+            "color": {
+                "r": 0.7843137383460999,
+                "g": 0.7843137383460999,
+                "b": 0.7843137383460999,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://grizly.club/uploads/posts/2023-01/thumbs/1673208094_grizly-club-p-besshovnaya-tekstura-fetra-5.jpg",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 13.551560401916504,
+                "y": 13.454861640930176,
+                "z": 85.95477294921875
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 64.17735290527344
+            },
+            "scale": {
+                "x": 1.2417725324630738,
+                "y": 0.4145433306694031,
+                "z": 0.20552830398082734
+            },
+            "color": {
+                "r": 0.7843137383460999,
+                "g": 0.7843137383460999,
+                "b": 0.7843137383460999,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://grizly.club/uploads/posts/2023-01/thumbs/1673208094_grizly-club-p-besshovnaya-tekstura-fetra-5.jpg",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 14.277816772460938,
+                "y": 13.469969749450684,
+                "z": 85.95477294921875
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 295.8226318359375
+            },
+            "scale": {
+                "x": 1.2417725324630738,
+                "y": 0.4145437479019165,
+                "z": 0.20552830398082734
+            },
+            "color": {
+                "r": 0.7843137383460999,
+                "g": 0.7843137383460999,
+                "b": 0.7843137383460999,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://grizly.club/uploads/posts/2023-01/thumbs/1673208094_grizly-club-p-besshovnaya-tekstura-fetra-5.jpg",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 13.337761878967286,
+                "y": 12.638400077819825,
+                "z": 85.95477294921875
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 94.56360626220703
+            },
+            "scale": {
+                "x": 0.7619845867156982,
+                "y": 0.414543479681015,
+                "z": 0.20552830398082734
+            },
+            "color": {
+                "r": 0.7843137383460999,
+                "g": 0.7843137383460999,
+                "b": 0.7843137383460999,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://grizly.club/uploads/posts/2023-01/thumbs/1673208094_grizly-club-p-besshovnaya-tekstura-fetra-5.jpg",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 14.501530647277832,
+                "y": 12.646309852600098,
+                "z": 85.95477294921875
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 265.4364013671875
+            },
+            "scale": {
+                "x": 0.7619845867156982,
+                "y": 0.414543479681015,
+                "z": 0.20552830398082734
+            },
+            "color": {
+                "r": 0.7843137383460999,
+                "g": 0.7843137383460999,
+                "b": 0.7843137383460999,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://grizly.club/uploads/posts/2023-01/thumbs/1673208094_grizly-club-p-besshovnaya-tekstura-fetra-5.jpg",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 2.9849092960357668,
+                "y": 14.004400253295899,
+                "z": 83.95735168457031
+            },
+            "rotation": {
+                "x": 19.30838966369629,
+                "y": 27.79314422607422,
+                "z": 353.9993591308594
+            },
+            "scale": {
+                "x": 1.8829667568206788,
+                "y": 2.0682713985443117,
+                "z": 1.0
+            },
+            "color": {
+                "r": 0.0,
+                "g": 1.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://grizly.club/uploads/posts/2023-01/1673251233_grizly-club-p-besshovnaya-tekstura-riflenogo-metalla-1.jpg",
+            "textureTile": "3",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 2.987779140472412,
+                "y": 14.008040428161621,
+                "z": 83.95657348632813
+            },
+            "rotation": {
+                "x": 19.30838966369629,
+                "y": 27.79314422607422,
+                "z": 353.9993591308594
+            },
+            "scale": {
+                "x": 1.4775639772415162,
+                "y": 1.6166774034500123,
+                "z": 1.0
+            },
+            "color": {
+                "r": 0.3921565115451813,
+                "g": 0.3921565115451813,
+                "b": 0.3921565115451813,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://grizly.club/uploads/posts/2023-01/1673246700_grizly-club-p-besshovnaya-tekstura-stekla-dlya-fotoshopa-3.jpg",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/Cylinder",
+            "position": {
+                "x": 1.4492789506912232,
+                "y": 13.623490333557129,
+                "z": 86.19705963134766
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 331.9595947265625,
+                "z": 71.00684356689453
+            },
+            "scale": {
+                "x": 2.274458885192871,
+                "y": 1.0,
+                "z": 2.2764811515808107
+            },
+            "color": {
+                "r": 0.0,
+                "g": 1.3921568393707276,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://grizly.club/uploads/posts/2023-01/1673251233_grizly-club-p-besshovnaya-tekstura-riflenogo-metalla-1.jpg",
+            "textureTile": "5",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/Cylinder",
+            "position": {
+                "x": 1.378607988357544,
+                "y": 13.640331268310547,
+                "z": 86.17539978027344
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 331.9595947265625,
+                "z": 71.00684356689453
+            },
+            "scale": {
+                "x": 1.810142993927002,
+                "y": 1.0,
+                "z": 1.835150957107544
+            },
+            "color": {
+                "r": 0.3921565115451813,
+                "g": 0.3921565115451813,
+                "b": 0.3921565115451813,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://grizly.club/uploads/posts/2023-01/1673246700_grizly-club-p-besshovnaya-tekstura-stekla-dlya-fotoshopa-3.jpg",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/Cylinder",
+            "position": {
+                "x": 0.08463197946548462,
+                "y": 11.193949699401856,
+                "z": 88.2841796875
+            },
+            "rotation": {
+                "x": 353.33233642578127,
+                "y": 84.24178314208985,
+                "z": 90.0
+            },
+            "scale": {
+                "x": 3.4155385494232179,
+                "y": 1.4342281818389893,
+                "z": 1.0
+            },
+            "color": {
+                "r": 0.03921568766236305,
+                "g": 0.03921568766236305,
+                "b": 0.25490158796310427,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -1.3803540468215943,
+                "y": 9.309575080871582,
+                "z": 88.1439437866211
+            },
+            "rotation": {
+                "x": -1.8676298907394085e-7,
+                "y": 356.13494873046877,
+                "z": 11.37550163269043
+            },
+            "scale": {
+                "x": 3.789564847946167,
+                "y": 0.2033320516347885,
+                "z": 2.9736578464508058
+            },
+            "color": {
+                "r": 0.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://grizly.club/uploads/posts/2023-01/thumbs/1673208094_grizly-club-p-besshovnaya-tekstura-fetra-5.jpg",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 5.0,
+                "y": 19.088960647583009,
+                "z": 89.02749633789063
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 35.23379135131836
+            },
+            "scale": {
+                "x": 2.2419629096984865,
+                "y": 0.09700393676757813,
+                "z": 2.4203948974609377
+            },
+            "color": {
+                "r": 0.3921565115451813,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://grizly.club/uploads/posts/2023-01/1673251233_grizly-club-p-besshovnaya-tekstura-riflenogo-metalla-1.jpg",
+            "textureTile": "4",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/Cylinder",
+            "position": {
+                "x": 5.0,
+                "y": 19.76848602294922,
+                "z": 89.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 0.3921565115451813,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://grizly.club/uploads/posts/2023-01/1673251233_grizly-club-p-besshovnaya-tekstura-riflenogo-metalla-1.jpg",
+            "textureTile": "4",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/Cylinder",
+            "position": {
+                "x": 5.0,
+                "y": 20.76462173461914,
+                "z": 89.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.8586978912353516,
+                "y": -0.00930023193359375,
+                "z": 0.8914718627929688
+            },
+            "color": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://grizly.club/uploads/posts/2023-01/1673251233_grizly-club-p-besshovnaya-tekstura-riflenogo-metalla-1.jpg",
+            "textureTile": "4",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 5.432253837585449,
+                "y": 20.860219955444337,
+                "z": 89.15775299072266
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 349.7336120605469,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.036351680755615237,
+                "y": 0.3567695915699005,
+                "z": 0.1022491306066513
+            },
+            "color": {
+                "r": 0.3921565115451813,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://grizly.club/uploads/posts/2023-01/1673251233_grizly-club-p-besshovnaya-tekstura-riflenogo-metalla-1.jpg",
+            "textureTile": "4",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 5.412342071533203,
+                "y": 20.860219955444337,
+                "z": 88.78890991210938
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 24.78322982788086,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.036351680755615237,
+                "y": 0.3567695915699005,
+                "z": 0.1022491380572319
+            },
+            "color": {
+                "r": 0.3921565115451813,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://grizly.club/uploads/posts/2023-01/1673251233_grizly-club-p-besshovnaya-tekstura-riflenogo-metalla-1.jpg",
+            "textureTile": "4",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "Конус из крутого мода эпиксуса Больше Фигур",
+            "position": {
+                "x": 5.276803016662598,
+                "y": 21.411880493164064,
+                "z": 89.0
+            },
+            "rotation": {
+                "x": 300.87890625,
+                "y": 101.83491516113281,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 49.99995803833008,
+                "y": 50.0,
+                "z": 30.0
+            },
+            "color": {
+                "r": 0.3921565115451813,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": true,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://grizly.club/uploads/posts/2023-01/1673251233_grizly-club-p-besshovnaya-tekstura-riflenogo-metalla-1.jpg",
+            "textureTile": "7",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 1.9073327779769898,
+                "y": 14.392510414123536,
+                "z": 94.52850341796875
+            },
+            "rotation": {
+                "x": 20.725120544433595,
+                "y": 40.856014251708987,
+                "z": 39.26530838012695
+            },
+            "scale": {
+                "x": 0.8330831527709961,
+                "y": 3.5175704956054689,
+                "z": 0.4965137243270874
+            },
+            "color": {
+                "r": 0.9411764740943909,
+                "g": 0.45490193367004397,
+                "b": 0.1529408097267151,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://grizly.club/uploads/posts/2023-01/1673147179_grizly-club-p-besshovnaya-tekstura-dereva-dlya-3d-maks-1.jpg",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/Cylinder",
+            "position": {
+                "x": 1.2685840129852296,
+                "y": 16.336610794067384,
+                "z": 96.0
+            },
+            "rotation": {
+                "x": 310.14849853515627,
+                "y": 113.52539825439453,
+                "z": 297.3564147949219
+            },
+            "scale": {
+                "x": 2.3387184143066408,
+                "y": 0.32303622364997866,
+                "z": 2.252807378768921
+            },
+            "color": {
+                "r": 0.9411764740943909,
+                "g": 0.45490193367004397,
+                "b": 0.1529407799243927,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://grizly.club/uploads/posts/2023-01/1673147179_grizly-club-p-besshovnaya-tekstura-dereva-dlya-3d-maks-1.jpg",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/Cylinder",
+            "position": {
+                "x": 1.2685840129852296,
+                "y": 16.336610794067384,
+                "z": 96.0
+            },
+            "rotation": {
+                "x": 310.14849853515627,
+                "y": 113.52539825439453,
+                "z": 297.3564147949219
+            },
+            "scale": {
+                "x": 0.8602328300476074,
+                "y": 0.4406318962574005,
+                "z": 0.7519291639328003
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://grizly.club/uploads/posts/2023-01/thumbs/1673208094_grizly-club-p-besshovnaya-tekstura-fetra-5.jpg",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/Cylinder",
+            "position": {
+                "x": -0.05047142878174782,
+                "y": 9.580053329467774,
+                "z": 97.1235580444336
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 90.0
+            },
+            "scale": {
+                "x": 2.338716983795166,
+                "y": 0.32303622364997866,
+                "z": 2.252807378768921
+            },
+            "color": {
+                "r": 0.9411764740943909,
+                "g": 0.45490193367004397,
+                "b": 0.1529407799243927,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://grizly.club/uploads/posts/2023-01/1673147179_grizly-club-p-besshovnaya-tekstura-dereva-dlya-3d-maks-1.jpg",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/Cylinder",
+            "position": {
+                "x": -0.05047142878174782,
+                "y": 9.580053329467774,
+                "z": 97.09029388427735
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 90.0
+            },
+            "scale": {
+                "x": 0.8602328300476074,
+                "y": 0.4406318962574005,
+                "z": 0.7519291639328003
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://grizly.club/uploads/posts/2023-01/thumbs/1673208094_grizly-club-p-besshovnaya-tekstura-fetra-5.jpg",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -0.443794846534729,
+                "y": 8.287653923034668,
+                "z": 97.14350891113281
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 90.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 0.4555984139442444,
+                "z": 0.2865906059741974
+            },
+            "color": {
+                "r": 0.9411764740943909,
+                "g": 0.45490193367004397,
+                "b": 0.1529407501220703,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://grizly.club/uploads/posts/2023-01/1673147179_grizly-club-p-besshovnaya-tekstura-dereva-dlya-3d-maks-1.jpg",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -0.5921374559402466,
+                "y": 7.396595001220703,
+                "z": 97.14350891113281
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 70.63761901855469
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 0.4555984139442444,
+                "z": 0.2865906059741974
+            },
+            "color": {
+                "r": 0.9411764740943909,
+                "g": 0.45490193367004397,
+                "b": 0.1529407501220703,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://grizly.club/uploads/posts/2023-01/1673147179_grizly-club-p-besshovnaya-tekstura-dereva-dlya-3d-maks-1.jpg",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -0.48114192485809328,
+                "y": 6.748295783996582,
+                "z": 97.14350891113281
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 129.44955444335938
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 0.4555984139442444,
+                "z": 0.2865906059741974
+            },
+            "color": {
+                "r": 0.9411764740943909,
+                "g": 0.45490193367004397,
+                "b": 0.1529407501220703,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://grizly.club/uploads/posts/2023-01/1673147179_grizly-club-p-besshovnaya-tekstura-dereva-dlya-3d-maks-1.jpg",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 0.12052640318870545,
+                "y": 6.518154621124268,
+                "z": 97.14350891113281
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 187.47959899902345
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 0.4555984139442444,
+                "z": 0.2865906059741974
+            },
+            "color": {
+                "r": 0.9411764740943909,
+                "g": 0.45490193367004397,
+                "b": 0.1529407501220703,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://grizly.club/uploads/posts/2023-01/1673147179_grizly-club-p-besshovnaya-tekstura-dereva-dlya-3d-maks-1.jpg",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 0.6890594959259033,
+                "y": 6.904348850250244,
+                "z": 97.14350891113281
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 240.08445739746095
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 0.4555985629558563,
+                "z": 0.2865906059741974
+            },
+            "color": {
+                "r": 0.9411764740943909,
+                "g": 0.45490193367004397,
+                "b": 0.1529407501220703,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://grizly.club/uploads/posts/2023-01/1673147179_grizly-club-p-besshovnaya-tekstura-dereva-dlya-3d-maks-1.jpg",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/Cylinder",
+            "position": {
+                "x": 0.3161987066268921,
+                "y": 13.353219985961914,
+                "z": 96.80843353271485
+            },
+            "rotation": {
+                "x": 354.19439697265627,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.0448731929063797,
+                "y": 2.969708204269409,
+                "z": 0.05242916941642761
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxiWjqETGr50eEgWR84Q8P7u3Ywj6xJ6578xiOLS8zcE-dAdd-0YQfQbEQrlCxrerfCoU&usqp=CAU",
+            "textureTile": "3",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/Cylinder",
+            "position": {
+                "x": 9.117481231689454,
+                "y": 13.159290313720704,
+                "z": 84.04042053222656
+            },
+            "rotation": {
+                "x": 347.3235168457031,
+                "y": 245.49623107910157,
+                "z": 71.0068588256836
+            },
+            "scale": {
+                "x": 2.27445912361145,
+                "y": 1.0,
+                "z": 2.2764811515808107
+            },
+            "color": {
+                "r": 0.9019607901573181,
+                "g": 1.058823585510254,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://grizly.club/uploads/posts/2023-01/1673251233_grizly-club-p-besshovnaya-tekstura-riflenogo-metalla-1.jpg",
+            "textureTile": "5",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/Cylinder",
+            "position": {
+                "x": 9.156914710998536,
+                "y": 13.153169631958008,
+                "z": 83.99042510986328
+            },
+            "rotation": {
+                "x": 347.323486328125,
+                "y": 245.49620056152345,
+                "z": 71.0068588256836
+            },
+            "scale": {
+                "x": 1.810142993927002,
+                "y": 1.0,
+                "z": 1.835151195526123
+            },
+            "color": {
+                "r": 0.3921565115451813,
+                "g": 0.3921565115451813,
+                "b": 0.3921565115451813,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://grizly.club/uploads/posts/2023-01/1673246700_grizly-club-p-besshovnaya-tekstura-stekla-dlya-fotoshopa-3.jpg",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 9.60057544708252,
+                "y": 13.466870307922364,
+                "z": 83.0583267211914
+            },
+            "rotation": {
+                "x": 17.211376190185548,
+                "y": 336.6593017578125,
+                "z": 0.000002681394789760816
+            },
+            "scale": {
+                "x": 0.23697568476200105,
+                "y": 1.8323699235916138,
+                "z": 0.0551605224609375
+            },
+            "color": {
+                "r": 0.9019607901573181,
+                "g": 1.058823585510254,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://grizly.club/uploads/posts/2023-01/1673251233_grizly-club-p-besshovnaya-tekstura-riflenogo-metalla-1.jpg",
+            "textureTile": "2",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 9.658099174499512,
+                "y": 13.466870307922364,
+                "z": 83.13381958007813
+            },
+            "rotation": {
+                "x": 18.965801239013673,
+                "y": 330.8434143066406,
+                "z": 87.65827941894531
+            },
+            "scale": {
+                "x": 0.23697572946548463,
+                "y": 1.832368016242981,
+                "z": 0.0551605224609375
+            },
+            "color": {
+                "r": 0.9019607901573181,
+                "g": 1.058823585510254,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://grizly.club/uploads/posts/2023-01/1673251233_grizly-club-p-besshovnaya-tekstura-riflenogo-metalla-1.jpg",
+            "textureTile": "2",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 8.03167724609375,
+                "y": 10.842279434204102,
+                "z": 94.77973175048828
+            },
+            "rotation": {
+                "x": 7.377183437347412,
+                "y": 16.857942581176759,
+                "z": 0.0000013989622402732494
+            },
+            "scale": {
+                "x": 2.4604415893554689,
+                "y": 2.30295991897583,
+                "z": 0.32251739501953127
+            },
+            "color": {
+                "r": 0.7843137383460999,
+                "g": 0.7843137383460999,
+                "b": 0.7843137383460999,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://grizly.club/uploads/posts/2023-01/thumbs/1673208094_grizly-club-p-besshovnaya-tekstura-fetra-5.jpg",
+            "textureTile": "5",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/Cylinder",
+            "position": {
+                "x": 7.8139448165893559,
+                "y": 10.981710433959961,
+                "z": 94.0001220703125
+            },
+            "rotation": {
+                "x": 82.4227523803711,
+                "y": 196.8579864501953,
+                "z": 180.0
+            },
+            "scale": {
+                "x": 2.1125221252441408,
+                "y": 1.0,
+                "z": 2.1156539916992189
+            },
+            "color": {
+                "r": 0.1960780918598175,
+                "g": 0.1960780918598175,
+                "b": 0.1960780918598175,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 8.107168197631836,
+                "y": 10.882769584655762,
+                "z": 94.99759674072266
+            },
+            "rotation": {
+                "x": 8.800463676452637,
+                "y": 18.0053653717041,
+                "z": 315.4772644042969
+            },
+            "scale": {
+                "x": 0.5625863075256348,
+                "y": 1.9646270275115967,
+                "z": 0.06244660168886185
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://grizly.club/uploads/posts/2023-01/thumbs/1673208094_grizly-club-p-besshovnaya-tekstura-fetra-5.jpg",
+            "textureTile": "5",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 8.107168197631836,
+                "y": 10.882769584655762,
+                "z": 94.99759674072266
+            },
+            "rotation": {
+                "x": 8.800463676452637,
+                "y": 18.005369186401368,
+                "z": 41.45981216430664
+            },
+            "scale": {
+                "x": 0.5625863075256348,
+                "y": 1.964626431465149,
+                "z": 0.06244662031531334
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://grizly.club/uploads/posts/2023-01/thumbs/1673208094_grizly-club-p-besshovnaya-tekstura-fetra-5.jpg",
+            "textureTile": "5",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/Cylinder",
+            "position": {
+                "x": 6.0,
+                "y": 12.446718215942383,
+                "z": 94.97763061523438
+            },
+            "rotation": {
+                "x": 78.45700073242188,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://grizly.club/uploads/posts/2023-01/1673251233_grizly-club-p-besshovnaya-tekstura-riflenogo-metalla-1.jpg",
+            "textureTile": "4",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/Cylinder",
+            "position": {
+                "x": 6.0,
+                "y": 13.952939987182618,
+                "z": 96.29784393310547
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://grizly.club/uploads/posts/2023-01/1673251233_grizly-club-p-besshovnaya-tekstura-riflenogo-metalla-1.jpg",
+            "textureTile": "4",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/Sphere",
+            "position": {
+                "x": 6.004276275634766,
+                "y": 12.672599792480469,
+                "z": 96.23663330078125
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.2284489870071412,
+                "y": 1.290168046951294,
+                "z": 1.4351500272750855
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://grizly.club/uploads/posts/2023-01/1673251233_grizly-club-p-besshovnaya-tekstura-riflenogo-metalla-1.jpg",
+            "textureTile": "5",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/Cylinder",
+            "position": {
+                "x": 6.0,
+                "y": 14.942953109741211,
+                "z": 96.29783630371094
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.8747134208679199,
+                "y": 0.011411669664084912,
+                "z": 0.8127288818359375
+            },
+            "color": {
+                "r": 0.19607806205749513,
+                "g": 0.19607806205749513,
+                "b": 0.19607806205749513,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://grizly.club/uploads/posts/2023-01/1673251233_grizly-club-p-besshovnaya-tekstura-riflenogo-metalla-1.jpg",
+            "textureTile": "4",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/Cylinder",
+            "position": {
+                "x": 3.239250898361206,
+                "y": 15.649450302124024,
+                "z": 93.83081817626953
+            },
+            "rotation": {
+                "x": 302.6661682128906,
+                "y": 139.89483642578126,
+                "z": 3.4604294300079347
+            },
+            "scale": {
+                "x": 0.044873204082250598,
+                "y": 2.969705820083618,
+                "z": 0.05242915451526642
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxiWjqETGr50eEgWR84Q8P7u3Ywj6xJ6578xiOLS8zcE-dAdd-0YQfQbEQrlCxrerfCoU&usqp=CAU",
+            "textureTile": "3",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "Бублик из крутого мода эпиксуса Больше Фигур",
+            "position": {
+                "x": 9.503426551818848,
+                "y": 10.712980270385743,
+                "z": 83.35059356689453
+            },
+            "rotation": {
+                "x": 354.5613708496094,
+                "y": 329.1239013671875,
+                "z": -1.0720431475874648e-7
+            },
+            "scale": {
+                "x": 83.25848388671875,
+                "y": 85.1032943725586,
+                "z": 99.99996948242188
+            },
+            "color": {
+                "r": 0.0,
+                "g": 1.1764706373214722,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": true,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://celes.club/uploads/posts/2022-10/43506/1666985671_3-celes-club-p-rezinovoe-pokritie-tekstura-besshovnaya-vk-3.jpg",
+            "textureTile": "5",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "Бублик из крутого мода эпиксуса Больше Фигур",
+            "position": {
+                "x": 9.598852157592774,
+                "y": 10.621418952941895,
+                "z": 83.19371032714844
+            },
+            "rotation": {
+                "x": 352.02520751953127,
+                "y": 329.1239013671875,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 74.60652160644531,
+                "y": 74.89617919921875,
+                "z": 82.18885040283203
+            },
+            "color": {
+                "r": 0.0,
+                "g": 1.1764706373214722,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": true,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://celes.club/uploads/posts/2022-10/43506/1666985671_3-celes-club-p-rezinovoe-pokritie-tekstura-besshovnaya-vk-3.jpg",
+            "textureTile": "5",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "Бублик из крутого мода эпиксуса Больше Фигур",
+            "position": {
+                "x": 9.701044082641602,
+                "y": 10.56074047088623,
+                "z": 82.95398712158203
+            },
+            "rotation": {
+                "x": 352.02520751953127,
+                "y": 329.1239013671875,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 56.4246711730957,
+                "y": 56.20917510986328,
+                "z": 82.18885040283203
+            },
+            "color": {
+                "r": 0.0,
+                "g": 1.1764706373214722,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": true,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://celes.club/uploads/posts/2022-10/43506/1666985671_3-celes-club-p-rezinovoe-pokritie-tekstura-besshovnaya-vk-3.jpg",
+            "textureTile": "5",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "Бублик из крутого мода эпиксуса Больше Фигур",
+            "position": {
+                "x": 9.751811981201172,
+                "y": 10.56074047088623,
+                "z": 82.75021362304688
+            },
+            "rotation": {
+                "x": 352.02520751953127,
+                "y": 329.1239013671875,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 41.29045486450195,
+                "y": 43.93231201171875,
+                "z": 82.18885040283203
+            },
+            "color": {
+                "r": 0.0,
+                "g": 1.1764706373214722,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": true,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://celes.club/uploads/posts/2022-10/43506/1666985671_3-celes-club-p-rezinovoe-pokritie-tekstura-besshovnaya-vk-3.jpg",
+            "textureTile": "5",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 9.632442474365235,
+                "y": 10.654489517211914,
+                "z": 83.23457336425781
+            },
+            "rotation": {
+                "x": 350.336669921875,
+                "y": 330.38287353515627,
+                "z": 0.000002165155365219107
+            },
+            "scale": {
+                "x": 1.1980056762695313,
+                "y": 1.1903934478759766,
+                "z": 0.04076384752988815
+            },
+            "color": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/Cylinder",
+            "position": {
+                "x": 7.045980930328369,
+                "y": 0.9387298226356506,
+                "z": 79.63629150390625
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 3.6290884017944338,
+                "y": 0.12629270553588868,
+                "z": 3.66168212890625
+            },
+            "color": {
+                "r": 1.756862759590149,
+                "g": 0.34117618203163149,
+                "b": 1.960784673690796,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://txtrs.ru/textures/plank/plank-6.jpg",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": [\n        {\n            \"pos\": \"7,045981.0,9387298.79,63629\",\n            \"rotate\": \"0.0.0\",\n            \"scale\": \"3,629088.0,1262927.3,661682\",\n            \"speed\": \"5\"\n        },\n        {\n            \"pos\": \"7,045981.9,19068.79,63629\",\n            \"rotate\": \"0.0.0\",\n            \"scale\": \"3,629088.0,1262927.3,661682\",\n            \"speed\": \"5\"\n        },\n        {\n            \"pos\": \"7,045981.9,19068.79,63629\",\n            \"rotate\": \"0.0.0\",\n            \"scale\": \"3,629088.0,1262927.3,661682\",\n            \"speed\": \"5\"\n        }\n    ]\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "lift",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/Cylinder",
+            "position": {
+                "x": 9.767337799072266,
+                "y": 6.967676639556885,
+                "z": 82.58074188232422
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.03293133154511452,
+                "y": 3.4862194061279299,
+                "z": 0.03293133154511452
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxiWjqETGr50eEgWR84Q8P7u3Ywj6xJ6578xiOLS8zcE-dAdd-0YQfQbEQrlCxrerfCoU&usqp=CAU",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/Cylinder",
+            "position": {
+                "x": 9.606502532958985,
+                "y": 10.690951347351075,
+                "z": 82.97371673583985
+            },
+            "rotation": {
+                "x": 59.992637634277347,
+                "y": 337.6385803222656,
+                "z": -0.0000017071669162760373
+            },
+            "scale": {
+                "x": 0.03293133154511452,
+                "y": 0.5021295547485352,
+                "z": 0.032931335270404819
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxiWjqETGr50eEgWR84Q8P7u3Ywj6xJ6578xiOLS8zcE-dAdd-0YQfQbEQrlCxrerfCoU&usqp=CAU",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "Бублик из крутого мода эпиксуса Больше Фигур",
+            "position": {
+                "x": 9.81929874420166,
+                "y": 2.7415120601654054,
+                "z": 82.58721923828125
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 25.80817413330078,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 79.11135864257813,
+                "y": 79.81957244873047,
+                "z": 65.04368591308594
+            },
+            "color": {
+                "r": 0.9372549057006836,
+                "g": 0.9372549057006836,
+                "b": 0.9372549057006836,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": true,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://grizly.club/uploads/posts/2023-01/thumbs/1673208094_grizly-club-p-besshovnaya-tekstura-fetra-5.jpg",
+            "textureTile": "5",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/Cylinder",
+            "position": {
+                "x": 9.836200714111329,
+                "y": 1.9698362350463868,
+                "z": 82.60411071777344
+            },
+            "rotation": {
+                "x": 19.419654846191408,
+                "y": 25.92205047607422,
+                "z": 91.95382690429688
+            },
+            "scale": {
+                "x": 0.6242523193359375,
+                "y": 1.0,
+                "z": 0.6118164658546448
+            },
+            "color": {
+                "r": 1.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://grizly.club/uploads/posts/2023-01/thumbs/1673208094_grizly-club-p-besshovnaya-tekstura-fetra-5.jpg",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/Trigger",
+            "position": {
+                "x": 9.834596633911133,
+                "y": 2.603332281112671,
+                "z": 82.4703369140625
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 24.654476165771486,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.9774975776672364,
+                "y": 1.8837394714355469,
+                "z": 1.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 0.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": true,
+            "isLomatel": false,
+            "texture": "",
+            "textureTile": "1",
+            "type": 1,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "lift",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/Trigger",
+            "position": {
+                "x": 79.95343017578125,
+                "y": 14.898260116577149,
+                "z": 61.3172607421875
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 348.0863952636719,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 31.14397430419922,
+                "z": 102.1441650390625
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://github.com/RasburCompany/Eggode2Textures/blob/main/%D0%94%D0%BE%D0%BC%D0%B8%D0%BA%20%D0%9F%D0%B8%D0%BD%D0%B0/%D1%81%D0%B2%D0%B0%D0%BB%D0%BA%D0%B0.png?raw=true",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/Trigger",
+            "position": {
+                "x": 77.41226196289063,
+                "y": 14.898260116577149,
+                "z": -36.919410705566409
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 14.44561767578125,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 31.14397430419922,
+                "z": 102.14420318603516
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://github.com/RasburCompany/Eggode2Textures/blob/main/%D0%94%D0%BE%D0%BC%D0%B8%D0%BA%20%D0%9F%D0%B8%D0%BD%D0%B0/%D1%81%D0%B2%D0%B0%D0%BB%D0%BA%D0%B0.png?raw=true",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/Cylinder",
+            "position": {
+                "x": 6.0,
+                "y": 18.0,
+                "z": 85.19922637939453
+            },
+            "rotation": {
+                "x": 90.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.230407953262329,
+                "y": 0.04746822267770767,
+                "z": 1.2586747407913209
+            },
+            "color": {
+                "r": 0.6274510622024536,
+                "g": 0.6274510622024536,
+                "b": 0.6274510622024536,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://grizly.club/uploads/posts/2023-01/1673251233_grizly-club-p-besshovnaya-tekstura-riflenogo-metalla-1.jpg",
+            "textureTile": "3",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/Cylinder",
+            "position": {
+                "x": 6.0,
+                "y": 18.0,
+                "z": 85.17803955078125
+            },
+            "rotation": {
+                "x": 90.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.9613673686981201,
+                "y": 0.04746822640299797,
+                "z": 1.0217130184173585
+            },
+            "color": {
+                "r": 0.39215677976608279,
+                "g": 0.39215677976608279,
+                "b": 0.39215677976608279,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://grizly.club/uploads/posts/2023-01/1673246700_grizly-club-p-besshovnaya-tekstura-stekla-dlya-fotoshopa-3.jpg",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 6.0,
+                "y": 18.0,
+                "z": 85.15422821044922
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.13564540445804597,
+                "y": 1.2507779598236085,
+                "z": 0.05081940069794655
+            },
+            "color": {
+                "r": 0.6274510622024536,
+                "g": 0.6274510622024536,
+                "b": 0.6274510622024536,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://grizly.club/uploads/posts/2023-01/1673251233_grizly-club-p-besshovnaya-tekstura-riflenogo-metalla-1.jpg",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 6.0,
+                "y": 18.0,
+                "z": 85.15422821044922
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 90.0
+            },
+            "scale": {
+                "x": 0.13564540445804597,
+                "y": 1.2255046367645264,
+                "z": 0.05081940069794655
+            },
+            "color": {
+                "r": 0.6274510622024536,
+                "g": 0.6274510622024536,
+                "b": 0.6274510622024536,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://grizly.club/uploads/posts/2023-01/1673251233_grizly-club-p-besshovnaya-tekstura-riflenogo-metalla-1.jpg",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/DummyPlayer",
+            "position": {
+                "x": 77.0,
+                "y": 2.0,
+                "z": -46.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 10.0,
+                "g": 10.0,
+                "b": 10.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": true,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/DummyPlayer",
+            "position": {
+                "x": 78.0,
+                "y": 2.0,
+                "z": -42.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 10.0,
+                "g": 10.0,
+                "b": 10.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": true,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/DummyPlayer",
+            "position": {
+                "x": 81.0,
+                "y": 2.0,
+                "z": -39.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 10.0,
+                "g": 10.0,
+                "b": 10.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": true,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/DummyPlayer",
+            "position": {
+                "x": 79.0,
+                "y": 4.0,
+                "z": -41.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 10.0,
+                "g": 10.0,
+                "b": 10.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": true,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/DummyPlayer",
+            "position": {
+                "x": 81.0,
+                "y": 4.0,
+                "z": -44.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 10.0,
+                "g": 10.0,
+                "b": 10.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": true,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/DummyPlayer",
+            "position": {
+                "x": 80.0,
+                "y": 3.0,
+                "z": -45.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 10.0,
+                "g": 10.0,
+                "b": 10.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": true,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/DummyPlayer",
+            "position": {
+                "x": 78.86547088623047,
+                "y": 2.0,
+                "z": -46.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 10.0,
+                "g": 10.0,
+                "b": 10.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": true,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 17.0,
+                "y": 0.767441987991333,
+                "z": 94.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 338.1759338378906,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.194610595703125,
+                "y": 2.4236156940460207,
+                "z": 0.7209548950195313
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://grizly.club/uploads/posts/2023-01/1673147179_grizly-club-p-besshovnaya-tekstura-dereva-dlya-3d-maks-1.jpg",
+            "textureTile": "5",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 17.0,
+                "y": 1.9802019596099854,
+                "z": 93.99967956542969
+            },
+            "rotation": {
+                "x": 45.000003814697269,
+                "y": 338.1759033203125,
+                "z": 0.0000012074183359800373
+            },
+            "scale": {
+                "x": 0.19460859894752503,
+                "y": 0.5125773549079895,
+                "z": 0.49945852160453799
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://grizly.club/uploads/posts/2023-01/1673147179_grizly-club-p-besshovnaya-tekstura-dereva-dlya-3d-maks-1.jpg",
+            "textureTile": "5",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 17.620519638061525,
+                "y": 0.767441987991333,
+                "z": 92.34574127197266
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 338.1759338378906,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.1946106106042862,
+                "y": 2.4236156940460207,
+                "z": 0.7209550142288208
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://grizly.club/uploads/posts/2023-01/1673147179_grizly-club-p-besshovnaya-tekstura-dereva-dlya-3d-maks-1.jpg",
+            "textureTile": "5",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 17.620519638061525,
+                "y": 1.9867579936981202,
+                "z": 92.34574127197266
+            },
+            "rotation": {
+                "x": 45.000003814697269,
+                "y": 338.1759033203125,
+                "z": 0.0000012074183359800373
+            },
+            "scale": {
+                "x": 0.19460859894752503,
+                "y": 0.5125773549079895,
+                "z": 0.49945858120918276
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://grizly.club/uploads/posts/2023-01/1673147179_grizly-club-p-besshovnaya-tekstura-dereva-dlya-3d-maks-1.jpg",
+            "textureTile": "5",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 18.387300491333009,
+                "y": 0.2700986862182617,
+                "z": 90.25665283203125
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 338.1759338378906,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.1946106106042862,
+                "y": 2.4236156940460207,
+                "z": 0.7209550142288208
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://grizly.club/uploads/posts/2023-01/1673147179_grizly-club-p-besshovnaya-tekstura-dereva-dlya-3d-maks-1.jpg",
+            "textureTile": "5",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 18.387300491333009,
+                "y": 1.4826430082321168,
+                "z": 90.25665283203125
+            },
+            "rotation": {
+                "x": 45.000003814697269,
+                "y": 338.1759033203125,
+                "z": 0.0000012074183359800373
+            },
+            "scale": {
+                "x": 0.19460859894752503,
+                "y": 0.5125773549079895,
+                "z": 0.4994586408138275
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://grizly.club/uploads/posts/2023-01/1673147179_grizly-club-p-besshovnaya-tekstura-dereva-dlya-3d-maks-1.jpg",
+            "textureTile": "5",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 18.99134063720703,
+                "y": 0.5325741171836853,
+                "z": 88.9951171875
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 338.1759338378906,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.1946106106042862,
+                "y": 2.4236156940460207,
+                "z": 0.7209550142288208
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://grizly.club/uploads/posts/2023-01/1673147179_grizly-club-p-besshovnaya-tekstura-dereva-dlya-3d-maks-1.jpg",
+            "textureTile": "5",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 18.99134063720703,
+                "y": 1.7461918592453004,
+                "z": 88.99713897705078
+            },
+            "rotation": {
+                "x": 45.000003814697269,
+                "y": 338.1759033203125,
+                "z": 0.0000012074183359800373
+            },
+            "scale": {
+                "x": 0.19460859894752503,
+                "y": 0.5125773549079895,
+                "z": 0.4994586706161499
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://grizly.club/uploads/posts/2023-01/1673147179_grizly-club-p-besshovnaya-tekstura-dereva-dlya-3d-maks-1.jpg",
+            "textureTile": "5",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 17.194040298461915,
+                "y": 1.0,
+                "z": 93.15263366699219
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 339.908203125,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.09363555908203125,
+                "y": 0.48319756984710696,
+                "z": 1.923980712890625
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://grizly.club/uploads/posts/2023-01/1673147179_grizly-club-p-besshovnaya-tekstura-dereva-dlya-3d-maks-1.jpg",
+            "textureTile": "5",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 17.97579002380371,
+                "y": 0.8486629724502564,
+                "z": 91.06484985351563
+            },
+            "rotation": {
+                "x": 350.1452941894531,
+                "y": 339.908203125,
+                "z": -1.083199734353002e-7
+            },
+            "scale": {
+                "x": 0.09363555908203125,
+                "y": 0.48319754004478457,
+                "z": 1.923980951309204
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://grizly.club/uploads/posts/2023-01/1673147179_grizly-club-p-besshovnaya-tekstura-dereva-dlya-3d-maks-1.jpg",
+            "textureTile": "5",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 17.761390686035158,
+                "y": -0.3131231963634491,
+                "z": 89.28671264648438
+            },
+            "rotation": {
+                "x": 358.9320983886719,
+                "y": 339.908203125,
+                "z": 94.1517333984375
+            },
+            "scale": {
+                "x": 0.085357666015625,
+                "y": 0.48319756984710696,
+                "z": 1.1095428466796876
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": true,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://grizly.club/uploads/posts/2023-01/1673147179_grizly-club-p-besshovnaya-tekstura-dereva-dlya-3d-maks-1.jpg",
+            "textureTile": "5",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/Cylinder",
+            "position": {
+                "x": 7.007974147796631,
+                "y": -3.8759570121765138,
+                "z": 79.56873321533203
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.5672750473022461,
+                "y": 4.797707557678223,
+                "z": 0.16252899169921876
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://grizly.club/uploads/posts/2023-01/thumbs/1673208094_grizly-club-p-besshovnaya-tekstura-fetra-5.jpg",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": [\n        {\n            \"pos\": \"7,007974.-3,875957.79,56873\",\n            \"rotate\": \"0.0.0\",\n            \"scale\": \"0,567275.4,797708.0,162529\",\n            \"speed\": \"5\"\n        },\n        {\n            \"pos\": \"7,007974.4,384861.79,56873\",\n            \"rotate\": \"0.0.0\",\n            \"scale\": \"0,567275.4,797708.0,162529\",\n            \"speed\": \"5\"\n        },\n        {\n            \"pos\": \"7,007974.4,384861.79,56873\",\n            \"rotate\": \"0.0.0\",\n            \"scale\": \"0,567275.4,797708.0,162529\",\n            \"speed\": \"5\"\n        }\n    ]\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "lift",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/Cylinder",
+            "position": {
+                "x": 8.0,
+                "y": 20.4182071685791,
+                "z": 85.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.1355782002210617,
+                "y": 2.176267623901367,
+                "z": 0.1469116061925888
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://grizly.club/uploads/posts/2023-01/thumbs/1673208094_grizly-club-p-besshovnaya-tekstura-fetra-5.jpg",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/Cylinder",
+            "position": {
+                "x": 8.0,
+                "y": 22.614221572875978,
+                "z": 85.0
+            },
+            "rotation": {
+                "x": 79.1670913696289,
+                "y": 173.3828582763672,
+                "z": 180.0
+            },
+            "scale": {
+                "x": 0.1355782002210617,
+                "y": 2.176267623901367,
+                "z": 0.1469116061925888
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://grizly.club/uploads/posts/2023-01/thumbs/1673208094_grizly-club-p-besshovnaya-tekstura-fetra-5.jpg",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/Cylinder",
+            "position": {
+                "x": 7.875936985015869,
+                "y": 22.44152069091797,
+                "z": 85.80850982666016
+            },
+            "rotation": {
+                "x": 87.47105407714844,
+                "y": 59.77688217163086,
+                "z": 314.31695556640627
+            },
+            "scale": {
+                "x": 0.1355782151222229,
+                "y": 1.2312333583831788,
+                "z": 0.1469116061925888
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://grizly.club/uploads/posts/2023-01/thumbs/1673208094_grizly-club-p-besshovnaya-tekstura-fetra-5.jpg",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/Cylinder",
+            "position": {
+                "x": 7.875936985015869,
+                "y": 22.322559356689454,
+                "z": 86.35698699951172
+            },
+            "rotation": {
+                "x": 87.47113037109375,
+                "y": 59.776981353759769,
+                "z": 314.3170471191406
+            },
+            "scale": {
+                "x": 0.1355782151222229,
+                "y": 0.792312502861023,
+                "z": 0.14691162109375
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://grizly.club/uploads/posts/2023-01/thumbs/1673208094_grizly-club-p-besshovnaya-tekstura-fetra-5.jpg",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/Cylinder",
+            "position": {
+                "x": 7.792616367340088,
+                "y": 22.243419647216798,
+                "z": 86.83648681640625
+            },
+            "rotation": {
+                "x": 87.4712142944336,
+                "y": 59.77703094482422,
+                "z": 314.3171081542969
+            },
+            "scale": {
+                "x": 0.1355782151222229,
+                "y": 0.4517039656639099,
+                "z": 0.14691162109375
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://grizly.club/uploads/posts/2023-01/thumbs/1673208094_grizly-club-p-besshovnaya-tekstura-fetra-5.jpg",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/Cylinder",
+            "position": {
+                "x": 8.163970947265625,
+                "y": 22.89360237121582,
+                "z": 83.65823364257813
+            },
+            "rotation": {
+                "x": 87.47136688232422,
+                "y": 59.77706527709961,
+                "z": 314.317138671875
+            },
+            "scale": {
+                "x": 0.1355782151222229,
+                "y": 0.4517039954662323,
+                "z": 0.14691162109375
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://grizly.club/uploads/posts/2023-01/thumbs/1673208094_grizly-club-p-besshovnaya-tekstura-fetra-5.jpg",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/Cylinder",
+            "position": {
+                "x": 8.163970947265625,
+                "y": 22.959739685058595,
+                "z": 83.19767761230469
+            },
+            "rotation": {
+                "x": 87.4712905883789,
+                "y": 59.77703094482422,
+                "z": 314.317138671875
+            },
+            "scale": {
+                "x": 0.1355782151222229,
+                "y": 0.4517039656639099,
+                "z": 0.1469116359949112
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://grizly.club/uploads/posts/2023-01/thumbs/1673208094_grizly-club-p-besshovnaya-tekstura-fetra-5.jpg",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "Бублик из крутого мода эпиксуса Больше Фигур",
+            "position": {
+                "x": 8.280562400817871,
+                "y": 22.6630859375,
+                "z": 84.0
+            },
+            "rotation": {
+                "x": 14.60413646697998,
+                "y": 5.938147068023682,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 70.16024780273438,
+                "y": 80.95683288574219,
+                "z": 64.23187255859375
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": true,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://grizly.club/uploads/posts/2023-01/thumbs/1673208094_grizly-club-p-besshovnaya-tekstura-fetra-5.jpg",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "Бублик из крутого мода эпиксуса Больше Фигур",
+            "position": {
+                "x": 8.280562400817871,
+                "y": 22.459331512451173,
+                "z": 84.65431213378906
+            },
+            "rotation": {
+                "x": 14.60413646697998,
+                "y": 5.938146114349365,
+                "z": -1.1028489410591647e-7
+            },
+            "scale": {
+                "x": 49.89886474609375,
+                "y": 61.06108093261719,
+                "z": 64.23187255859375
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": true,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://grizly.club/uploads/posts/2023-01/thumbs/1673208094_grizly-club-p-besshovnaya-tekstura-fetra-5.jpg",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        }
+    ],
+    "npc": []
+}

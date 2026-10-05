@@ -1,0 +1,15 @@
+{
+    "mapname": "Моя карта",
+    "author": "Rasbur",
+    "icon": "",
+    "skybox": "0",
+    "diecord": "​",
+    "uron": true,
+    "canSpawnObj": true,
+    "canDellObj": true,
+    "survival": false,
+    "modsDependence": [],
+    "textures": [],
+    "objects": [],
+    "npc": []
+}

@@ -1,0 +1,64 @@
+{
+    "mapname": "ноды бреда",
+    "author": "Rasbur",
+    "icon": "",
+    "skybox": "0",
+    "diecord": "​​",
+    "uron": true,
+    "canSpawnObj": true,
+    "canDellObj": true,
+    "survival": false,
+    "modsDependence": [],
+    "textures": [],
+    "objects": [
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -0.07386291027069092,
+                "y": 1.54751455783844,
+                "z": 4.266665458679199
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 2.258579730987549,
+                "y": 2.266535758972168,
+                "z": 1.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": true,
+            "isLomatel": false,
+            "texture": "https://web-rasbur.42web.io/avatars/f77f241aa037d7280cdd223c7e070fc3.png",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0,
+            "node": "{\n    \"nodes\": [\n        {\n            \"id\": \"344b6ad9-e1c6-4640-9d72-bc01ae6f71f0\",\n            \"values\": [],\n            \"posX\": -390.36968994140627,\n            \"posY\": 172.96827697753907,\n            \"path\": \"Nodes/OnTriggerEnterNode\",\n            \"socketsFromOutputIds\": [],\n            \"socketsFromInputIds\": [],\n            \"outputSocketIds\": [\n                \"526e5d59-d3c5-4c39-8639-db44439986e7\"\n            ],\n            \"inputSocketIds\": []\n        },\n        {\n            \"id\": \"7e08ab25-b159-4d80-aa41-e17f1f624bd3\",\n            \"values\": [],\n            \"posX\": -116.36968994140625,\n            \"posY\": 138.96829223632813,\n            \"path\": \"Nodes/DamageNode\",\n            \"socketsFromOutputIds\": [],\n            \"socketsFromInputIds\": [],\n            \"outputSocketIds\": [\n                \"7317a977-5423-4132-b6dd-79ea8725fb2b\"\n            ],\n            \"inputSocketIds\": [\n                \"e3cc6491-568a-498e-a359-a119b1049472\",\n                \"aba55254-3236-4dd7-aa28-0563dd9fdfdc\"\n            ]\n        },\n        {\n            \"id\": \"26ae0814-bcf7-40e7-9d38-442f0734e9e5\",\n            \"values\": [\n                {\n                    \"key\": \"intValueFrom\",\n                    \"value\": \"52\"\n                },\n                {\n                    \"key\": \"intValueTo\",\n                    \"value\": \"1488\"\n                }\n            ],\n            \"posX\": -364.36968994140627,\n            \"posY\": 32.968299865722659,\n            \"path\": \"Nodes/IntRandomNode\",\n            \"socketsFromOutputIds\": [],\n            \"socketsFromInputIds\": [],\n            \"outputSocketIds\": [\n                \"c4ce3279-52b7-4225-b866-5b3f2d023ed3\"\n            ],\n            \"inputSocketIds\": []\n        }\n    ],\n    \"connections\": [\n        {\n            \"id\": \"743fe834-c47e-47cd-a646-6b39cc4530d3\",\n            \"outputSocketId\": \"526e5d59-d3c5-4c39-8639-db44439986e7\",\n            \"inputSocketId\": \"e3cc6491-568a-498e-a359-a119b1049472\"\n        },\n        {\n            \"id\": \"58f6c07f-8db5-4ffa-ab3c-46efc3a3eda4\",\n            \"outputSocketId\": \"c4ce3279-52b7-4225-b866-5b3f2d023ed3\",\n            \"inputSocketId\": \"aba55254-3236-4dd7-aa28-0563dd9fdfdc\"\n        }\n    ]\n}"
+        }
+    ],
+    "npc": []
+}

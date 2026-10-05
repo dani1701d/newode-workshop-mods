@@ -1,0 +1,434 @@
+{
+    "mapname": "AppleOrchard",
+    "author": "MapGenerator",
+    "icon": "",
+    "skybox": "1",
+    "diecord": "0, 0, 0",
+    "uron": false,
+    "canSpawnObj": true,
+    "canDellObj": true,
+    "survival": false,
+    "objects": [
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 0.0,
+                "y": -73.0,
+                "z": 0.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 100000.0,
+                "y": 1.0,
+                "z": 100000.0
+            },
+            "color": {
+                "r": 0.4,
+                "g": 0.8,
+                "b": 0.2,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": ""
+        },
+        {
+            "folderLocation": "mapcreator/sphere",
+            "position": {
+                "x": 5.0,
+                "y": -50.0,
+                "z": 10.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 5.0,
+                "y": 5.0,
+                "z": 5.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "isObject": true,
+            "isRigidbody": false,
+            "isCollider": true,
+            "texture": "",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": ""
+        },
+        {
+            "folderLocation": "mapcreator/sphere",
+            "position": {
+                "x": -5.0,
+                "y": -50.0,
+                "z": 15.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 5.0,
+                "y": 5.0,
+                "z": 5.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "isObject": true,
+            "isRigidbody": false,
+            "isCollider": true,
+            "texture": "",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": ""
+        },
+        {
+            "folderLocation": "mapcreator/sphere",
+            "position": {
+                "x": 10.0,
+                "y": -50.0,
+                "z": 5.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 5.0,
+                "y": 5.0,
+                "z": 5.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "isObject": true,
+            "isRigidbody": false,
+            "isCollider": true,
+            "texture": "",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": ""
+        },
+        {
+            "folderLocation": "mapcreator/cylinder",
+            "position": {
+                "x": 5.0,
+                "y": -65.0,
+                "z": 10.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 15.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 0.5,
+                "g": 0.3,
+                "b": 0.1,
+                "a": 1.0
+            },
+            "isObject": true,
+            "isRigidbody": false,
+            "isCollider": true,
+            "texture": "",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": ""
+        },
+        {
+            "folderLocation": "mapcreator/cylinder",
+            "position": {
+                "x": -5.0,
+                "y": -65.0,
+                "z": 15.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 15.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 0.5,
+                "g": 0.3,
+                "b": 0.1,
+                "a": 1.0
+            },
+            "isObject": true,
+            "isRigidbody": false,
+            "isCollider": true,
+            "texture": "",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": ""
+        },
+        {
+            "folderLocation": "mapcreator/cylinder",
+            "position": {
+                "x": 10.0,
+                "y": -65.0,
+                "z": 5.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 15.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 0.5,
+                "g": 0.3,
+                "b": 0.1,
+                "a": 1.0
+            },
+            "isObject": true,
+            "isRigidbody": false,
+            "isCollider": true,
+            "texture": "",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 0.0,
+                "y": -60.0,
+                "z": 0.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 10.0,
+                "y": 1.0,
+                "z": 10.0
+            },
+            "color": {
+                "r": 0.6,
+                "g": 0.4,
+                "b": 0.2,
+                "a": 1.0
+            },
+            "isObject": true,
+            "isRigidbody": false,
+            "isCollider": true,
+            "texture": "",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": ""
+        },
+        {
+            "folderLocation": "mapcreator/sphere",
+            "position": {
+                "x": 0.0,
+                "y": -50.0,
+                "z": 0.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 5.0,
+                "y": 5.0,
+                "z": 5.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "isObject": true,
+            "isRigidbody": false,
+            "isCollider": true,
+            "texture": "",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": ""
+        },
+        {
+            "folderLocation": "mapcreator/cylinder",
+            "position": {
+                "x": 0.0,
+                "y": -65.0,
+                "z": 0.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 15.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 0.5,
+                "g": 0.3,
+                "b": 0.1,
+                "a": 1.0
+            },
+            "isObject": true,
+            "isRigidbody": false,
+            "isCollider": true,
+            "texture": "",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": ""
+        }
+    ],
+    "npc": []
+}

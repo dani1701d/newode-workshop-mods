@@ -1,0 +1,1029 @@
+{
+    "mapname": "амог сас",
+    "author": "Rasbur Яичный",
+    "objects": [
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -11.0,
+                "y": 27.0,
+                "z": -99.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 49.0,
+                "y": 1.0,
+                "z": 54.0
+            },
+            "color": {
+                "r": 0.3921567499637604,
+                "g": 0.3921567499637604,
+                "b": 0.3921567499637604,
+                "a": 0.4196077883243561
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "id": "",
+            "Destroy": "",
+            "TpCord": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -19.0,
+                "y": 23.0,
+                "z": -131.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 157.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 67.0,
+                "y": 9.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 0.7843137383460999,
+                "g": 0.7843137383460999,
+                "b": 0.7843137383460999,
+                "a": 0.4196077883243561
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "id": "",
+            "Destroy": "",
+            "TpCord": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 12.0,
+                "y": 23.0,
+                "z": -99.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 67.0,
+                "y": 9.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 0.7843137383460999,
+                "g": 0.7843137383460999,
+                "b": 0.7843137383460999,
+                "a": 0.4196077883243561
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "id": "",
+            "Destroy": "",
+            "TpCord": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -15.0,
+                "y": 23.0,
+                "z": -125.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 67.0,
+                "y": 9.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 0.7843137383460999,
+                "g": 0.7843137383460999,
+                "b": 0.7843137383460999,
+                "a": 0.4196077883243561
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "id": "",
+            "Destroy": "",
+            "TpCord": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -8.0,
+                "y": 23.0,
+                "z": -138.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 36.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 66.99999237060547,
+                "y": 9.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 0.7843137383460999,
+                "g": 0.7843137383460999,
+                "b": 0.7843137383460999,
+                "a": 0.4196077883243561
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://img.freepik.com/premium-photo/stainless-steel-metal-texture-silver-plate-background_84485-2396.jpg",
+            "id": "",
+            "Destroy": "",
+            "TpCord": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -9.0,
+                "y": 23.0,
+                "z": -66.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 324.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 67.0,
+                "y": 9.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 0.7843137383460999,
+                "g": 0.7843137383460999,
+                "b": 0.7843137383460999,
+                "a": 0.4196077883243561
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "id": "",
+            "Destroy": "",
+            "TpCord": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -14.0,
+                "y": 23.0,
+                "z": -66.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 215.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 67.0,
+                "y": 9.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 0.7843137383460999,
+                "g": 0.7843137383460999,
+                "b": 0.7843137383460999,
+                "a": 0.4196077883243561
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "id": "",
+            "Destroy": "",
+            "TpCord": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -10.0,
+                "y": 23.0,
+                "z": -74.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 67.0,
+                "y": 9.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 0.7843137383460999,
+                "g": 0.7843137383460999,
+                "b": 0.7843137383460999,
+                "a": 0.4196077883243561
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "id": "",
+            "Destroy": "",
+            "TpCord": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -36.0,
+                "y": 23.0,
+                "z": -99.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 67.0,
+                "y": 9.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 0.7843137383460999,
+                "g": 0.7843137383460999,
+                "b": 0.7843137383460999,
+                "a": 0.4196077883243561
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://img.freepik.com/premium-photo/stainless-steel-metal-texture-silver-plate-background_84485-2396.jpg",
+            "id": "",
+            "Destroy": "",
+            "TpCord": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -11.0,
+                "y": 18.0,
+                "z": -99.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 49.0,
+                "y": 1.0,
+                "z": 54.0
+            },
+            "color": {
+                "r": 0.3921566307544708,
+                "g": 0.3921566307544708,
+                "b": 0.3921566307544708,
+                "a": 0.4196077883243561
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://img.freepik.com/premium-vector/gray-tiles-texture_325432-3.jpg",
+            "id": "",
+            "Destroy": "",
+            "TpCord": ""
+        },
+        {
+            "folderLocation": "mapcreator/Cylinder",
+            "position": {
+                "x": -10.0,
+                "y": 20.399999618530275,
+                "z": -103.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": -0.20000000298023225,
+                "z": 1.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.4196077883243561
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "id": "",
+            "Destroy": "",
+            "TpCord": ""
+        },
+        {
+            "folderLocation": "mapcreator/Cylinder",
+            "position": {
+                "x": -30.0,
+                "y": 20.0,
+                "z": -90.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 7.0,
+                "y": -0.20000000298023225,
+                "z": 7.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 0.0,
+                "a": 0.4196077883243561
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "id": "",
+            "Destroy": "",
+            "TpCord": ""
+        },
+        {
+            "folderLocation": "mapcreator/Cylinder",
+            "position": {
+                "x": -8.0,
+                "y": 19.0,
+                "z": -105.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 0.4196077883243561
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "id": "",
+            "Destroy": "",
+            "TpCord": ""
+        },
+        {
+            "folderLocation": "mapcreator/Cylinder",
+            "position": {
+                "x": -10.0,
+                "y": 19.0,
+                "z": -103.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 0.4196077883243561
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "id": "",
+            "Destroy": "",
+            "TpCord": ""
+        },
+        {
+            "folderLocation": "mapcreator/Cylinder",
+            "position": {
+                "x": -13.0,
+                "y": 19.0,
+                "z": -103.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 0.4196077883243561
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "id": "",
+            "Destroy": "",
+            "TpCord": ""
+        },
+        {
+            "folderLocation": "mapcreator/Cylinder",
+            "position": {
+                "x": -12.0,
+                "y": 19.0,
+                "z": -105.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 0.4196077883243561
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "id": "",
+            "Destroy": "",
+            "TpCord": ""
+        },
+        {
+            "folderLocation": "mapcreator/Cylinder",
+            "position": {
+                "x": -12.0,
+                "y": 19.0,
+                "z": -101.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 0.4196077883243561
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "id": "",
+            "Destroy": "",
+            "TpCord": ""
+        },
+        {
+            "folderLocation": "mapcreator/Cylinder",
+            "position": {
+                "x": -8.0,
+                "y": 19.0,
+                "z": -102.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 0.4196077883243561
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "id": "",
+            "Destroy": "",
+            "TpCord": ""
+        },
+        {
+            "folderLocation": "mapcreator/Cylinder",
+            "position": {
+                "x": -10.0,
+                "y": 20.0,
+                "z": -103.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 7.0,
+                "y": -0.20000000298023225,
+                "z": 7.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 0.0,
+                "a": 0.4196077883243561
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "id": "",
+            "Destroy": "",
+            "TpCord": ""
+        },
+        {
+            "folderLocation": "mapcreator/Cylinder",
+            "position": {
+                "x": -23.0,
+                "y": 20.0,
+                "z": -111.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 7.0,
+                "y": -0.20000000298023225,
+                "z": 7.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 0.0,
+                "a": 0.4196077883243561
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "id": "",
+            "Destroy": "",
+            "TpCord": ""
+        },
+        {
+            "folderLocation": "mapcreator/Cylinder",
+            "position": {
+                "x": 8.0,
+                "y": 20.0,
+                "z": -112.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 7.0,
+                "y": -0.20000000298023225,
+                "z": 7.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 0.0,
+                "a": 0.4196077883243561
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "id": "",
+            "Destroy": "",
+            "TpCord": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -15.100000381469727,
+                "y": 21.0,
+                "z": -124.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 6.300000190734863,
+                "z": 5.5
+            },
+            "color": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.4196077883243561
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "id": "",
+            "Destroy": "",
+            "TpCord": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 11.899999618530274,
+                "y": 21.0,
+                "z": -99.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 5.300000190734863,
+                "z": 5.5
+            },
+            "color": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.4196077883243561
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "id": "",
+            "Destroy": "",
+            "TpCord": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -35.099998474121097,
+                "y": 21.0,
+                "z": -99.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 6.300000190734863,
+                "z": 5.5
+            },
+            "color": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.4196077883243561
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "id": "",
+            "Destroy": "",
+            "TpCord": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 11.800000190734864,
+                "y": 21.100000381469728,
+                "z": -95.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.8999999761581421,
+                "y": 1.2000000476837159,
+                "z": 1.899999976158142
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 0.4196077883243561
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxIdaPjWjbrkyFPBPT32k_ZHewvUmPyNVF1s4gq8DlmITXEV8_VXSus7T0MW8v_AxbtoY&usqp=CAU",
+            "id": "",
+            "Destroy": "",
+            "TpCord": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 4.0,
+                "y": 23.0,
+                "z": -79.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 37.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 10.0,
+                "y": -4.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 0.4196077883243561
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://bigpicture.ru/wp-content/uploads/2022/03/bigpicture_ru_274305320_1016069912314345_7028216160601081680_n.jpg",
+            "id": "",
+            "Destroy": "",
+            "TpCord": ""
+        },
+        {
+            "folderLocation": "mapcreator/плакат1",
+            "position": {
+                "x": -18.0,
+                "y": 21.0,
+                "z": -111.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 317.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.0010000469628721476,
+                "y": 5.402953147888184,
+                "z": 4.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://static.wikia.nocookie.net/among-us-wiki/images/3/31/Red.png/revision/latest/thumbnail/width/360/height/360?cb=20230601155504",
+            "id": "",
+            "Destroy": "",
+            "TpCord": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 1.0,
+                "y": 2.0,
+                "z": 0.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": -11.0,
+                "y": 7.0,
+                "z": 22.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 0.4196077883243561
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": true,
+            "texture": "",
+            "id": "",
+            "Destroy": "",
+            "TpCord": "0,21,-96"
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -12.0,
+                "y": 23.0,
+                "z": -74.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": -11.100000381469727,
+                "y": 6.0,
+                "z": 1.2999999523162842
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 0.4196077883243561
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://www.electronic-sirens.com/ru/wp-content/uploads/sites/8/2021/09/Yest-li-zvuk-v-kosmose-.jpg",
+            "id": "",
+            "Destroy": "",
+            "TpCord": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -29.0,
+                "y": 19.0,
+                "z": -90.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 0.41960784792900088
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "id": "",
+            "Destroy": "",
+            "TpCord": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -22.0,
+                "y": 19.0,
+                "z": -110.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 0.41960784792900088
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "id": "",
+            "Destroy": "",
+            "TpCord": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 8.0,
+                "y": 19.0,
+                "z": -112.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 0.4196077883243561
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "id": "",
+            "Destroy": "",
+            "TpCord": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -10.0,
+                "y": 19.899999618530275,
+                "z": -103.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 0.4196077883243561
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "id": "",
+            "Destroy": "",
+            "TpCord": ""
+        }
+    ]
+}

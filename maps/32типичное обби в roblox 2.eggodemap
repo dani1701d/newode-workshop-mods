@@ -1,0 +1,1943 @@
+{
+    "mapname": "типичное обби в roblox 2",
+    "author": "ПОДХЛЁБКИН",
+    "icon": "data:image/jpeg;base64,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",
+    "skybox": "1",
+    "diecord": "0,-59,0​​​​",
+    "uron": true,
+    "canSpawnObj": false,
+    "canDellObj": false,
+    "survival": true,
+    "modsDependence": [],
+    "textures": [],
+    "objects": [
+        {
+            "folderLocation": "mapcreator/EpicSUStxt",
+            "position": {
+                "x": 0.0,
+                "y": 2.0,
+                "z": 5.5
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.30000001192092898,
+                "y": 0.15000000596046449,
+                "z": 0.5
+            },
+            "color": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "ЧТО БЫ ИГРАТЬ ЗАДОНЬТЕ 1000 РОБАКСОВ",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 4.599999904632568,
+                "y": 0.4000000059604645,
+                "z": 4.199999809265137
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 2.0999999046325685,
+                "y": 2.0999999046325685,
+                "z": 2.5
+            },
+            "color": {
+                "r": 0.0,
+                "g": 1.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "",
+            "textureTile": "1",
+            "type": 1,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "ЧТО БЫ ИГРАТЬ ЗАДОНЬТЕ 1000 РОБАКСОВ",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/EpicSUStxt",
+            "position": {
+                "x": 3.5,
+                "y": 0.699999988079071,
+                "z": 4.099999904632568
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.10000003129243851,
+                "y": 0.10000000149011612,
+                "z": 0.10000003129243851
+            },
+            "color": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "0",
+            "id": "кнопка что бы зпдонить",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 5.599999904632568
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 7.5,
+                "y": 6.199999809265137,
+                "z": 0.10000000149011612
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "ЧТО БЫ ИГРАТЬ ЗАДОНЬТЕ 1000 РОБАКСОВ",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -2.0,
+                "y": -0.30000001192092898,
+                "z": 8.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 4.0,
+                "y": 1.0,
+                "z": 4.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-X7CSigPBKWTgdaYp2hd2uu_jpqqs1d6wlA&s",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 4.0,
+                "y": -0.30000001192092898,
+                "z": 14.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 4.0,
+                "y": 1.0,
+                "z": 4.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-X7CSigPBKWTgdaYp2hd2uu_jpqqs1d6wlA&s",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 4.0,
+                "y": -0.30000001192092898,
+                "z": 20.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 4.0,
+                "y": 1.0,
+                "z": 4.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-X7CSigPBKWTgdaYp2hd2uu_jpqqs1d6wlA&s",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 1.0,
+                "y": -0.30000001192092898,
+                "z": 25.0
+            },
+            "rotation": {
+                "x": 319.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 5.0,
+                "y": 1.0,
+                "z": 4.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-X7CSigPBKWTgdaYp2hd2uu_jpqqs1d6wlA&s",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 1.0,
+                "y": 1.7000000476837159,
+                "z": 31.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 4.0,
+                "y": 1.0,
+                "z": 4.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-X7CSigPBKWTgdaYp2hd2uu_jpqqs1d6wlA&s",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 1.0,
+                "y": 1.7000000476837159,
+                "z": 41.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 14.0,
+                "y": 1.0,
+                "z": 11.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-X7CSigPBKWTgdaYp2hd2uu_jpqqs1d6wlA&s",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/Trigger",
+            "position": {
+                "x": 0.0,
+                "y": -24.0,
+                "z": 15.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1000.0,
+                "y": 1.0,
+                "z": 1000.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.10000000149011612
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": true,
+            "isLomatel": false,
+            "texture": "",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "1000",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 8.0,
+                "y": 6.0,
+                "z": 41.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 9.0,
+                "z": 6.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://www.winncom.tech/wp-content/uploads/2025/03/Checkpoint_logo.jpg",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/Trigger",
+            "position": {
+                "x": -7.0,
+                "y": 6.0,
+                "z": 42.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 24.0,
+                "z": 24.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": true,
+            "isLomatel": false,
+            "texture": "https://png.pngtree.com/png-clipart/20230507/ourmid/pngtree-tiger-walking-wildlife-scene-transparent-background-png-image_7088126.png",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "выбери что тебе нравиться",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/EpicSUStxt",
+            "position": {
+                "x": 7.0,
+                "y": 6.0,
+                "z": 41.0
+            },
+            "rotation": {
+                "x": 1.0000004768371583,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.10000002384185791,
+                "y": 0.10000000149011612,
+                "z": 1.0
+            },
+            "color": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "ЧТАБ ИСПОЛЗОВАТ ЧЕКПАЕНТ НУЖНА ЗАДАНЕТИТЬ 999999999 РАБАКЛЬСИВОВЫ",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 0.0,
+                "y": -61.0,
+                "z": 0.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 23.0,
+                "y": 1.0,
+                "z": 23.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/Trigger",
+            "position": {
+                "x": 0.0,
+                "y": -128.0,
+                "z": 15.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1000.0,
+                "y": 1.0,
+                "z": 1000.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.10000000149011612
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": true,
+            "isLomatel": false,
+            "texture": "",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "1000",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 0.0,
+                "y": -56.0,
+                "z": 11.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 11.0,
+                "y": -8.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://www.epicsusgames.ru/avatarki_posts/20250620143217870cat_skin_imba_ava_hahahahah.png",
+            "textureTile": "1",
+            "type": 1,
+            "TpCord": "0,0,0",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/EpicSUStxt",
+            "position": {
+                "x": 0.0,
+                "y": -53.0,
+                "z": 10.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.20000000298023225,
+                "y": 0.20000000298023225,
+                "z": 1.0
+            },
+            "color": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "вазрадеться заданате 982398243489348245387534 рабуксав",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/EpicSUStxt",
+            "position": {
+                "x": 3.0,
+                "y": -59.0,
+                "z": 10.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.10000000149011612,
+                "y": 0.10000000149011612,
+                "z": 1.0
+            },
+            "color": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "(жми на E)",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/EpicSUStxt",
+            "position": {
+                "x": 4.0,
+                "y": 2.0,
+                "z": 4.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 270.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": -0.10000002384185791,
+                "y": 0.10000000149011612,
+                "z": 1.0
+            },
+            "color": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "(жми на E)",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 1.0,
+                "y": 1.7000000476837159,
+                "z": 50.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 4.0,
+                "y": 1.0,
+                "z": 4.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-X7CSigPBKWTgdaYp2hd2uu_jpqqs1d6wlA&s",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 6.0,
+                "y": 1.7000000476837159,
+                "z": 56.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 4.0,
+                "y": 1.0,
+                "z": 4.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": true,
+            "isLomatel": false,
+            "texture": "https://static.mk.ru/upload/entities/2019/03/07/18/articles/facebookPicture/c6/54/71/38/2d7b9658ed010ecc1338332ac9ef9b10.jpg",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "1000",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -4.0,
+                "y": 1.7000000476837159,
+                "z": 56.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 4.0,
+                "y": 1.0,
+                "z": 4.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-X7CSigPBKWTgdaYp2hd2uu_jpqqs1d6wlA&s",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 1.0,
+                "y": 1.7000000476837159,
+                "z": 62.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 4.0,
+                "y": 1.0,
+                "z": 4.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-X7CSigPBKWTgdaYp2hd2uu_jpqqs1d6wlA&s",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 1.0,
+                "y": 1.7000000476837159,
+                "z": 68.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 4.0,
+                "y": 1.0,
+                "z": 4.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": true,
+            "isLomatel": false,
+            "texture": "https://static.mk.ru/upload/entities/2019/03/07/18/articles/facebookPicture/c6/54/71/38/2d7b9658ed010ecc1338332ac9ef9b10.jpg",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "1000",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 6.0,
+                "y": 1.7000000476837159,
+                "z": 68.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 4.0,
+                "y": 1.0,
+                "z": 4.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-X7CSigPBKWTgdaYp2hd2uu_jpqqs1d6wlA&s",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 1.0,
+                "y": 1.7000000476837159,
+                "z": 75.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 4.0,
+                "y": 1.0,
+                "z": 4.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": true,
+            "isLomatel": false,
+            "texture": "https://www.epicsusgames.ru/avatarki_posts/20250620170742736cat_skin_imba_ava_hahahahah.png",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "111",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 6.0,
+                "y": 1.7000000476837159,
+                "z": 75.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 4.0,
+                "y": 1.0,
+                "z": 4.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": true,
+            "isLomatel": false,
+            "texture": "https://static.mk.ru/upload/entities/2019/03/07/18/articles/facebookPicture/c6/54/71/38/2d7b9658ed010ecc1338332ac9ef9b10.jpg",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "1000",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -4.0,
+                "y": 1.7000000476837159,
+                "z": 75.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 4.0,
+                "y": 1.0,
+                "z": 4.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-X7CSigPBKWTgdaYp2hd2uu_jpqqs1d6wlA&s",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 1.0,
+                "y": 1.7000000476837159,
+                "z": 95.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 14.0,
+                "y": 1.0,
+                "z": 31.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-X7CSigPBKWTgdaYp2hd2uu_jpqqs1d6wlA&s",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/EpicSUStxt",
+            "position": {
+                "x": 1.0,
+                "y": 9.0,
+                "z": 76.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "выбери что тебе нравиться",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 1.0,
+                "y": 10.699999809265137,
+                "z": 89.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 14.0,
+                "y": 20.0,
+                "z": 7.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-X7CSigPBKWTgdaYp2hd2uu_jpqqs1d6wlA&s",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/EpicSUStxt",
+            "position": {
+                "x": 1.0,
+                "y": 12.0,
+                "z": 85.44097900390625
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.5,
+                "y": 0.5,
+                "z": 1.0
+            },
+            "color": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "заданать чта бы прадалжат (29121912291921292191291291291291929129 робакасовв)",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/Trigger",
+            "position": {
+                "x": -4.0,
+                "y": 5.0,
+                "z": 75.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 4.0,
+                "y": 6.0,
+                "z": 4.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 0.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": true,
+            "isLomatel": false,
+            "texture": "",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "выбери что тебе нравиться",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 0.0,
+                "y": 9.0,
+                "z": 77.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 32.0,
+                "y": 33.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "выбери что тебе нравиться",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/Trigger",
+            "position": {
+                "x": 1.0,
+                "y": 7.0,
+                "z": 102.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 0.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "111",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 0.0,
+                "y": 9.0,
+                "z": 83.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 32.0,
+                "y": 33.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "",
+            "textureTile": "1",
+            "type": 1,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "ТЫ УБИЛ ТИГРЁНКА БЕЗ ШИЛА В ЖОПЕ ТВАРЬ",
+            "id": "ТЫ УБИЛ ТИГРЁНКА БЕЗ ШИЛА В ЖОПЕ ТВАРЬ",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/EpicSUStxt",
+            "position": {
+                "x": 1.0,
+                "y": 14.0,
+                "z": 82.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "ТЫ УБИЛ ТИГРЁНКА БЕЗ ШИЛА В ЖОПЕ ТВАРЬ",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/EpicSUStxt",
+            "position": {
+                "x": 3.0,
+                "y": 4.0,
+                "z": 82.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.20000000298023225,
+                "y": 0.20000000298023225,
+                "z": 1.0
+            },
+            "color": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "(жми на E)",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 1.0,
+                "y": 9.0,
+                "z": 94.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 9.0,
+                "y": 11.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://www.epicsusgames.ru/avatarki_posts/20250620170742736cat_skin_imba_ava_hahahahah.png",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -4.0,
+                "y": 1.7000000476837159,
+                "z": 68.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 4.0,
+                "y": 1.0,
+                "z": 4.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isMod": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "isLomatel": false,
+            "texture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-X7CSigPBKWTgdaYp2hd2uu_jpqqs1d6wlA&s",
+            "textureTile": "1",
+            "type": 0,
+            "TpCord": "",
+            "Animation": "{\n    \"loop\": \"false\",\n    \"frames\": []\n}",
+            "PlayAnim": "",
+            "Destroy": "",
+            "id": "",
+            "Damagenum": "",
+            "Speed": "",
+            "Jump": "",
+            "SetSize": "",
+            "II": false,
+            "SetPlayerVarible": "",
+            "PlayerVaribleIf": "",
+            "AddItem": "",
+            "PlayerVaribleIfMoreInt": "",
+            "SetIntPlayerVarible": 0
+        }
+    ],
+    "npc": []
+}

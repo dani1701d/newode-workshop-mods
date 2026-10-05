@@ -1,0 +1,3711 @@
+{
+    "mapname": "Crazy Sosed",
+    "author": "matvey.mayner",
+    "objects": [
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 0.0,
+                "y": 2.0,
+                "z": 0.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 13.0,
+                "y": 8.0,
+                "z": 13.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.4196077883243561
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": true,
+            "texture": "",
+            "id": "",
+            "Destroy": "",
+            "TpCord": "64,18,-8",
+            "Damagenum": "",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "",
+            "Jump": "",
+            "Animation": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -3.0,
+                "y": 16.0,
+                "z": 20.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 13.0,
+                "y": 1.0,
+                "z": 13.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://github.com/matvey-mayner/Eggode-Textures/raw/main/43bc70a0e62485b2fa93eddfea2fa4c7.png",
+            "id": "",
+            "Destroy": "",
+            "TpCord": "",
+            "Damagenum": "",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "",
+            "Jump": "",
+            "Animation": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -3.0,
+                "y": 16.0,
+                "z": 46.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 13.0,
+                "y": 1.0,
+                "z": 13.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://github.com/matvey-mayner/Eggode-Textures/raw/main/43bc70a0e62485b2fa93eddfea2fa4c7.png",
+            "id": "",
+            "Destroy": "",
+            "TpCord": "",
+            "Damagenum": "",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "",
+            "Jump": "",
+            "Animation": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -3.0,
+                "y": 16.0,
+                "z": 7.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 13.0,
+                "y": 1.0,
+                "z": 13.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://github.com/matvey-mayner/Eggode-Textures/raw/main/43bc70a0e62485b2fa93eddfea2fa4c7.png",
+            "id": "",
+            "Destroy": "",
+            "TpCord": "",
+            "Damagenum": "",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "",
+            "Jump": "",
+            "Animation": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 10.0,
+                "y": 16.0,
+                "z": 46.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 13.0,
+                "y": 1.0,
+                "z": 13.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://github.com/matvey-mayner/Eggode-Textures/raw/main/43bc70a0e62485b2fa93eddfea2fa4c7.png",
+            "id": "",
+            "Destroy": "",
+            "TpCord": "",
+            "Damagenum": "",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "",
+            "Jump": "",
+            "Animation": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 10.0,
+                "y": 16.0,
+                "z": 20.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 13.0,
+                "y": 1.0,
+                "z": 13.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://github.com/matvey-mayner/Eggode-Textures/raw/main/43bc70a0e62485b2fa93eddfea2fa4c7.png",
+            "id": "",
+            "Destroy": "",
+            "TpCord": "",
+            "Damagenum": "",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "",
+            "Jump": "",
+            "Animation": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 23.0,
+                "y": 16.0,
+                "z": 46.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 13.0,
+                "y": 1.0,
+                "z": 13.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://github.com/matvey-mayner/Eggode-Textures/raw/main/43bc70a0e62485b2fa93eddfea2fa4c7.png",
+            "id": "",
+            "Destroy": "",
+            "TpCord": "",
+            "Damagenum": "",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "",
+            "Jump": "",
+            "Animation": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 10.0,
+                "y": 16.0,
+                "z": 7.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 13.0,
+                "y": 1.0,
+                "z": 13.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://github.com/matvey-mayner/Eggode-Textures/raw/main/43bc70a0e62485b2fa93eddfea2fa4c7.png",
+            "id": "",
+            "Destroy": "",
+            "TpCord": "",
+            "Damagenum": "",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "",
+            "Jump": "",
+            "Animation": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -3.0,
+                "y": 16.0,
+                "z": -6.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 13.0,
+                "y": 1.0,
+                "z": 13.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://github.com/matvey-mayner/Eggode-Textures/raw/main/43bc70a0e62485b2fa93eddfea2fa4c7.png",
+            "id": "",
+            "Destroy": "",
+            "TpCord": "",
+            "Damagenum": "",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "",
+            "Jump": "",
+            "Animation": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 23.0,
+                "y": 16.0,
+                "z": 20.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 13.0,
+                "y": 1.0,
+                "z": 13.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://github.com/matvey-mayner/Eggode-Textures/raw/main/43bc70a0e62485b2fa93eddfea2fa4c7.png",
+            "id": "",
+            "Destroy": "",
+            "TpCord": "",
+            "Damagenum": "",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "",
+            "Jump": "",
+            "Animation": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 23.0,
+                "y": 16.0,
+                "z": 7.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 13.0,
+                "y": 1.0,
+                "z": 13.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://github.com/matvey-mayner/Eggode-Textures/raw/main/43bc70a0e62485b2fa93eddfea2fa4c7.png",
+            "id": "",
+            "Destroy": "",
+            "TpCord": "",
+            "Damagenum": "",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "",
+            "Jump": "",
+            "Animation": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 36.0,
+                "y": 16.0,
+                "z": 46.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 13.0,
+                "y": 1.0,
+                "z": 13.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://github.com/matvey-mayner/Eggode-Textures/raw/main/43bc70a0e62485b2fa93eddfea2fa4c7.png",
+            "id": "",
+            "Destroy": "",
+            "TpCord": "",
+            "Damagenum": "",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "",
+            "Jump": "",
+            "Animation": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 10.0,
+                "y": 16.0,
+                "z": -6.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 13.0,
+                "y": 1.0,
+                "z": 13.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://github.com/matvey-mayner/Eggode-Textures/raw/main/43bc70a0e62485b2fa93eddfea2fa4c7.png",
+            "id": "",
+            "Destroy": "",
+            "TpCord": "",
+            "Damagenum": "",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "",
+            "Jump": "",
+            "Animation": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 23.0,
+                "y": 16.0,
+                "z": -6.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 13.0,
+                "y": 1.0,
+                "z": 13.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://github.com/matvey-mayner/Eggode-Textures/raw/main/43bc70a0e62485b2fa93eddfea2fa4c7.png",
+            "id": "",
+            "Destroy": "",
+            "TpCord": "",
+            "Damagenum": "",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "",
+            "Jump": "",
+            "Animation": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 62.0,
+                "y": 16.0,
+                "z": -6.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 13.0,
+                "y": 1.0,
+                "z": 13.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://github.com/matvey-mayner/Eggode-Textures/raw/main/43bc70a0e62485b2fa93eddfea2fa4c7.png",
+            "id": "",
+            "Destroy": "",
+            "TpCord": "",
+            "Damagenum": "",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "",
+            "Jump": "",
+            "Animation": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 36.0,
+                "y": 16.0,
+                "z": 7.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 13.0,
+                "y": 1.0,
+                "z": 13.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://github.com/matvey-mayner/Eggode-Textures/raw/main/43bc70a0e62485b2fa93eddfea2fa4c7.png",
+            "id": "",
+            "Destroy": "",
+            "TpCord": "",
+            "Damagenum": "",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "",
+            "Jump": "",
+            "Animation": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 36.0,
+                "y": 16.0,
+                "z": 20.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 13.0,
+                "y": 1.0,
+                "z": 13.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://github.com/matvey-mayner/Eggode-Textures/raw/main/43bc70a0e62485b2fa93eddfea2fa4c7.png",
+            "id": "",
+            "Destroy": "",
+            "TpCord": "",
+            "Damagenum": "",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "",
+            "Jump": "",
+            "Animation": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -3.0,
+                "y": 16.0,
+                "z": 33.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 13.0,
+                "y": 1.0,
+                "z": 13.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://github.com/matvey-mayner/Eggode-Textures/raw/main/43bc70a0e62485b2fa93eddfea2fa4c7.png",
+            "id": "",
+            "Destroy": "",
+            "TpCord": "",
+            "Damagenum": "",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "",
+            "Jump": "",
+            "Animation": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 10.0,
+                "y": 16.0,
+                "z": 33.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 13.0,
+                "y": 1.0,
+                "z": 13.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://github.com/matvey-mayner/Eggode-Textures/raw/main/43bc70a0e62485b2fa93eddfea2fa4c7.png",
+            "id": "",
+            "Destroy": "",
+            "TpCord": "",
+            "Damagenum": "",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "",
+            "Jump": "",
+            "Animation": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 23.0,
+                "y": 16.0,
+                "z": 33.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 13.0,
+                "y": 1.0,
+                "z": 13.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://github.com/matvey-mayner/Eggode-Textures/raw/main/43bc70a0e62485b2fa93eddfea2fa4c7.png",
+            "id": "",
+            "Destroy": "",
+            "TpCord": "",
+            "Damagenum": "",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "",
+            "Jump": "",
+            "Animation": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 36.0,
+                "y": 16.0,
+                "z": 33.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 13.0,
+                "y": 1.0,
+                "z": 13.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://github.com/matvey-mayner/Eggode-Textures/raw/main/43bc70a0e62485b2fa93eddfea2fa4c7.png",
+            "id": "",
+            "Destroy": "",
+            "TpCord": "",
+            "Damagenum": "",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "",
+            "Jump": "",
+            "Animation": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 36.0,
+                "y": 16.0,
+                "z": -6.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 13.0,
+                "y": 1.0,
+                "z": 13.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://github.com/matvey-mayner/Eggode-Textures/raw/main/43bc70a0e62485b2fa93eddfea2fa4c7.png",
+            "id": "",
+            "Destroy": "",
+            "TpCord": "",
+            "Damagenum": "",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "",
+            "Jump": "",
+            "Animation": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 49.0,
+                "y": 16.0,
+                "z": -6.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 13.0,
+                "y": 1.0,
+                "z": 13.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://github.com/matvey-mayner/Eggode-Textures/raw/main/43bc70a0e62485b2fa93eddfea2fa4c7.png",
+            "id": "",
+            "Destroy": "",
+            "TpCord": "",
+            "Damagenum": "",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "",
+            "Jump": "",
+            "Animation": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 49.0,
+                "y": 16.0,
+                "z": 7.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 13.0,
+                "y": 1.0,
+                "z": 13.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://github.com/matvey-mayner/Eggode-Textures/raw/main/43bc70a0e62485b2fa93eddfea2fa4c7.png",
+            "id": "",
+            "Destroy": "",
+            "TpCord": "",
+            "Damagenum": "",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "",
+            "Jump": "",
+            "Animation": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 49.0,
+                "y": 16.0,
+                "z": 20.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 13.0,
+                "y": 1.0,
+                "z": 13.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://github.com/matvey-mayner/Eggode-Textures/raw/main/43bc70a0e62485b2fa93eddfea2fa4c7.png",
+            "id": "",
+            "Destroy": "",
+            "TpCord": "",
+            "Damagenum": "",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "",
+            "Jump": "",
+            "Animation": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 49.0,
+                "y": 16.0,
+                "z": 33.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 13.0,
+                "y": 1.0,
+                "z": 13.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://github.com/matvey-mayner/Eggode-Textures/raw/main/43bc70a0e62485b2fa93eddfea2fa4c7.png",
+            "id": "",
+            "Destroy": "",
+            "TpCord": "",
+            "Damagenum": "",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "",
+            "Jump": "",
+            "Animation": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 49.0,
+                "y": 16.0,
+                "z": 46.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 13.0,
+                "y": 1.0,
+                "z": 13.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://github.com/matvey-mayner/Eggode-Textures/raw/main/43bc70a0e62485b2fa93eddfea2fa4c7.png",
+            "id": "",
+            "Destroy": "",
+            "TpCord": "",
+            "Damagenum": "",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "",
+            "Jump": "",
+            "Animation": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -3.0,
+                "y": 16.0,
+                "z": 59.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 13.0,
+                "y": 1.0,
+                "z": 13.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://github.com/matvey-mayner/Eggode-Textures/raw/main/43bc70a0e62485b2fa93eddfea2fa4c7.png",
+            "id": "",
+            "Destroy": "",
+            "TpCord": "",
+            "Damagenum": "",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "",
+            "Jump": "",
+            "Animation": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 62.0,
+                "y": 16.0,
+                "z": 33.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 13.0,
+                "y": 1.0,
+                "z": 13.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://github.com/matvey-mayner/Eggode-Textures/raw/main/43bc70a0e62485b2fa93eddfea2fa4c7.png",
+            "id": "",
+            "Destroy": "",
+            "TpCord": "",
+            "Damagenum": "",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "",
+            "Jump": "",
+            "Animation": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 62.0,
+                "y": 16.0,
+                "z": 20.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 13.0,
+                "y": 1.0,
+                "z": 13.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://github.com/matvey-mayner/Eggode-Textures/raw/main/43bc70a0e62485b2fa93eddfea2fa4c7.png",
+            "id": "",
+            "Destroy": "",
+            "TpCord": "",
+            "Damagenum": "",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "",
+            "Jump": "",
+            "Animation": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 62.0,
+                "y": 16.0,
+                "z": 7.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 13.0,
+                "y": 1.0,
+                "z": 13.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://github.com/matvey-mayner/Eggode-Textures/raw/main/43bc70a0e62485b2fa93eddfea2fa4c7.png",
+            "id": "",
+            "Destroy": "",
+            "TpCord": "",
+            "Damagenum": "",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "",
+            "Jump": "",
+            "Animation": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 62.0,
+                "y": 16.0,
+                "z": 46.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 13.0,
+                "y": 1.0,
+                "z": 13.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://github.com/matvey-mayner/Eggode-Textures/raw/main/43bc70a0e62485b2fa93eddfea2fa4c7.png",
+            "id": "",
+            "Destroy": "",
+            "TpCord": "",
+            "Damagenum": "",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "",
+            "Jump": "",
+            "Animation": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 62.0,
+                "y": 16.0,
+                "z": 59.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 13.0,
+                "y": 1.0,
+                "z": 13.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://github.com/matvey-mayner/Eggode-Textures/raw/main/43bc70a0e62485b2fa93eddfea2fa4c7.png",
+            "id": "",
+            "Destroy": "",
+            "TpCord": "",
+            "Damagenum": "",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "",
+            "Jump": "",
+            "Animation": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 49.0,
+                "y": 16.0,
+                "z": 59.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 13.0,
+                "y": 1.0,
+                "z": 13.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://github.com/matvey-mayner/Eggode-Textures/raw/main/43bc70a0e62485b2fa93eddfea2fa4c7.png",
+            "id": "",
+            "Destroy": "",
+            "TpCord": "",
+            "Damagenum": "",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "",
+            "Jump": "",
+            "Animation": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 36.0,
+                "y": 16.0,
+                "z": 59.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 13.0,
+                "y": 1.0,
+                "z": 13.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://github.com/matvey-mayner/Eggode-Textures/raw/main/43bc70a0e62485b2fa93eddfea2fa4c7.png",
+            "id": "",
+            "Destroy": "",
+            "TpCord": "",
+            "Damagenum": "",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "",
+            "Jump": "",
+            "Animation": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 23.0,
+                "y": 16.0,
+                "z": 59.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 13.0,
+                "y": 1.0,
+                "z": 13.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://github.com/matvey-mayner/Eggode-Textures/raw/main/43bc70a0e62485b2fa93eddfea2fa4c7.png",
+            "id": "",
+            "Destroy": "",
+            "TpCord": "",
+            "Damagenum": "",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "",
+            "Jump": "",
+            "Animation": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 10.0,
+                "y": 16.0,
+                "z": 59.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 13.0,
+                "y": 1.0,
+                "z": 13.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://github.com/matvey-mayner/Eggode-Textures/raw/main/43bc70a0e62485b2fa93eddfea2fa4c7.png",
+            "id": "",
+            "Destroy": "",
+            "TpCord": "",
+            "Damagenum": "",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "",
+            "Jump": "",
+            "Animation": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -7.0,
+                "y": 17.0,
+                "z": 23.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 50.0,
+                "z": 87.0
+            },
+            "color": {
+                "r": 0.21960768103599549,
+                "g": 0.7529411911964417,
+                "b": 0.1372547447681427,
+                "a": 0.4196077883243561
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "id": "",
+            "Destroy": "",
+            "TpCord": "",
+            "Damagenum": "",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "",
+            "Jump": "",
+            "Animation": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 34.0,
+                "y": 17.0,
+                "z": -11.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 92.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 50.0,
+                "z": 87.0000228881836
+            },
+            "color": {
+                "r": 0.21960753202438355,
+                "g": 0.7529411911964417,
+                "b": 0.13725456595420838,
+                "a": 0.4196077883243561
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "id": "",
+            "Destroy": "",
+            "TpCord": "",
+            "Damagenum": "",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "",
+            "Jump": "",
+            "Animation": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 68.0,
+                "y": 17.0,
+                "z": 23.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 50.0,
+                "z": 87.0
+            },
+            "color": {
+                "r": 0.21960753202438355,
+                "g": 0.7529411911964417,
+                "b": 0.13725456595420838,
+                "a": 0.4196077883243561
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "id": "",
+            "Destroy": "",
+            "TpCord": "",
+            "Damagenum": "",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "",
+            "Jump": "",
+            "Animation": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 34.0,
+                "y": 17.0,
+                "z": 64.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 92.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 50.0,
+                "z": 87.00003051757813
+            },
+            "color": {
+                "r": 0.2196071445941925,
+                "g": 0.7529411911964417,
+                "b": 0.1372542679309845,
+                "a": 0.4196077883243561
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "id": "",
+            "Destroy": "",
+            "TpCord": "",
+            "Damagenum": "",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "",
+            "Jump": "",
+            "Animation": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 6.0,
+                "y": 25.0,
+                "z": 46.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 8.0,
+                "z": 23.0
+            },
+            "color": {
+                "r": 0.21568602323532105,
+                "g": 0.7529411911964417,
+                "b": 0.13333317637443543,
+                "a": 0.4196077883243561
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "id": "",
+            "Destroy": "",
+            "TpCord": "",
+            "Damagenum": "",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "",
+            "Jump": "",
+            "Animation": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -5.0,
+                "y": 18.0,
+                "z": 36.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 271.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 22.0,
+                "z": 23.0000057220459
+            },
+            "color": {
+                "r": 0.21568596363067628,
+                "g": 0.7529411911964417,
+                "b": 0.13333308696746827,
+                "a": 0.4196077883243561
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "id": "",
+            "Destroy": "",
+            "TpCord": "",
+            "Damagenum": "",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "",
+            "Jump": "",
+            "Animation": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 6.0,
+                "y": 18.0,
+                "z": 53.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 22.0,
+                "z": 29.0
+            },
+            "color": {
+                "r": 0.21568560600280763,
+                "g": 0.7529411911964417,
+                "b": 0.133332759141922,
+                "a": 0.4196077883243561
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "id": "",
+            "Destroy": "",
+            "TpCord": "",
+            "Damagenum": "",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "",
+            "Jump": "",
+            "Animation": ""
+        },
+        {
+            "folderLocation": "Player Items/stol",
+            "position": {
+                "x": -0.08935967087745667,
+                "y": 16.872236251831056,
+                "z": -8.123177528381348
+            },
+            "rotation": {
+                "x": 359.9923400878906,
+                "y": 0.4860060513019562,
+                "z": 359.9781494140625
+            },
+            "scale": {
+                "x": 11.221382141113282,
+                "y": 11.393370628356934,
+                "z": 50.50300598144531
+            },
+            "color": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "id": "",
+            "Destroy": "",
+            "TpCord": "",
+            "Damagenum": "",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "",
+            "Jump": "",
+            "Animation": ""
+        },
+        {
+            "folderLocation": "Player Items/СТУЛЬЧАК",
+            "position": {
+                "x": -0.00005528773181140423,
+                "y": 18.3074951171875,
+                "z": -4.999983310699463
+            },
+            "rotation": {
+                "x": 0.004504802171140909,
+                "y": 179.0015106201172,
+                "z": 0.0015816440572962165
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "id": "",
+            "Destroy": "",
+            "TpCord": "",
+            "Damagenum": "",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "",
+            "Jump": "",
+            "Animation": ""
+        },
+        {
+            "folderLocation": "Player Items/Ламповый телевизор",
+            "position": {
+                "x": -0.17721864581108094,
+                "y": 17.78806495666504,
+                "z": -8.67556381225586
+            },
+            "rotation": {
+                "x": 359.8954772949219,
+                "y": 344.5792236328125,
+                "z": 0.04131891578435898
+            },
+            "scale": {
+                "x": 85.90601348876953,
+                "y": 85.90599822998047,
+                "z": 85.90599060058594
+            },
+            "color": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "id": "",
+            "Destroy": "",
+            "TpCord": "",
+            "Damagenum": "",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "",
+            "Jump": "",
+            "Animation": ""
+        },
+        {
+            "folderLocation": "Player Items/Ящик",
+            "position": {
+                "x": -5.834606647491455,
+                "y": 17.150266647338868,
+                "z": 34.862876892089847
+            },
+            "rotation": {
+                "x": -0.0006858233828097582,
+                "y": 0.8888302445411682,
+                "z": -0.005277375224977732
+            },
+            "scale": {
+                "x": 1.3005000352859498,
+                "y": 1.3005000352859498,
+                "z": 1.3005000352859498
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": true,
+            "isRigidbody": true,
+            "isCollider": false,
+            "texture": "",
+            "id": "",
+            "Destroy": "",
+            "TpCord": "",
+            "Damagenum": "",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "",
+            "Jump": "",
+            "Animation": ""
+        },
+        {
+            "folderLocation": "Player Items/Ящик",
+            "position": {
+                "x": -5.83141565322876,
+                "y": 17.1502742767334,
+                "z": 33.14835739135742
+            },
+            "rotation": {
+                "x": 270.019775390625,
+                "y": 1.465690016746521,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.3004999160766602,
+                "y": 1.3005000352859498,
+                "z": 1.3004999160766602
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": true,
+            "isRigidbody": true,
+            "isCollider": false,
+            "texture": "",
+            "id": "",
+            "Destroy": "",
+            "TpCord": "",
+            "Damagenum": "",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "",
+            "Jump": "",
+            "Animation": ""
+        },
+        {
+            "folderLocation": "Player Items/Ящик",
+            "position": {
+                "x": -4.001856803894043,
+                "y": 17.15022850036621,
+                "z": 33.99872970581055
+            },
+            "rotation": {
+                "x": 0.005877383518964052,
+                "y": 0.010806933045387268,
+                "z": 0.07959327101707459
+            },
+            "scale": {
+                "x": 1.3005001544952393,
+                "y": 1.3005000352859498,
+                "z": 1.3004999160766602
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": true,
+            "isRigidbody": true,
+            "isCollider": false,
+            "texture": "",
+            "id": "",
+            "Destroy": "",
+            "TpCord": "",
+            "Damagenum": "",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "",
+            "Jump": "",
+            "Animation": ""
+        },
+        {
+            "folderLocation": "Player Items/Ящик",
+            "position": {
+                "x": -5.133982181549072,
+                "y": 18.45083999633789,
+                "z": 33.66923141479492
+            },
+            "rotation": {
+                "x": 0.011600920930504799,
+                "y": 326.9880676269531,
+                "z": 0.006851239129900932
+            },
+            "scale": {
+                "x": 1.3005001544952393,
+                "y": 1.3005000352859498,
+                "z": 1.3005001544952393
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": true,
+            "isRigidbody": true,
+            "isCollider": false,
+            "texture": "",
+            "id": "",
+            "Destroy": "",
+            "TpCord": "",
+            "Damagenum": "",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "",
+            "Jump": "",
+            "Animation": ""
+        },
+        {
+            "folderLocation": "Player Items/Ящик",
+            "position": {
+                "x": -1.000489354133606,
+                "y": 17.150249481201173,
+                "z": 32.000247955322269
+            },
+            "rotation": {
+                "x": -0.000003096061618634849,
+                "y": 359.98553466796877,
+                "z": 0.000004566980351228267
+            },
+            "scale": {
+                "x": 1.3005000352859498,
+                "y": 1.3005000352859498,
+                "z": 1.3005000352859498
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": true,
+            "isRigidbody": true,
+            "isCollider": false,
+            "texture": "",
+            "id": "",
+            "Destroy": "",
+            "TpCord": "",
+            "Damagenum": "",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "",
+            "Jump": "",
+            "Animation": ""
+        },
+        {
+            "folderLocation": "Player Items/Ящик",
+            "position": {
+                "x": -4.000115394592285,
+                "y": 17.150249481201173,
+                "z": 31.00008773803711
+            },
+            "rotation": {
+                "x": -0.000003099892182945041,
+                "y": -0.001950261415913701,
+                "z": 0.0000016554433841520222
+            },
+            "scale": {
+                "x": 1.3005000352859498,
+                "y": 1.3005000352859498,
+                "z": 1.3005000352859498
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": true,
+            "isRigidbody": true,
+            "isCollider": false,
+            "texture": "",
+            "id": "",
+            "Destroy": "",
+            "TpCord": "",
+            "Damagenum": "",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "",
+            "Jump": "",
+            "Animation": ""
+        },
+        {
+            "folderLocation": "Player Items/Ящик",
+            "position": {
+                "x": -2.4488162994384767,
+                "y": 17.150226593017579,
+                "z": 34.070472717285159
+            },
+            "rotation": {
+                "x": 89.93744659423828,
+                "y": 304.4337463378906,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.3005000352859498,
+                "y": 1.3005000352859498,
+                "z": 1.3005002737045289
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": true,
+            "isRigidbody": true,
+            "isCollider": false,
+            "texture": "",
+            "id": "",
+            "Destroy": "",
+            "TpCord": "",
+            "Damagenum": "",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "",
+            "Jump": "",
+            "Animation": ""
+        },
+        {
+            "folderLocation": "Player Items/Ящик",
+            "position": {
+                "x": 4.725973129272461,
+                "y": 17.150249481201173,
+                "z": 29.97344970703125
+            },
+            "rotation": {
+                "x": -5.044161071054987e-7,
+                "y": 357.3290710449219,
+                "z": 0.000004266021733201342
+            },
+            "scale": {
+                "x": 1.3005000352859498,
+                "y": 1.3005000352859498,
+                "z": 1.3005000352859498
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": true,
+            "isRigidbody": true,
+            "isCollider": false,
+            "texture": "",
+            "id": "",
+            "Destroy": "",
+            "TpCord": "",
+            "Damagenum": "",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "",
+            "Jump": "",
+            "Animation": ""
+        },
+        {
+            "folderLocation": "Player Items/Ящик",
+            "position": {
+                "x": -5.35070284968242e-7,
+                "y": 17.150249481201173,
+                "z": 28.0
+            },
+            "rotation": {
+                "x": -0.000003128412799924263,
+                "y": 0.0000029198201900726419,
+                "z": 0.000002312987817276735
+            },
+            "scale": {
+                "x": 1.3005000352859498,
+                "y": 1.3005000352859498,
+                "z": 1.3005000352859498
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": true,
+            "isRigidbody": true,
+            "isCollider": false,
+            "texture": "",
+            "id": "",
+            "Destroy": "",
+            "TpCord": "",
+            "Damagenum": "",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "",
+            "Jump": "",
+            "Animation": ""
+        },
+        {
+            "folderLocation": "Player Items/Ящик",
+            "position": {
+                "x": -4.4097487261751669e-7,
+                "y": 17.150249481201173,
+                "z": 34.0
+            },
+            "rotation": {
+                "x": -5.544583814298676e-7,
+                "y": 0.00000279468554253981,
+                "z": 0.000002743422101048054
+            },
+            "scale": {
+                "x": 1.3005000352859498,
+                "y": 1.3005000352859498,
+                "z": 1.3005000352859498
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": true,
+            "isRigidbody": true,
+            "isCollider": false,
+            "texture": "",
+            "id": "",
+            "Destroy": "",
+            "TpCord": "",
+            "Damagenum": "",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "",
+            "Jump": "",
+            "Animation": ""
+        },
+        {
+            "folderLocation": "Player Items/Ящик",
+            "position": {
+                "x": 0.9998661279678345,
+                "y": 17.150249481201173,
+                "z": 32.0001220703125
+            },
+            "rotation": {
+                "x": -4.835012532566907e-7,
+                "y": -0.002822787966579199,
+                "z": 0.0000029776274459436537
+            },
+            "scale": {
+                "x": 1.3005000352859498,
+                "y": 1.3005000352859498,
+                "z": 1.3005000352859498
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": true,
+            "isRigidbody": true,
+            "isCollider": false,
+            "texture": "",
+            "id": "",
+            "Destroy": "",
+            "TpCord": "",
+            "Damagenum": "",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "",
+            "Jump": "",
+            "Animation": ""
+        },
+        {
+            "folderLocation": "Player Items/Ящик",
+            "position": {
+                "x": 2.999999761581421,
+                "y": 17.150249481201173,
+                "z": 32.0
+            },
+            "rotation": {
+                "x": -0.0000012727261946565705,
+                "y": -8.333874461641244e-7,
+                "z": 0.0000028637600735237358
+            },
+            "scale": {
+                "x": 1.3005000352859498,
+                "y": 1.3005000352859498,
+                "z": 1.3005000352859498
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": true,
+            "isRigidbody": true,
+            "isCollider": false,
+            "texture": "",
+            "id": "",
+            "Destroy": "",
+            "TpCord": "",
+            "Damagenum": "",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "",
+            "Jump": "",
+            "Animation": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 6.0,
+                "y": 18.0,
+                "z": 24.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 22.0,
+                "z": 23.0
+            },
+            "color": {
+                "r": 0.21568560600280763,
+                "g": 0.7529411911964417,
+                "b": 0.133332759141922,
+                "a": 0.4196077883243561
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "id": "",
+            "Destroy": "",
+            "TpCord": "",
+            "Damagenum": "",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "",
+            "Jump": "",
+            "Animation": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 6.0,
+                "y": 25.0,
+                "z": 22.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 8.0,
+                "z": 23.0
+            },
+            "color": {
+                "r": 0.21568602323532105,
+                "g": 0.7529411911964417,
+                "b": 0.13333317637443543,
+                "a": 0.4196077883243561
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "id": "",
+            "Destroy": "",
+            "TpCord": "",
+            "Damagenum": "",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "",
+            "Jump": "",
+            "Animation": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -1.100000023841858,
+                "y": 16.5,
+                "z": 46.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 89.69999694824219,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 12.60000991821289,
+                "y": 0.10000000149011612,
+                "z": 8.100003242492676
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://github.com/matvey-mayner/Eggode-Textures/raw/main/kover1.png",
+            "id": "",
+            "Destroy": "",
+            "TpCord": "",
+            "Damagenum": "",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "",
+            "Jump": "",
+            "Animation": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 58.0,
+                "y": 18.0,
+                "z": 1.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 270.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 22.0,
+                "z": 4.999999046325684
+            },
+            "color": {
+                "r": 0.8823529481887817,
+                "g": 0.8823529481887817,
+                "b": 0.8823529481887817,
+                "a": 0.4196077883243561
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "id": "",
+            "Destroy": "",
+            "TpCord": "",
+            "Damagenum": "",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "",
+            "Jump": "",
+            "Animation": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 6.0,
+                "y": 18.0,
+                "z": -1.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 22.0,
+                "z": 23.0
+            },
+            "color": {
+                "r": 0.21176445484161378,
+                "g": 0.7529411911964417,
+                "b": 0.12941163778305055,
+                "a": 0.4196077883243561
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "id": "",
+            "Destroy": "",
+            "TpCord": "",
+            "Damagenum": "",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "",
+            "Jump": "",
+            "Animation": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 67.0,
+                "y": 18.0,
+                "z": -11.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 267.99993896484377,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 22.0,
+                "z": 22.999998092651368
+            },
+            "color": {
+                "r": 0.8823529481887817,
+                "g": 0.8823529481887817,
+                "b": 0.8823529481887817,
+                "a": 0.4196077883243561
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "id": "",
+            "Destroy": "",
+            "TpCord": "",
+            "Damagenum": "",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "",
+            "Jump": "",
+            "Animation": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 55.0,
+                "y": 18.0,
+                "z": -10.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 22.0,
+                "z": 23.0
+            },
+            "color": {
+                "r": 0.8823529481887817,
+                "g": 0.8823529481887817,
+                "b": 0.8823529481887817,
+                "a": 0.4196077883243561
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "id": "",
+            "Destroy": "",
+            "TpCord": "",
+            "Damagenum": "",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "",
+            "Jump": "",
+            "Animation": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 67.0,
+                "y": 18.0,
+                "z": -10.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 22.0,
+                "z": 23.0
+            },
+            "color": {
+                "r": 0.8823529481887817,
+                "g": 0.8823529481887817,
+                "b": 0.8823529481887817,
+                "a": 0.4196077883243561
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "id": "",
+            "Destroy": "",
+            "TpCord": "",
+            "Damagenum": "",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "",
+            "Jump": "",
+            "Animation": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 74.0,
+                "y": 18.0,
+                "z": 1.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 270.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 22.0,
+                "z": 22.9999942779541
+            },
+            "color": {
+                "r": 0.8823529481887817,
+                "g": 0.8823529481887817,
+                "b": 0.8823529481887817,
+                "a": 0.4196077883243561
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "id": "",
+            "Destroy": "",
+            "TpCord": "",
+            "Damagenum": "",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "",
+            "Jump": "",
+            "Animation": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 62.0,
+                "y": 24.0,
+                "z": 1.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 5.0,
+                "y": 8.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 0.8823529481887817,
+                "g": 0.8823529481887817,
+                "b": 0.8823529481887817,
+                "a": 0.4196077883243561
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "id": "",
+            "Destroy": "",
+            "TpCord": "",
+            "Damagenum": "",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "",
+            "Jump": "",
+            "Animation": ""
+        },
+        {
+            "folderLocation": "mapcreator/Cylinder",
+            "position": {
+                "x": 57.0,
+                "y": 16.600000381469728,
+                "z": -1.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 0.4196077883243561
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "id": "",
+            "Destroy": "",
+            "TpCord": "",
+            "Damagenum": "",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "",
+            "Jump": "",
+            "Animation": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 56.5,
+                "y": 18.100000381469728,
+                "z": -1.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 269.5999755859375
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 0.4000000059604645,
+                "z": 1.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 0.4196077883243561
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "id": "",
+            "Destroy": "",
+            "TpCord": "",
+            "Damagenum": "",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "",
+            "Jump": "",
+            "Animation": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 57.099998474121097,
+                "y": 17.399999618530275,
+                "z": -1.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 0.4000000059604645,
+                "z": 1.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 0.4196077883243561
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "id": "",
+            "Destroy": "",
+            "TpCord": "",
+            "Damagenum": "",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "",
+            "Jump": "",
+            "Animation": ""
+        },
+        {
+            "folderLocation": "mapcreator/Sphere",
+            "position": {
+                "x": 57.099998474121097,
+                "y": 17.600000381469728,
+                "z": -1.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.399999976158142,
+                "y": 0.20000000298023225,
+                "z": 1.2999999523162842
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 0.4196077883243561
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "id": "",
+            "Destroy": "",
+            "TpCord": "",
+            "Damagenum": "",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "",
+            "Jump": "",
+            "Animation": ""
+        },
+        {
+            "folderLocation": "mapcreator/Sphere",
+            "position": {
+                "x": 56.5,
+                "y": 18.299999237060548,
+                "z": -1.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.4000000059604645,
+                "y": 0.699999988079071,
+                "z": 0.30000001192092898
+            },
+            "color": {
+                "r": 0.4823529124259949,
+                "g": 0.4823529124259949,
+                "b": 0.4823529124259949,
+                "a": 0.4196077883243561
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "id": "",
+            "Destroy": "",
+            "TpCord": "",
+            "Damagenum": "",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "",
+            "Jump": "",
+            "Animation": ""
+        },
+        {
+            "folderLocation": "Player Items/stol",
+            "position": {
+                "x": -0.5999133586883545,
+                "y": 16.872392654418947,
+                "z": 63.39987564086914
+            },
+            "rotation": {
+                "x": 359.99005126953127,
+                "y": -0.00023088928719516844,
+                "z": 359.9891662597656
+            },
+            "scale": {
+                "x": 11.221380233764649,
+                "y": 11.393366813659668,
+                "z": 50.50299835205078
+            },
+            "color": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "id": "",
+            "Destroy": "",
+            "TpCord": "",
+            "Damagenum": "",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "",
+            "Jump": "",
+            "Animation": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -0.699999988079071,
+                "y": 17.399999618530275,
+                "z": -7.599999904632568
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.5,
+                "y": 0.0,
+                "z": 0.20000000298023225
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": true,
+            "isCollider": false,
+            "texture": "https://img.freepik.com/premium-vector/vector-illustration-of-golden-key-isolated_117553-17.jpg?w=740",
+            "id": "",
+            "Destroy": "3",
+            "TpCord": "",
+            "Damagenum": "",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "",
+            "Jump": "",
+            "Animation": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 36.29999923706055,
+                "y": 18.399999618530275,
+                "z": 63.900001525878909
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 180.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 3.799999952316284,
+                "z": 1.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": true,
+            "texture": "https://github.com/matvey-mayner/Eggode-Textures/raw/main/bsgfdgndgfhd.png",
+            "id": "",
+            "Destroy": "monster",
+            "TpCord": "165,138,94",
+            "Damagenum": "",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "",
+            "Jump": "",
+            "Animation": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 36.29999923706055,
+                "y": 18.399999618530275,
+                "z": 63.5
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 180.0
+            },
+            "scale": {
+                "x": 1.100000023841858,
+                "y": 3.799999952316284,
+                "z": 0.4000000059604645
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://oer.mon.bg/files/original/571403549fbfb5929b958876bed37e2d2f84f241.png",
+            "id": "1",
+            "Destroy": "",
+            "TpCord": "",
+            "Damagenum": "",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "",
+            "Jump": "",
+            "Animation": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 3.0,
+                "y": 18.0,
+                "z": -7.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 2.0,
+                "y": 3.0,
+                "z": 0.10000000149011612
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": true,
+            "texture": "https://static.wikia.nocookie.net/angry-neighbor/images/0/02/NeighborRight.png/revision/latest?cb=20220422030325",
+            "id": "monster",
+            "Destroy": "",
+            "TpCord": "",
+            "Damagenum": "1000",
+            "copy": "",
+            "II": true,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "",
+            "Jump": "",
+            "Animation": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 6.099999904632568,
+                "y": 19.0,
+                "z": 37.5
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 5.0,
+                "z": 3.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://oer.mon.bg/files/original/571403549fbfb5929b958876bed37e2d2f84f241.png",
+            "id": "3",
+            "Destroy": "",
+            "TpCord": "",
+            "Damagenum": "",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "",
+            "Jump": "",
+            "Animation": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -0.8999999761581421,
+                "y": 17.399999618530275,
+                "z": 63.400001525878909
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.5,
+                "y": 0.0,
+                "z": 0.20000000298023225
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": true,
+            "isCollider": false,
+            "texture": "https://img.freepik.com/premium-vector/vector-illustration-of-golden-key-isolated_117553-17.jpg?w=740",
+            "id": "",
+            "Destroy": "1",
+            "TpCord": "",
+            "Damagenum": "",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "",
+            "Jump": "",
+            "Animation": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 166.0,
+                "y": 133.0,
+                "z": 226.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 118.0,
+                "y": 1.0,
+                "z": 59.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://github.com/matvey-mayner/Eggode-Textures/raw/main/grass-2.png",
+            "id": "",
+            "Destroy": "",
+            "TpCord": "",
+            "Damagenum": "",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "",
+            "Jump": "",
+            "Animation": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 166.0,
+                "y": 133.0,
+                "z": 167.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 118.0,
+                "y": 1.0,
+                "z": 59.0
+            },
+            "color": {
+                "r": 0.4823529124259949,
+                "g": 0.4823529124259949,
+                "b": 0.4823529124259949,
+                "a": 0.4196077883243561
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "id": "",
+            "Destroy": "",
+            "TpCord": "",
+            "Damagenum": "",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "",
+            "Jump": "",
+            "Animation": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 166.0,
+                "y": 133.0,
+                "z": 108.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 118.0,
+                "y": 1.0,
+                "z": 59.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://github.com/matvey-mayner/Eggode-Textures/raw/main/grass-2.png",
+            "id": "",
+            "Destroy": "",
+            "TpCord": "",
+            "Damagenum": "",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "",
+            "Jump": "",
+            "Animation": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 169.0,
+                "y": 143.0,
+                "z": 84.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 99.0,
+                "y": 47.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://static.wikia.nocookie.net/hello-neighbor-game/images/d/dc/%D0%94%D0%BE%D0%BC_%D1%81%D0%BE%D1%81%D0%B5%D0%B4%D0%B0_%D0%B2_%D0%B0%D0%BA%D1%82%D0%B0%D1%85_1-2.jpg/revision/latest/scale-to-width-down/1000?cb=20171209114214&path-prefix=ru",
+            "id": "",
+            "Destroy": "",
+            "TpCord": "",
+            "Damagenum": "",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "",
+            "Jump": "",
+            "Animation": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 149.0,
+                "y": 142.0,
+                "z": 234.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 181.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 52.0000114440918,
+                "y": 34.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://static.wikia.nocookie.net/hello-neighbor-game/images/6/65/HelloNeighbor_09.12.2017_14_12_38.png/revision/latest?cb=20171209081642&path-prefix=ru",
+            "id": "",
+            "Destroy": "",
+            "TpCord": "",
+            "Damagenum": "",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "",
+            "Jump": "",
+            "Animation": ""
+        },
+        {
+            "folderLocation": "mapcreator/trigger",
+            "position": {
+                "x": 143.39999389648438,
+                "y": 136.0,
+                "z": 234.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 3.0,
+                "y": 7.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 0.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": true,
+            "texture": "",
+            "id": "",
+            "Destroy": "",
+            "TpCord": "179,106,170",
+            "Damagenum": "",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "",
+            "Jump": "",
+            "Animation": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 178.0,
+                "y": 110.0,
+                "z": 174.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 16.0,
+                "y": 1.0,
+                "z": 16.0
+            },
+            "color": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 1.0,
+                "a": 0.4196077883243561
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "id": "",
+            "Destroy": "",
+            "TpCord": "",
+            "Damagenum": "",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "",
+            "Jump": "",
+            "Animation": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 172.0,
+                "y": 106.0,
+                "z": 174.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 270.0
+            },
+            "scale": {
+                "x": 16.0,
+                "y": 1.0,
+                "z": 16.0
+            },
+            "color": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 1.0,
+                "a": 0.4196077883243561
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "id": "",
+            "Destroy": "",
+            "TpCord": "",
+            "Damagenum": "",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "",
+            "Jump": "",
+            "Animation": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 178.0,
+                "y": 103.0,
+                "z": 174.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 16.0,
+                "y": 1.0,
+                "z": 16.0
+            },
+            "color": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 1.0,
+                "a": 0.4196077883243561
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "id": "",
+            "Destroy": "",
+            "TpCord": "",
+            "Damagenum": "",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "",
+            "Jump": "",
+            "Animation": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 178.0,
+                "y": 106.0,
+                "z": 166.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 270.0
+            },
+            "scale": {
+                "x": 16.0,
+                "y": 1.0,
+                "z": 16.0
+            },
+            "color": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 1.0,
+                "a": 0.4196077883243561
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "id": "",
+            "Destroy": "",
+            "TpCord": "",
+            "Damagenum": "",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "",
+            "Jump": "",
+            "Animation": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 185.0,
+                "y": 106.0,
+                "z": 174.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 270.0
+            },
+            "scale": {
+                "x": 16.0,
+                "y": 1.0,
+                "z": 16.0
+            },
+            "color": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 1.0,
+                "a": 0.4196077883243561
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "id": "",
+            "Destroy": "",
+            "TpCord": "",
+            "Damagenum": "",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "",
+            "Jump": "",
+            "Animation": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 178.0,
+                "y": 106.0,
+                "z": 181.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 270.0
+            },
+            "scale": {
+                "x": 16.0,
+                "y": 1.0,
+                "z": 16.0
+            },
+            "color": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 1.0,
+                "a": 0.4196077883243561
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "id": "",
+            "Destroy": "",
+            "TpCord": "",
+            "Damagenum": "",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "",
+            "Jump": "",
+            "Animation": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 179.0,
+                "y": 106.0,
+                "z": 177.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 8.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://github.com/matvey-mayner/Eggode-Textures/raw/main/cooltext455424555288250.png",
+            "id": "",
+            "Destroy": "",
+            "TpCord": "",
+            "Damagenum": "",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "",
+            "Jump": "",
+            "Animation": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 31.0,
+                "y": 25.0,
+                "z": 25.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 90.0,
+                "y": 1.0,
+                "z": 115.0
+            },
+            "color": {
+                "r": 0.4823529124259949,
+                "g": 0.4823529124259949,
+                "b": 0.4823529124259949,
+                "a": 0.4196077883243561
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "id": "",
+            "Destroy": "",
+            "TpCord": "",
+            "Damagenum": "",
+            "copy": "",
+            "II": false,
+            "SetSize": "",
+            "PlayAnim": "",
+            "Speed": "",
+            "Jump": "",
+            "Animation": ""
+        }
+    ]
+}

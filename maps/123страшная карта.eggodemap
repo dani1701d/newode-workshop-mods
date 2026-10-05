@@ -1,0 +1,1618 @@
+{
+    "mapname": "страшная карта",
+    "author": "soniccd5",
+    "objects": [
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 0.0,
+                "y": -1.0,
+                "z": 13.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": -20.0,
+                "y": 1.0,
+                "z": -44.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://maxtextures.ru/assets/images/resources/186/rocky-ground-01-250cm-color-4k.jpg",
+            "id": "",
+            "Destroy": "",
+            "TpCord": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -9.0,
+                "y": -1.0,
+                "z": 56.0
+            },
+            "rotation": {
+                "x": 15.000019073486329,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": -15.0,
+                "z": 47.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://fotovdom.ru/upload/iblock/55a/55a7625bf03ecdbef80971242bd206d4.jpg ",
+            "id": "",
+            "Destroy": "",
+            "TpCord": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 0.0,
+                "y": 6.0,
+                "z": -9.0
+            },
+            "rotation": {
+                "x": 337.5,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": -20.0,
+                "y": -17.999998092651368,
+                "z": 1.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://fotovdom.ru/upload/iblock/55a/55a7625bf03ecdbef80971242bd206d4.jpg",
+            "id": "",
+            "Destroy": "",
+            "TpCord": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -9.0,
+                "y": 6.0,
+                "z": 11.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": -15.0,
+                "z": 47.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://fotovdom.ru/upload/iblock/55a/55a7625bf03ecdbef80971242bd206d4.jpg",
+            "id": "",
+            "Destroy": "",
+            "TpCord": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 0.0,
+                "y": 14.0,
+                "z": 8.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": -19.0,
+                "y": 1.0,
+                "z": -41.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": -1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": true,
+            "texture": "https://maxtextures.ru/assets/images/resources/186/rocky-ground-01-250cm-color-4k.jpg",
+            "id": "",
+            "Destroy": "",
+            "TpCord": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 0.0,
+                "y": -6.0,
+                "z": 44.0
+            },
+            "rotation": {
+                "x": 20.000009536743165,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": -19.0,
+                "y": -5.0,
+                "z": -21.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://maxtextures.ru/assets/images/resources/186/rocky-ground-01-250cm-color-4k.jpg",
+            "id": "",
+            "Destroy": "",
+            "TpCord": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 0.0,
+                "y": 10.0,
+                "z": 37.0
+            },
+            "rotation": {
+                "x": 20.000009536743165,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": -19.0,
+                "y": -5.0,
+                "z": -52.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://kartinki.pics/uploads/posts/2021-07/1627123239_18-kartinkin-com-p-tekstura-kamnya-dlya-yuniti-krasivo-19.jpg",
+            "id": "",
+            "Destroy": "",
+            "TpCord": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 0.0,
+                "y": -1.0,
+                "z": 82.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": -17.0,
+                "y": 1.0,
+                "z": -42.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://maxtextures.ru/assets/images/resources/186/rocky-ground-01-250cm-color-4k.jpg",
+            "id": "",
+            "Destroy": "",
+            "TpCord": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 0.0,
+                "y": -7.0,
+                "z": 62.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": -17.0,
+                "y": 1.0,
+                "z": -31.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://maxtextures.ru/assets/images/resources/186/rocky-ground-01-250cm-color-4k.jpg",
+            "id": "",
+            "Destroy": "",
+            "TpCord": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 9.0,
+                "y": 6.0,
+                "z": 11.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": -15.0,
+                "z": 47.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://fotovdom.ru/upload/iblock/55a/55a7625bf03ecdbef80971242bd206d4.jpg",
+            "id": "",
+            "Destroy": "",
+            "TpCord": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 9.0,
+                "y": -1.0,
+                "z": 57.0
+            },
+            "rotation": {
+                "x": 15.000019073486329,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": -15.0,
+                "z": 47.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://fotovdom.ru/upload/iblock/55a/55a7625bf03ecdbef80971242bd206d4.jpg ",
+            "id": "",
+            "Destroy": "",
+            "TpCord": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 8.0,
+                "y": -32.9999885559082,
+                "z": 87.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 270.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": -19.999996185302736,
+                "y": -63.0,
+                "z": -1.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://abrakadabra.fun/uploads/posts/2022-03/1648211906_5-abrakadabra-fun-p-tekstura-gori-besshovnaya-12.jpg",
+            "id": "",
+            "Destroy": "",
+            "TpCord": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 20.0,
+                "y": -72.9999771118164,
+                "z": 88.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": -61.0,
+                "y": -1.0,
+                "z": -21.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://abrakadabra.fun/uploads/posts/2022-03/1648211886_22-abrakadabra-fun-p-tekstura-gori-besshovnaya-48.jpg",
+            "id": "",
+            "Destroy": "",
+            "TpCord": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 0.0,
+                "y": -36.9999885559082,
+                "z": 77.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": -17.0,
+                "y": -61.0,
+                "z": -1.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://abrakadabra.fun/uploads/posts/2022-03/1648211906_5-abrakadabra-fun-p-tekstura-gori-besshovnaya-12.jpg",
+            "id": "",
+            "Destroy": "",
+            "TpCord": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 0.0,
+                "y": -36.9999885559082,
+                "z": 97.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": -17.0,
+                "y": -73.0,
+                "z": -1.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://abrakadabra.fun/uploads/posts/2022-03/1648211906_5-abrakadabra-fun-p-tekstura-gori-besshovnaya-12.jpg ",
+            "id": "",
+            "Destroy": "",
+            "TpCord": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -8.0,
+                "y": -36.9999885559082,
+                "z": 87.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 270.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": -20.999967575073243,
+                "y": -73.0,
+                "z": -1.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://abrakadabra.fun/uploads/posts/2022-03/1648211906_5-abrakadabra-fun-p-tekstura-gori-besshovnaya-12.jpg",
+            "id": "",
+            "Destroy": "",
+            "TpCord": ""
+        },
+        {
+            "folderLocation": "mapcreator/плакат1",
+            "position": {
+                "x": 9.0,
+                "y": 7.0,
+                "z": 35.0
+            },
+            "rotation": {
+                "x": 7.500000476837158,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.0010000000474974514,
+                "y": 3.40295672416687,
+                "z": 5.000004768371582
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://steamuserimages-a.akamaihd.net/ugc/2176987608713283508/5E0A9758BF6079ADF07FD6862ACA8556877ECC3D/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false",
+            "id": "",
+            "Destroy": "",
+            "TpCord": ""
+        },
+        {
+            "folderLocation": "mapcreator/плакат1",
+            "position": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": -6.0
+            },
+            "rotation": {
+                "x": -0.0000017075473124350538,
+                "y": 300.0,
+                "z": 70.0
+            },
+            "scale": {
+                "x": 0.0010000000474974514,
+                "y": 1.4029539823532105,
+                "z": 1.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": true,
+            "isCollider": false,
+            "texture": "https://www.epicsusgames.com/avatarki_users/123cat_skin_imba_ava_hahahahah.gif",
+            "id": "",
+            "Destroy": "",
+            "TpCord": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -1.0,
+                "y": -68.99999237060547,
+                "z": 96.0
+            },
+            "rotation": {
+                "x": -0.000005008962034480646,
+                "y": 270.0,
+                "z": 180.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": -9.0,
+                "z": -19.999996185302736
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://avatars.dzeninfra.ru/get-zen_doc/271828/pub_6559dd691e1bd141ad1ea0e8_6559e95165e2fc0570b57fbf/scale_1200",
+            "id": "",
+            "Destroy": "",
+            "TpCord": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -7.0,
+                "y": -68.99999237060547,
+                "z": 89.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 180.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": -8.999999046325684,
+                "z": -25.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://vrgames.by/sites/default/files/granny_9.jpg",
+            "id": "",
+            "Destroy": "",
+            "TpCord": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -2.0,
+                "y": -68.99999237060547,
+                "z": 79.0
+            },
+            "rotation": {
+                "x": -0.0000050089647629647519,
+                "y": 270.0,
+                "z": 180.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": -9.0,
+                "z": -19.999996185302736
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://www.epicsusgames.com/avatarki_users/1cat_skin_imba_ava_hahahahah.gif",
+            "id": "",
+            "Destroy": "",
+            "TpCord": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 0.0,
+                "y": -63.99998092651367,
+                "z": 88.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": -18.0,
+                "y": -1.0,
+                "z": -21.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": true,
+            "texture": "https://txtrs.ru/textures/stone/stone-2-1.jpg",
+            "id": "",
+            "Destroy": "",
+            "TpCord": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 9.000001907348633,
+                "y": -68.5,
+                "z": 87.9000473022461
+            },
+            "rotation": {
+                "x": 0.8000068068504334,
+                "y": 270.0,
+                "z": 270.0
+            },
+            "scale": {
+                "x": 7.900001049041748,
+                "y": 5.199999809265137,
+                "z": 0.20000003278255464
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": true,
+            "isCollider": false,
+            "texture": "https://i.pinimg.com/474x/56/28/04/562804e34bfae2b4c787b098791848a4.jpg",
+            "id": "",
+            "Destroy": "",
+            "TpCord": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 8.0,
+                "y": -68.69999694824219,
+                "z": 96.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 8.30000114440918,
+                "z": 11.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://kartinki.pics/uploads/posts/2021-07/1627237839_1-kartinkin-com-p-staraya-tekstura-bulizhnika-mainkraft-kras-1.jpg",
+            "id": "",
+            "Destroy": "",
+            "TpCord": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 8.0,
+                "y": -68.69999694824219,
+                "z": 80.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 8.30000114440918,
+                "z": 11.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://kartinki.pics/uploads/posts/2021-07/1627237839_1-kartinkin-com-p-staraya-tekstura-bulizhnika-mainkraft-kras-1.jpg",
+            "id": "",
+            "Destroy": "",
+            "TpCord": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": -0.20000000298023225,
+                "y": 2.200000047683716,
+                "z": 6.400000095367432
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 7.400000095367432,
+                "y": 5.199999809265137,
+                "z": 0.10000000149011612
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": true,
+            "isCollider": false,
+            "texture": "https://junior3d.ru/texture/%D0%9A%D0%B0%D0%BC%D0%B5%D0%BD%D1%8C/%D0%9A%D0%BB%D0%B0%D0%B4%D0%BA%D0%B0%D0%98%D0%B7%D0%9A%D0%B0%D0%BC%D0%BD%D1%8F/%D0%BA%D0%BB%D0%B0%D0%B4%D0%BA%D0%B0-%D0%BA%D0%B0%D0%BC%D0%BD%D1%8F_1.jpg",
+            "id": "",
+            "Destroy": "",
+            "TpCord": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 20.200000762939454,
+                "y": -68.0,
+                "z": 93.9000015258789
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": -23.700000762939454,
+                "y": -9.10000228881836,
+                "z": 1.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://mcpehub.org/uploads/posts/2020-11/1604488567_voxets-block-variants-squint-a-little_5.png",
+            "id": "",
+            "Destroy": "",
+            "TpCord": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 20.200000762939454,
+                "y": -68.0,
+                "z": 81.9000015258789
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": -23.700000762939454,
+                "y": -9.10000228881836,
+                "z": 1.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://mcpehub.org/uploads/posts/2020-11/1604488567_voxets-block-variants-squint-a-little_5.png",
+            "id": "",
+            "Destroy": "",
+            "TpCord": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 134.6999969482422,
+                "y": -64.0,
+                "z": 87.9000015258789
+            },
+            "rotation": {
+                "x": 270.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": -23.700000762939454,
+                "y": -13.100003242492676,
+                "z": -0.5
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://mcpehub.org/uploads/posts/2020-11/1604488567_voxets-block-variants-squint-a-little_5.png",
+            "id": "",
+            "Destroy": "",
+            "TpCord": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 134.1999969482422,
+                "y": -68.0,
+                "z": 93.9000015258789
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": -23.700000762939454,
+                "y": -9.10000228881836,
+                "z": 1.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://mcpehub.org/uploads/posts/2020-11/1604488567_voxets-block-variants-squint-a-little_5.png",
+            "id": "",
+            "Destroy": "",
+            "TpCord": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 66.19999694824219,
+                "y": -68.0,
+                "z": 81.9000015258789
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": -23.700000762939454,
+                "y": -9.10000228881836,
+                "z": 1.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://mcpehub.org/uploads/posts/2020-11/1604488567_voxets-block-variants-squint-a-little_5.png",
+            "id": "",
+            "Destroy": "",
+            "TpCord": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 20.700000762939454,
+                "y": -64.0,
+                "z": 87.9000015258789
+            },
+            "rotation": {
+                "x": 270.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": -23.700000762939454,
+                "y": -13.100003242492676,
+                "z": -0.5
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://mcpehub.org/uploads/posts/2020-11/1604488567_voxets-block-variants-squint-a-little_5.png",
+            "id": "",
+            "Destroy": "",
+            "TpCord": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 63.0,
+                "y": -72.9999771118164,
+                "z": 88.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": -25.0,
+                "y": -1.0,
+                "z": -21.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": true,
+            "texture": "https://abrakadabra.fun/uploads/posts/2022-03/1648211886_22-abrakadabra-fun-p-tekstura-gori-besshovnaya-48.jpg",
+            "id": "",
+            "Destroy": "",
+            "TpCord": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 106.0,
+                "y": -72.9999771118164,
+                "z": 88.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": -61.0,
+                "y": -1.0,
+                "z": -21.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://abrakadabra.fun/uploads/posts/2022-03/1648211886_22-abrakadabra-fun-p-tekstura-gori-besshovnaya-48.jpg",
+            "id": "",
+            "Destroy": "",
+            "TpCord": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 43.20000076293945,
+                "y": -68.0,
+                "z": 81.9000015258789
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": -23.700000762939454,
+                "y": -9.10000228881836,
+                "z": 1.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://mcpehub.org/uploads/posts/2020-11/1604488567_voxets-block-variants-squint-a-little_5.png",
+            "id": "",
+            "Destroy": "",
+            "TpCord": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 134.1999969482422,
+                "y": -68.0,
+                "z": 81.9000015258789
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": -23.700000762939454,
+                "y": -9.10000228881836,
+                "z": 1.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://mcpehub.org/uploads/posts/2020-11/1604488567_voxets-block-variants-squint-a-little_5.png",
+            "id": "",
+            "Destroy": "",
+            "TpCord": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 89.19999694824219,
+                "y": -68.0,
+                "z": 81.9000015258789
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": -23.700000762939454,
+                "y": -9.10000228881836,
+                "z": 1.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://mcpehub.org/uploads/posts/2020-11/1604488567_voxets-block-variants-squint-a-little_5.png",
+            "id": "",
+            "Destroy": "",
+            "TpCord": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 112.19999694824219,
+                "y": -68.0,
+                "z": 81.9000015258789
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": -23.700000762939454,
+                "y": -9.10000228881836,
+                "z": 1.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://mcpehub.org/uploads/posts/2020-11/1604488567_voxets-block-variants-squint-a-little_5.png",
+            "id": "",
+            "Destroy": "",
+            "TpCord": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 43.20000076293945,
+                "y": -68.0,
+                "z": 93.9000015258789
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": -23.700000762939454,
+                "y": -9.10000228881836,
+                "z": 1.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://mcpehub.org/uploads/posts/2020-11/1604488567_voxets-block-variants-squint-a-little_5.png",
+            "id": "",
+            "Destroy": "",
+            "TpCord": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 66.19999694824219,
+                "y": -68.0,
+                "z": 93.9000015258789
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": -23.700000762939454,
+                "y": -9.10000228881836,
+                "z": 1.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://mcpehub.org/uploads/posts/2020-11/1604488567_voxets-block-variants-squint-a-little_5.png",
+            "id": "",
+            "Destroy": "",
+            "TpCord": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 89.19999694824219,
+                "y": -68.0,
+                "z": 93.9000015258789
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": -23.700000762939454,
+                "y": -9.10000228881836,
+                "z": 1.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://mcpehub.org/uploads/posts/2020-11/1604488567_voxets-block-variants-squint-a-little_5.png",
+            "id": "",
+            "Destroy": "",
+            "TpCord": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 112.19999694824219,
+                "y": -68.0,
+                "z": 93.9000015258789
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": -23.700000762939454,
+                "y": -9.10000228881836,
+                "z": 1.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://mcpehub.org/uploads/posts/2020-11/1604488567_voxets-block-variants-squint-a-little_5.png",
+            "id": "",
+            "Destroy": "",
+            "TpCord": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 43.70000076293945,
+                "y": -64.0,
+                "z": 87.9000015258789
+            },
+            "rotation": {
+                "x": 270.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": -23.700000762939454,
+                "y": -13.100003242492676,
+                "z": -0.5
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://mcpehub.org/uploads/posts/2020-11/1604488567_voxets-block-variants-squint-a-little_5.png",
+            "id": "",
+            "Destroy": "",
+            "TpCord": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 66.69999694824219,
+                "y": -64.0,
+                "z": 87.9000015258789
+            },
+            "rotation": {
+                "x": 270.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": -23.700000762939454,
+                "y": -13.100003242492676,
+                "z": -0.5
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://mcpehub.org/uploads/posts/2020-11/1604488567_voxets-block-variants-squint-a-little_5.png",
+            "id": "",
+            "Destroy": "",
+            "TpCord": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 88.69999694824219,
+                "y": -64.0,
+                "z": 87.9000015258789
+            },
+            "rotation": {
+                "x": 270.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": -23.700000762939454,
+                "y": -13.100003242492676,
+                "z": -0.5
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://mcpehub.org/uploads/posts/2020-11/1604488567_voxets-block-variants-squint-a-little_5.png",
+            "id": "",
+            "Destroy": "",
+            "TpCord": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 111.69999694824219,
+                "y": -64.0,
+                "z": 87.9000015258789
+            },
+            "rotation": {
+                "x": 270.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": -23.700000762939454,
+                "y": -13.100003242492676,
+                "z": -0.5
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://mcpehub.org/uploads/posts/2020-11/1604488567_voxets-block-variants-squint-a-little_5.png",
+            "id": "",
+            "Destroy": "",
+            "TpCord": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 135.0,
+                "y": -68.0,
+                "z": 87.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": -15.0,
+                "z": -19.0
+            },
+            "color": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "id": "",
+            "Destroy": "",
+            "TpCord": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 62.200111389160159,
+                "y": -79.19989013671875,
+                "z": 99.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 12.199999809265137,
+                "z": 28.799999237060548
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 0.4196077883243561
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://play-lh.googleusercontent.com/XPM8u_fQrERAQFNp1byQgCphu6_q_WSrJutTm2PF9iQBYbOhVu3ubliUxHaoZVdhyro=w526-h296-rw",
+            "id": "",
+            "Destroy": "",
+            "TpCord": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 75.99999237060547,
+                "y": -79.3998794555664,
+                "z": 89.2000732421875
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 12.199999809265137,
+                "z": 21.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 0.4196077883243561
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://play-lh.googleusercontent.com/QvKhAg9SyqVZ24DdjJCkuwPVpO4kz7cdbNO3bUxGALrlaeVTxJLLL9zHyaFq-NJ6eLg7",
+            "id": "",
+            "Destroy": "",
+            "TpCord": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 62.400108337402347,
+                "y": -83.99981689453125,
+                "z": 88.60003662109375
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 90.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 29.0,
+                "z": 21.399999618530275
+            },
+            "color": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.4196077883243561
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "",
+            "id": "",
+            "Destroy": "",
+            "TpCord": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 63.200111389160159,
+                "y": -79.19989013671875,
+                "z": 78.6001205444336
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 12.199999809265137,
+                "z": 28.799999237060548
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 0.4196077883243561
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://play-lh.googleusercontent.com/XPM8u_fQrERAQFNp1byQgCphu6_q_WSrJutTm2PF9iQBYbOhVu3ubliUxHaoZVdhyro=w526-h296-rw",
+            "id": "",
+            "Destroy": "",
+            "TpCord": ""
+        },
+        {
+            "folderLocation": "mapcreator/cube",
+            "position": {
+                "x": 50.0001106262207,
+                "y": -79.19989013671875,
+                "z": 89.2000503540039
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 12.199999809265137,
+                "z": 21.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 0.4196077883243561
+            },
+            "isObject": false,
+            "isRigidbody": false,
+            "isCollider": false,
+            "texture": "https://play-lh.googleusercontent.com/XPM8u_fQrERAQFNp1byQgCphu6_q_WSrJutTm2PF9iQBYbOhVu3ubliUxHaoZVdhyro=w526-h296-rw",
+            "id": "",
+            "Destroy": "",
+            "TpCord": ""
+        }
+    ]
+}

@@ -163,11 +163,18 @@
       "fileUrl": "https://raw.githubusercontent.com/dani1701d/newode-workshop-mods/refs/heads/main/maps/Старый замок.eggodemap"
     },
     {
-      "name": "Editor Assets",
+      "name": "Editor Assets - Classic Collection",
       "type": "mod",
       "author": "Rasbur",
       "description": "Возвращает те самые модельки, которые раньше были на сайте. Автор модельки sdsdds и model - EpicSUS, teapot - Yarik21YT, а все остальные - Rasbur (Я)",
-      "fileUrl": "https://raw.githubusercontent.com/dani1701d/newode-workshop-mods/refs/heads/main/mods/EditorAssets.zip"
+      "fileUrl": "https://raw.githubusercontent.com/dani1701d/newode-workshop-mods/refs/heads/main/mods/Editor Assets - Classic Collection.zip"
+    },
+    {
+      "name": "Editor Assets - PromGorodok",
+      "type": "mod",
+      "author": "Rasbur и Danoka",
+      "description": "Стыбженный с оригинала мод, и все модельки нужны для карты PromGorodok.",
+      "fileUrl": "https://raw.githubusercontent.com/dani1701d/newode-workshop-mods/refs/heads/main/mods/Editor Assets - Classic Collection.zip"
     },
     {
       "name": "Музыка для карт.",
@@ -189,6 +196,13 @@
       "author": "Mongabox",
       "description": "Мод, который позволяет вашему яйцу летать на V.",
       "fileUrl": "https://raw.githubusercontent.com/dani1701d/newode-workshop-mods/refs/heads/main/mods/NoclipMod.zip"
+    },
+    {
+      "name": "ГмеОды",
+      "type": "mod",
+      "author": "Hixxtor",
+      "description": "Очень крутой мод, добавляющий разные пушки и достижения.",
+      "fileUrl": "https://raw.githubusercontent.com/dani1701d/newode-workshop-mods/refs/heads/main/mods/ГмеОды.zip"
     }
   ]
 }
